@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {FF6647A0-377B-48B8-8DC0-0B6087F2029C}
+database: master
+path: /sitecore/templates/Modesto/JSON Components/Product Page Components/Product Page River/PDP River
+parent: {F560C001-6CF2-4B77-A272-0EFDADFFB200}
+name: PDP River
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
+----version----
+language: en
+version: 1
+revision: 6206d8ab-39e5-4120-8111-242efba8467a
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170926T184335Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6206d8ab-39e5-4120-8111-242efba8467a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170926T191521Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

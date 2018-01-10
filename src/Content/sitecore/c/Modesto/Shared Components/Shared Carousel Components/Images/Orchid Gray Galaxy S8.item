@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {4ACC1184-0DDE-4D7A-8962-13BD0C3A53EE}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Shared Carousel Components/Images/Orchid Gray Galaxy S8
+parent: {BC005751-B3F4-4D0E-B4B3-9585980B0FBF}
+name: Orchid Gray Galaxy S8
+master: {00000000-0000-0000-0000-000000000000}
+template: {5A85B54A-F4BA-45A0-85D7-5B70466672FA}
+templatekey: Carousel Image
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: a8aba467-5c70-44b0-8f30-4da5cc03aedf
+
+----field----
+field: {280BA90C-C7E9-4D8C-AECC-C78CC8BAC2D9}
+name: url
+key: url
+content-length: 100
+
+https://res.cloudinary.com/modesto/image/upload/v1500557445/client/v2/images/S8-Orchid-Gray-Hero.png
+----field----
+field: {996C8E30-B166-4832-931F-3FE09F4E7F20}
+name: alt
+key: alt
+content-length: 18
+
+LIMITED-TIME OFFER
+----field----
+field: {6E74A901-CD2B-485F-A4DC-408E6D39C28E}
+name: alignment
+key: alignment
+content-length: 6
+
+bottom
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170808T173433Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a8aba467-5c70-44b0-8f30-4da5cc03aedf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170815T145650Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

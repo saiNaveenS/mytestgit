@@ -1,0 +1,290 @@
+----item----
+version: 1
+id: {49AE8C45-F5AA-4EBC-82E2-B7E582530A77}
+database: master
+path: /sitecore/content/Modesto/XFINITY Mobile Website/A/Bdoy
+parent: {5542DC54-F879-4255-9E6B-F07F64831389}
+name: Bdoy
+master: {00000000-0000-0000-0000-000000000000}
+template: {1698DFEF-8A2C-48C2-8D46-A35A2ACB3893}
+templatekey: Bdoy
+created: 20171228T184506Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: a4f498bd-1da3-43f5-8afe-f729b11ca5f6
+
+----field----
+field: {3DD0CA7C-99CB-498B-8BBA-83F7A70C1E32}
+name: bringPhone-img-src
+key: bringphone-img-src
+content-length: 18
+
+iPhone8_family.png
+----field----
+field: {494C5F7A-017C-4C31-AE96-FE11B17DB713}
+name: bringPhone-img-alt
+key: bringphone-img-alt
+content-length: 14
+
+iphone8 family
+----field----
+field: {A53B069F-AD64-4870-B749-EB8D92FADEE1}
+name: bringPhone-img-version
+key: bringphone-img-version
+content-length: 11
+
+v1513111253
+----field----
+field: {65EC0797-DDA2-46C4-8ED8-A2E954E8D765}
+name: bringPhone-bringDetails-header
+key: bringphone-bringdetails-header
+content-length: 35
+
+Bring your own iPhone, starting now
+----field----
+field: {45476AFD-19CB-4B0A-B42C-B6721D3ABE3C}
+name: bringPhone-bringDetails-subheader
+key: bringphone-bringdetails-subheader
+content-length: 32
+
+Switch at an XFINITY store today
+----field----
+field: {412FB20A-B9D3-4995-A4F2-9D4ADBB81BBD}
+name: compatibility-header
+key: compatibility-header
+content-length: 19
+
+check compatibility
+----field----
+field: {57BDF9EB-0C56-4B1E-9472-0CB473EDD0B0}
+name: compatibility-description
+key: compatibility-description
+content-length: 28
+
+text1=I%20have%20an&text2=on
+----field----
+field: {B83E17D1-DA8B-436D-9705-28665EC8161D}
+name: compatibilityDetails-notCompatible-img-src
+key: compatibilitydetails-notcompatible-img-src
+content-length: 25
+
+ic_not-compatible_128.svg
+----field----
+field: {9FC06328-7C46-48FF-AD9E-E127FE4E5F49}
+name: compatibilityDetails-notCompatible-img-alt
+key: compatibilitydetails-notcompatible-img-alt
+content-length: 14
+
+not compatible
+----field----
+field: {1F9E0212-96D4-4469-A4D6-9CD45B78C6B6}
+name: compatibilityDetails-notCompatible-img-version
+key: compatibilitydetails-notcompatible-img-version
+content-length: 10
+
+1513112031
+----field----
+field: {45FF4F1E-346E-4E6F-A690-0183AA053FE4}
+name: compatibilityDetails-notCompatible-header
+key: compatibilitydetails-notcompatible-header
+content-length: 38
+
+text1=Your&text2=is%20not%20compatible
+----field----
+field: {CBAB58BD-B313-4245-960B-0968ABCD3B34}
+name: compatibilityDetails-notCompatible-description
+key: compatibilitydetails-notcompatible-description
+content-length: 78
+
+That's okay. You can still trade in your phone or begin shopping for a new one
+----field----
+field: {ED0D6BA2-E852-45CA-A61B-D9105A44EA3F}
+name: compatibilityDetails-notCompatible-tradeInInfoButton-text
+key: compatibilitydetails-notcompatible-tradeininfobutton-text
+content-length: 13
+
+Trade-In Info
+----field----
+field: {E5DEBEC8-EFA6-438E-8AEC-3C4F0D295298}
+name: compatibilityDetails-notCompatible-shopPhones-text
+key: compatibilitydetails-notcompatible-shopphones-text
+content-length: 11
+
+Shop Phones
+----field----
+field: {FDBB327C-2547-417D-97F7-14A9AFEF9A2D}
+name: compatibilityDetails-compatible-img-src
+key: compatibilitydetails-compatible-img-src
+content-length: 23
+
+ic_XFINITYstore_128.svg
+----field----
+field: {01A72A07-E6C0-4827-950A-6E5D56B56EB7}
+name: compatibilityDetails-compatible-img-alt
+key: compatibilitydetails-compatible-img-alt
+content-length: 10
+
+compatible
+----field----
+field: {6885F3CB-5648-400A-9BF5-DA8305B9C0C2}
+name: compatibilityDetails-compatible-img-version
+key: compatibilitydetails-compatible-img-version
+content-length: 10
+
+1513112019
+----field----
+field: {5856964D-92B8-4B62-9CE4-4C89CA4EC0A3}
+name: compatibilityDetails-compatible-instructions
+key: compatibilitydetails-compatible-instructions
+content-length: 414
+
+text1=Unlock%20Your%20phone&text2=Make%20sure%20your%20iPhone%20is%20unlocked%20%28meaning%20it%20accepts%20SIM%20cards%20from%20any%20carrier%29.&text3=Know%20your%20Apple%20ID%20and%20password&text4=Update%20your%20phone%20to%20the%20latest%20version%20of%20iOS&text5=If%20you%27re%20keeping%20your%20number%2C%20you%27ll%20need%20to%20know%20the%20account%20number%20and%20PIN%20from%20your%20previous%20carrier
+----field----
+field: {8C6303AC-91EC-4C99-937D-66440BB309DC}
+name: compatibilityDetails-compatible-unlockButton-text
+key: compatibilitydetails-compatible-unlockbutton-text
+content-length: 25
+
+How do I unlock my phone?
+----field----
+field: {9A60736A-10AF-48F7-8D47-B3F7550111D5}
+name: compatibilityDetails-compatible-findStoreButton-link
+key: compatibilitydetails-compatible-findstorebutton-link
+content-length: 57
+
+https://www.xfinity.com/support/service-center-locations/
+----field----
+field: {1D3F03CB-EFAD-47A7-A605-ECD4AB4E8F85}
+name: compatibilityDetails-compatible-findStoreButton-text
+key: compatibilitydetails-compatible-findstorebutton-text
+content-length: 12
+
+Find a Store
+----field----
+field: {25B4AE1E-99E6-49C8-B074-80D9952F10B2}
+name: checkAnotherPhoneButton-text
+key: checkanotherphonebutton-text
+content-length: 19
+
+Check another phone
+----field----
+field: {1D0A547E-7916-4247-A49C-A5995FDAF281}
+name: questions-header
+key: questions-header
+content-length: 21
+
+Still have questions?
+----field----
+field: {409F1561-5580-475B-AE39-7A51AE7D9BDD}
+name: questions-unlockedPhoneButton-text
+key: questions-unlockedphonebutton-text
+content-length: 25
+
+What’s an unlocked phone?
+----field----
+field: {4A7892E2-93D9-480E-920F-8B7C1FC74E39}
+name: questions-andriodButton-text
+key: questions-andriodbutton-text
+content-length: 23
+
+Can I bring my Android?
+----field----
+field: {BD64B059-87C3-413B-A9D7-8E11DBF6BD02}
+name: questions-compatibleDeviceButton-text
+key: questions-compatibledevicebutton-text
+content-length: 50
+
+Why are some devices compatible and others aren’t?
+----field----
+field: {4ED337E5-C30E-428E-A2F6-8082C515A1FA}
+name: questions-description
+key: questions-description
+content-length: 933
+
+text1=When%20a%20phone%20is%20unlocked%2C%20it%20means%20it%20can%20be%20used%20on%20different%20carriers.%20Many%20phones%20are%20locked%20to%20the%20carrier%20they%20were%20purchased%20from%2C%20but%20can%20usually%20be%20unlocked%20once%20the%20phone%20has%20been%20fully%20paid%20for.%20Check%20with%20your%20current%20carrier%20if%20you%27re%20unsure.%20Only%20unlocked%20phones%20can%20come%20to%20XFINITY%20Mobile.&text2=We%E2%80%99re%20still%20working%20behind%20the%20scenes%20to%20enable%20customers%20to%20bring%20their%20own%20Androids%20to%20XFINITY%20Mobile.%20At%20this%20time%2C%20it%27s%20not%20possible.&text3=Different%20carriers%20use%20different%20network%20technology%2C%20and%20as%20a%20result%2C%20not%20all%20phones%20are%20made%20for%20all%20networks.%20So%20when%20a%20phone%20is%20made%20for%20use%20on%20one%20carrier%2C%20it%20may%20not%20be%20compatible%20with%20the%20technology%20used%20on%20another.
+----field----
+field: {100058DA-6DB9-475B-9344-177B8FB3C225}
+name: questions-link-url
+key: questions-link-url
+content-length: 102
+
+https://www.xfinity.com/mobile/support/article/115000868288/can-i-bring-my-own-phone-to-xfinity-mobile
+----field----
+field: {AFDBE77F-E315-4F39-8612-6DE4DC2280E7}
+name: questions-link-text
+key: questions-link-text
+content-length: 17
+
+See More Q&amp;As
+----field----
+field: {A82565E1-2F23-46D6-8BE1-55D5A898919E}
+name: switch-header
+key: switch-header
+content-length: 20
+
+Why make the switch?
+----field----
+field: {BD9038FF-61BA-4C9B-98D0-E57DAAEC3DA3}
+name: switch-availability
+key: switch-availability
+content-length: 39
+
+Available to XFINITY Internet customers
+----field----
+field: {6C4ED4B2-C23A-4B1B-A40A-2C3B38E6F907}
+name: switch-reason
+key: switch-reason
+content-length: 116
+
+{978B5332-DF79-4D70-B5A3-2E48873ECBE2}|{535D4C34-EEDB-40C0-8D43-AB00F7C9BEFF}|{21045E03-0759-433B-8F43-DDC2A32C8930}
+----field----
+field: {573F0C6E-BAD0-4C04-8758-E06B6CAB7BF9}
+name: link-text
+key: link-text
+content-length: 10
+
+Learn More
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171228T184506Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a4f498bd-1da3-43f5-8afe-f729b11ca5f6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180102T190840Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

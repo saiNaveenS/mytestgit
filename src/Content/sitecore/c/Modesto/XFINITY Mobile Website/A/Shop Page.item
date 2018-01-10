@@ -1,0 +1,1999 @@
+----item----
+version: 1
+id: {7ABD5C68-47A2-4E42-918C-3775F5EC967F}
+database: master
+path: /sitecore/content/Modesto/XFINITY Mobile Website/A/Shop Page
+parent: {5542DC54-F879-4255-9E6B-F07F64831389}
+name: Shop Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {9C981A34-2F3C-487F-AACB-2F0EA777759D}
+templatekey: Shop Page
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 1bc49976-d463-4522-8ea4-88a766dc24e6
+
+----field----
+field: {20807A29-691B-4CF3-84D0-DD2A86619EF1}
+name: tabs-devices-name
+key: tabs-devices-name
+content-length: 7
+
+Devices
+----field----
+field: {B22962FA-D3C7-43FA-8715-60AB67D3811A}
+name: tabs-devices-carousel
+key: tabs-devices-carousel
+content-length: 116
+
+{0A682B0B-EFE3-44A8-AD43-68F669ADCAC1}|{DA9385F7-656F-4841-B1B4-DA137AF19B9E}|{B39966BE-B716-41C4-9D09-0F13910D30CF}
+----field----
+field: {8777FCCF-5060-4D5D-A895-FD248560DB3B}
+name: tabs-devices-footer
+key: tabs-devices-footer
+content-length: 38
+
+{203837E2-5383-4839-B72F-8913CC23E54D}
+----field----
+field: {15037230-E8BB-462E-AFEF-7B3BF6813879}
+name: tabs-accessories-name
+key: tabs-accessories-name
+content-length: 11
+
+Accessories
+----field----
+field: {C69CBE5A-F7E4-446B-99D9-5E03795B8B57}
+name: tabs-accessories-carousel
+key: tabs-accessories-carousel
+content-length: 38
+
+{1C452D03-8D08-4BA9-874A-F17200BC0057}
+----field----
+field: {0D732065-D244-41F4-B179-0209D23FCB66}
+name: tabs-accessories-footer
+key: tabs-accessories-footer
+content-length: 38
+
+{9F8FCE9B-28DC-4A90-8EE2-0EDDAD4871AA}
+----field----
+field: {6185D918-26D7-4FEE-A22F-9569BB215DAC}
+name: defaultFilter
+key: defaultfilter
+content-length: 38
+
+{19FC651F-7A00-4AF8-82D5-D3AACB633A9B}
+----field----
+field: {5658F5EC-210A-4054-8874-C85AC9C3C6CD}
+name: productFilter-name
+key: productfilter-name
+content-length: 8
+
+Sort By:
+----field----
+field: {689CC7DE-2C51-4416-806E-D610DF478411}
+name: productFilter-productSorts
+key: productfilter-productsorts
+content-length: 116
+
+{47B1A786-8374-4680-8DFC-8B1A4C2249B5}|{0CB3A7CB-7F2B-442A-9B9B-038CB361F5D4}|{A5AE6AAE-4012-4927-88A9-1EA6EE4C7DAF}
+----field----
+field: {E1C1FB25-437E-4CD0-B663-230AA6279FEC}
+name: deviceBrandFilter-name
+key: devicebrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {C3BBDEB6-6111-4133-8E8C-A2FBD217CF54}
+name: deviceBrandFilter-deviceBrands
+key: devicebrandfilter-devicebrands
+content-length: 155
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}
+----field----
+field: {9CE0D43D-ECC4-4728-ABD3-03A00337BBC8}
+name: accessoryBrandFilter-name
+key: accessorybrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {BFB88D2A-28C4-4605-8B26-C217A19C1B18}
+name: accessoryBrandFilter-accessoryBrands
+key: accessorybrandfilter-accessorybrands
+content-length: 1013
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{C582BE75-5A69-4879-924A-819E9540AB2D}|{7D1A1A3C-EF5B-422F-AB2E-A1F3392F00B7}|{10CAEDF2-C543-4549-A467-DECE288D1BD7}|{37ED93DE-1F9E-430F-8C74-5AE2FEC59B00}|{7FD71651-17A2-4B28-B470-5F9E6661564E}|{E6A14C9D-6F60-431C-8132-6A1EA8AC6234}|{FED7EB34-D5FB-4E02-AFD9-F93AEF6E6799}|{5412904D-F44D-46A4-8ACE-FC1722099D55}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{3D62DF84-FCD1-41EF-A02E-E84E068DEE65}|{E2252BD0-C731-4363-82EC-53347857BD55}|{030CFFFF-DCF2-4B09-A6DC-43CC7194AEE0}|{1901F7B8-D641-496F-8A93-473B5F01F35A}|{C5514097-1633-448B-BA29-D5A56FF544E3}|{DD33ACC8-4F53-4BCB-B9AE-0D7C46C61DF2}|{710B764D-C6D5-437F-8C59-D6182D515AD5}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}|{0945CA06-233A-4275-8E5B-FC4D492F5436}|{0D000286-02B9-4634-A35E-8ABA0F3EBCB3}|{CE81DC7F-369A-4FB4-A441-7E4FEEE0555D}|{274BB1DC-E0BC-4D26-B27E-4E0CBA06172F}|{5E01BDA0-F8DA-4485-AFB2-352C876CBBC2}|{38117C40-43A8-4B38-B2C5-23709027F743}|{BC7B5A7C-C6EC-49D0-9E07-7F5058B991E0}
+----field----
+field: {9BD5EEC3-9B7D-40F2-B7BB-265943CCDA38}
+name: subCategoriesFilter-name
+key: subcategoriesfilter-name
+content-length: 9
+
+Category:
+----field----
+field: {C9571C5B-7BA0-41DB-B9DD-C77919EFD4BC}
+name: subCategoriesFilter-subCategories
+key: subcategoriesfilter-subcategories
+content-length: 155
+
+{9C11FE02-CB58-453A-BEFF-174CB424EE01}|{F90B6209-6DAF-4CCC-8257-41371AE137E6}|{19BAF57C-1322-4592-8532-84FE872138BA}|{5635B8F8-4EE3-4E69-8C12-BFC7850C4989}
+----field----
+field: {0C5A459A-B3EE-4EC2-A976-83FD1D4CB5E9}
+name: compatibleProductsFilter-name
+key: compatibleproductsfilter-name
+content-length: 16
+
+Compatible With:
+----field----
+field: {FACF42B5-AC13-4446-B375-11E17070386E}
+name: compatibleProductsFilter-compatibleProducts
+key: compatibleproductsfilter-compatibleproducts
+content-length: 506
+
+{6DE98297-1F49-4312-9A51-F9B7A1E27A30}|{E1F23F30-7B32-4278-AB4F-5A8C7AAE72BF}|{D69E4069-9419-4E36-87B6-4F6704E8A4BC}|{1CD55F15-125D-4033-9723-76206BF029FE}|{3C8BB7FC-41DF-4277-96E3-64781AD55CD1}|{56DFDF03-5B43-4121-A6BC-E4059B202BC4}|{FB3270E1-0620-4837-BD48-082D107AE539}|{29B275B1-5401-4A46-BE12-CB7CC4C89EAE}|{29EB48E4-409F-4D11-A38A-C1D23D6F01EA}|{F7FEB6D6-78F7-4CFB-B21A-C35C3EE35209}|{97632807-E787-4716-8B6D-EDC2520EA199}|{E3524243-1A64-4375-A013-914AAB389322}|{5B26E423-4D72-4C99-929D-13F049922213}
+----field----
+field: {18E50CDA-9615-422F-8955-F67B60D5F98E}
+name: comparison-large-name
+key: comparison-large-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {9C81814E-8B09-4F6B-A9E9-D5C4E411BDA0}
+name: comparison-large-version
+key: comparison-large-version
+content-length: 10
+
+1505316520
+----field----
+field: {28A21876-7245-4BFC-B163-17973776964C}
+name: comparison-large-alt
+key: comparison-large-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {7EF26BDA-A033-47FD-AD58-79FB9B204E6B}
+name: comparison-small-name
+key: comparison-small-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {5C529224-062A-416E-B3FB-E170B78D7495}
+name: comparison-small-version
+key: comparison-small-version
+content-length: 10
+
+1505316520
+----field----
+field: {7F1B5FF5-B5C1-4281-AC03-95C096222512}
+name: comparison-small-alt
+key: comparison-small-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {BA09333B-F77A-4E66-B5DD-FE1E44BFB057}
+name: river-large-name
+key: river-large-name
+content-length: 30
+
+iPhone_X_Apple_River_Asset.png
+----field----
+field: {111042D5-8680-4821-9531-1ACE9DBECA7F}
+name: river-large-version
+key: river-large-version
+content-length: 10
+
+1507133158
+----field----
+field: {C544679A-511B-4839-9C63-4517E2DFE9CD}
+name: river-large-alt
+key: river-large-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {37E94929-483E-4988-AB22-C6F701CF6250}
+name: river-small-name
+key: river-small-name
+content-length: 38
+
+iPhone_10_Apple_River_Asset_mobile.png
+----field----
+field: {30B21117-B245-4F6A-882B-6898B73B2539}
+name: river-small-version
+key: river-small-version
+content-length: 10
+
+1507125037
+----field----
+field: {D95A0ADA-8C1D-4CE9-80E7-D3754A6DA075}
+name: river-small-alt
+key: river-small-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {AB62926A-3F12-46E3-AF13-42560C6ADC2A}
+name: river-linkLabel
+key: river-linklabel
+content-length: 23
+
+Compare iPhone models >
+----field----
+field: {AE1BED7E-214D-4F64-BF5E-237A9C3F5B1E}
+name: river-title
+key: river-title
+content-length: 27
+
+Apple iPhone X Key Features
+----field----
+field: {F4A0390C-AA93-4844-B20A-752E1E5F8BEC}
+name: river-href
+key: river-href
+content-length: 19
+
+shop/iphone-compare
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170720T161025Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1bc49976-d463-4522-8ea4-88a766dc24e6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171009T181055Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: a593752d-102d-4239-9af1-4a10a6e0c8f1
+
+----field----
+field: {20807A29-691B-4CF3-84D0-DD2A86619EF1}
+name: tabs-devices-name
+key: tabs-devices-name
+content-length: 7
+
+Devices
+----field----
+field: {B22962FA-D3C7-43FA-8715-60AB67D3811A}
+name: tabs-devices-carousel
+key: tabs-devices-carousel
+content-length: 116
+
+{0A682B0B-EFE3-44A8-AD43-68F669ADCAC1}|{DA9385F7-656F-4841-B1B4-DA137AF19B9E}|{B39966BE-B716-41C4-9D09-0F13910D30CF}
+----field----
+field: {8777FCCF-5060-4D5D-A895-FD248560DB3B}
+name: tabs-devices-footer
+key: tabs-devices-footer
+content-length: 38
+
+{203837E2-5383-4839-B72F-8913CC23E54D}
+----field----
+field: {15037230-E8BB-462E-AFEF-7B3BF6813879}
+name: tabs-accessories-name
+key: tabs-accessories-name
+content-length: 11
+
+Accessories
+----field----
+field: {C69CBE5A-F7E4-446B-99D9-5E03795B8B57}
+name: tabs-accessories-carousel
+key: tabs-accessories-carousel
+content-length: 38
+
+{1C452D03-8D08-4BA9-874A-F17200BC0057}
+----field----
+field: {0D732065-D244-41F4-B179-0209D23FCB66}
+name: tabs-accessories-footer
+key: tabs-accessories-footer
+content-length: 38
+
+{9F8FCE9B-28DC-4A90-8EE2-0EDDAD4871AA}
+----field----
+field: {6185D918-26D7-4FEE-A22F-9569BB215DAC}
+name: defaultFilter
+key: defaultfilter
+content-length: 38
+
+{19FC651F-7A00-4AF8-82D5-D3AACB633A9B}
+----field----
+field: {5658F5EC-210A-4054-8874-C85AC9C3C6CD}
+name: productFilter-name
+key: productfilter-name
+content-length: 8
+
+Sort By:
+----field----
+field: {689CC7DE-2C51-4416-806E-D610DF478411}
+name: productFilter-productSorts
+key: productfilter-productsorts
+content-length: 116
+
+{47B1A786-8374-4680-8DFC-8B1A4C2249B5}|{0CB3A7CB-7F2B-442A-9B9B-038CB361F5D4}|{A5AE6AAE-4012-4927-88A9-1EA6EE4C7DAF}
+----field----
+field: {E1C1FB25-437E-4CD0-B663-230AA6279FEC}
+name: deviceBrandFilter-name
+key: devicebrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {C3BBDEB6-6111-4133-8E8C-A2FBD217CF54}
+name: deviceBrandFilter-deviceBrands
+key: devicebrandfilter-devicebrands
+content-length: 155
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}
+----field----
+field: {9CE0D43D-ECC4-4728-ABD3-03A00337BBC8}
+name: accessoryBrandFilter-name
+key: accessorybrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {BFB88D2A-28C4-4605-8B26-C217A19C1B18}
+name: accessoryBrandFilter-accessoryBrands
+key: accessorybrandfilter-accessorybrands
+content-length: 1013
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{C582BE75-5A69-4879-924A-819E9540AB2D}|{7D1A1A3C-EF5B-422F-AB2E-A1F3392F00B7}|{10CAEDF2-C543-4549-A467-DECE288D1BD7}|{37ED93DE-1F9E-430F-8C74-5AE2FEC59B00}|{7FD71651-17A2-4B28-B470-5F9E6661564E}|{E6A14C9D-6F60-431C-8132-6A1EA8AC6234}|{FED7EB34-D5FB-4E02-AFD9-F93AEF6E6799}|{5412904D-F44D-46A4-8ACE-FC1722099D55}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{3D62DF84-FCD1-41EF-A02E-E84E068DEE65}|{E2252BD0-C731-4363-82EC-53347857BD55}|{030CFFFF-DCF2-4B09-A6DC-43CC7194AEE0}|{1901F7B8-D641-496F-8A93-473B5F01F35A}|{C5514097-1633-448B-BA29-D5A56FF544E3}|{DD33ACC8-4F53-4BCB-B9AE-0D7C46C61DF2}|{710B764D-C6D5-437F-8C59-D6182D515AD5}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}|{0945CA06-233A-4275-8E5B-FC4D492F5436}|{0D000286-02B9-4634-A35E-8ABA0F3EBCB3}|{CE81DC7F-369A-4FB4-A441-7E4FEEE0555D}|{274BB1DC-E0BC-4D26-B27E-4E0CBA06172F}|{5E01BDA0-F8DA-4485-AFB2-352C876CBBC2}|{38117C40-43A8-4B38-B2C5-23709027F743}|{BC7B5A7C-C6EC-49D0-9E07-7F5058B991E0}
+----field----
+field: {9BD5EEC3-9B7D-40F2-B7BB-265943CCDA38}
+name: subCategoriesFilter-name
+key: subcategoriesfilter-name
+content-length: 9
+
+Category:
+----field----
+field: {C9571C5B-7BA0-41DB-B9DD-C77919EFD4BC}
+name: subCategoriesFilter-subCategories
+key: subcategoriesfilter-subcategories
+content-length: 155
+
+{9C11FE02-CB58-453A-BEFF-174CB424EE01}|{F90B6209-6DAF-4CCC-8257-41371AE137E6}|{19BAF57C-1322-4592-8532-84FE872138BA}|{5635B8F8-4EE3-4E69-8C12-BFC7850C4989}
+----field----
+field: {0C5A459A-B3EE-4EC2-A976-83FD1D4CB5E9}
+name: compatibleProductsFilter-name
+key: compatibleproductsfilter-name
+content-length: 16
+
+Compatible With:
+----field----
+field: {FACF42B5-AC13-4446-B375-11E17070386E}
+name: compatibleProductsFilter-compatibleProducts
+key: compatibleproductsfilter-compatibleproducts
+content-length: 506
+
+{6DE98297-1F49-4312-9A51-F9B7A1E27A30}|{E1F23F30-7B32-4278-AB4F-5A8C7AAE72BF}|{D69E4069-9419-4E36-87B6-4F6704E8A4BC}|{1CD55F15-125D-4033-9723-76206BF029FE}|{3C8BB7FC-41DF-4277-96E3-64781AD55CD1}|{56DFDF03-5B43-4121-A6BC-E4059B202BC4}|{FB3270E1-0620-4837-BD48-082D107AE539}|{29B275B1-5401-4A46-BE12-CB7CC4C89EAE}|{29EB48E4-409F-4D11-A38A-C1D23D6F01EA}|{F7FEB6D6-78F7-4CFB-B21A-C35C3EE35209}|{97632807-E787-4716-8B6D-EDC2520EA199}|{E3524243-1A64-4375-A013-914AAB389322}|{5B26E423-4D72-4C99-929D-13F049922213}
+----field----
+field: {18E50CDA-9615-422F-8955-F67B60D5F98E}
+name: comparison-large-name
+key: comparison-large-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {9C81814E-8B09-4F6B-A9E9-D5C4E411BDA0}
+name: comparison-large-version
+key: comparison-large-version
+content-length: 10
+
+1505316520
+----field----
+field: {28A21876-7245-4BFC-B163-17973776964C}
+name: comparison-large-alt
+key: comparison-large-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {7EF26BDA-A033-47FD-AD58-79FB9B204E6B}
+name: comparison-small-name
+key: comparison-small-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {5C529224-062A-416E-B3FB-E170B78D7495}
+name: comparison-small-version
+key: comparison-small-version
+content-length: 10
+
+1505316520
+----field----
+field: {7F1B5FF5-B5C1-4281-AC03-95C096222512}
+name: comparison-small-alt
+key: comparison-small-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {BA09333B-F77A-4E66-B5DD-FE1E44BFB057}
+name: river-large-name
+key: river-large-name
+content-length: 30
+
+iPhone_X_Apple_River_Asset.png
+----field----
+field: {111042D5-8680-4821-9531-1ACE9DBECA7F}
+name: river-large-version
+key: river-large-version
+content-length: 10
+
+1507133158
+----field----
+field: {C544679A-511B-4839-9C63-4517E2DFE9CD}
+name: river-large-alt
+key: river-large-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {37E94929-483E-4988-AB22-C6F701CF6250}
+name: river-small-name
+key: river-small-name
+content-length: 38
+
+iPhone_10_Apple_River_Asset_mobile.png
+----field----
+field: {30B21117-B245-4F6A-882B-6898B73B2539}
+name: river-small-version
+key: river-small-version
+content-length: 10
+
+1507125037
+----field----
+field: {D95A0ADA-8C1D-4CE9-80E7-D3754A6DA075}
+name: river-small-alt
+key: river-small-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {AB62926A-3F12-46E3-AF13-42560C6ADC2A}
+name: river-linkLabel
+key: river-linklabel
+content-length: 23
+
+Compare iPhone models >
+----field----
+field: {AE1BED7E-214D-4F64-BF5E-237A9C3F5B1E}
+name: river-title
+key: river-title
+content-length: 27
+
+Apple iPhone X Key Features
+----field----
+field: {F4A0390C-AA93-4844-B20A-752E1E5F8BEC}
+name: river-href
+key: river-href
+content-length: 19
+
+shop/iphone-compare
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171012T205252Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171012T205252Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+cable\szhao200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a593752d-102d-4239-9af1-4a10a6e0c8f1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171012T205309Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+cable\szhao200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 389eff7a-bc83-4472-b656-6d0fd58a859a
+
+----field----
+field: {20807A29-691B-4CF3-84D0-DD2A86619EF1}
+name: tabs-devices-name
+key: tabs-devices-name
+content-length: 7
+
+Devices
+----field----
+field: {B22962FA-D3C7-43FA-8715-60AB67D3811A}
+name: tabs-devices-carousel
+key: tabs-devices-carousel
+content-length: 116
+
+{B39966BE-B716-41C4-9D09-0F13910D30CF}|{0A682B0B-EFE3-44A8-AD43-68F669ADCAC1}|{DA9385F7-656F-4841-B1B4-DA137AF19B9E}
+----field----
+field: {8777FCCF-5060-4D5D-A895-FD248560DB3B}
+name: tabs-devices-footer
+key: tabs-devices-footer
+content-length: 38
+
+{203837E2-5383-4839-B72F-8913CC23E54D}
+----field----
+field: {15037230-E8BB-462E-AFEF-7B3BF6813879}
+name: tabs-accessories-name
+key: tabs-accessories-name
+content-length: 11
+
+Accessories
+----field----
+field: {C69CBE5A-F7E4-446B-99D9-5E03795B8B57}
+name: tabs-accessories-carousel
+key: tabs-accessories-carousel
+content-length: 38
+
+{1C452D03-8D08-4BA9-874A-F17200BC0057}
+----field----
+field: {0D732065-D244-41F4-B179-0209D23FCB66}
+name: tabs-accessories-footer
+key: tabs-accessories-footer
+content-length: 38
+
+{7125ACD8-0C87-4EE4-82CB-805AC8EE0586}
+----field----
+field: {6185D918-26D7-4FEE-A22F-9569BB215DAC}
+name: defaultFilter
+key: defaultfilter
+content-length: 38
+
+{19FC651F-7A00-4AF8-82D5-D3AACB633A9B}
+----field----
+field: {5658F5EC-210A-4054-8874-C85AC9C3C6CD}
+name: productFilter-name
+key: productfilter-name
+content-length: 8
+
+Sort By:
+----field----
+field: {689CC7DE-2C51-4416-806E-D610DF478411}
+name: productFilter-productSorts
+key: productfilter-productsorts
+content-length: 116
+
+{47B1A786-8374-4680-8DFC-8B1A4C2249B5}|{0CB3A7CB-7F2B-442A-9B9B-038CB361F5D4}|{A5AE6AAE-4012-4927-88A9-1EA6EE4C7DAF}
+----field----
+field: {E1C1FB25-437E-4CD0-B663-230AA6279FEC}
+name: deviceBrandFilter-name
+key: devicebrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {C3BBDEB6-6111-4133-8E8C-A2FBD217CF54}
+name: deviceBrandFilter-deviceBrands
+key: devicebrandfilter-devicebrands
+content-length: 155
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}
+----field----
+field: {9CE0D43D-ECC4-4728-ABD3-03A00337BBC8}
+name: accessoryBrandFilter-name
+key: accessorybrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {BFB88D2A-28C4-4605-8B26-C217A19C1B18}
+name: accessoryBrandFilter-accessoryBrands
+key: accessorybrandfilter-accessorybrands
+content-length: 1013
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{C582BE75-5A69-4879-924A-819E9540AB2D}|{7D1A1A3C-EF5B-422F-AB2E-A1F3392F00B7}|{10CAEDF2-C543-4549-A467-DECE288D1BD7}|{37ED93DE-1F9E-430F-8C74-5AE2FEC59B00}|{7FD71651-17A2-4B28-B470-5F9E6661564E}|{E6A14C9D-6F60-431C-8132-6A1EA8AC6234}|{FED7EB34-D5FB-4E02-AFD9-F93AEF6E6799}|{5412904D-F44D-46A4-8ACE-FC1722099D55}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{3D62DF84-FCD1-41EF-A02E-E84E068DEE65}|{E2252BD0-C731-4363-82EC-53347857BD55}|{030CFFFF-DCF2-4B09-A6DC-43CC7194AEE0}|{1901F7B8-D641-496F-8A93-473B5F01F35A}|{C5514097-1633-448B-BA29-D5A56FF544E3}|{DD33ACC8-4F53-4BCB-B9AE-0D7C46C61DF2}|{710B764D-C6D5-437F-8C59-D6182D515AD5}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}|{0945CA06-233A-4275-8E5B-FC4D492F5436}|{0D000286-02B9-4634-A35E-8ABA0F3EBCB3}|{CE81DC7F-369A-4FB4-A441-7E4FEEE0555D}|{274BB1DC-E0BC-4D26-B27E-4E0CBA06172F}|{5E01BDA0-F8DA-4485-AFB2-352C876CBBC2}|{38117C40-43A8-4B38-B2C5-23709027F743}|{BC7B5A7C-C6EC-49D0-9E07-7F5058B991E0}
+----field----
+field: {9BD5EEC3-9B7D-40F2-B7BB-265943CCDA38}
+name: subCategoriesFilter-name
+key: subcategoriesfilter-name
+content-length: 9
+
+Category:
+----field----
+field: {C9571C5B-7BA0-41DB-B9DD-C77919EFD4BC}
+name: subCategoriesFilter-subCategories
+key: subcategoriesfilter-subcategories
+content-length: 155
+
+{9C11FE02-CB58-453A-BEFF-174CB424EE01}|{F90B6209-6DAF-4CCC-8257-41371AE137E6}|{19BAF57C-1322-4592-8532-84FE872138BA}|{5635B8F8-4EE3-4E69-8C12-BFC7850C4989}
+----field----
+field: {0C5A459A-B3EE-4EC2-A976-83FD1D4CB5E9}
+name: compatibleProductsFilter-name
+key: compatibleproductsfilter-name
+content-length: 16
+
+Compatible With:
+----field----
+field: {FACF42B5-AC13-4446-B375-11E17070386E}
+name: compatibleProductsFilter-compatibleProducts
+key: compatibleproductsfilter-compatibleproducts
+content-length: 506
+
+{6DE98297-1F49-4312-9A51-F9B7A1E27A30}|{E1F23F30-7B32-4278-AB4F-5A8C7AAE72BF}|{D69E4069-9419-4E36-87B6-4F6704E8A4BC}|{1CD55F15-125D-4033-9723-76206BF029FE}|{3C8BB7FC-41DF-4277-96E3-64781AD55CD1}|{56DFDF03-5B43-4121-A6BC-E4059B202BC4}|{FB3270E1-0620-4837-BD48-082D107AE539}|{29B275B1-5401-4A46-BE12-CB7CC4C89EAE}|{29EB48E4-409F-4D11-A38A-C1D23D6F01EA}|{F7FEB6D6-78F7-4CFB-B21A-C35C3EE35209}|{97632807-E787-4716-8B6D-EDC2520EA199}|{E3524243-1A64-4375-A013-914AAB389322}|{5B26E423-4D72-4C99-929D-13F049922213}
+----field----
+field: {18E50CDA-9615-422F-8955-F67B60D5F98E}
+name: comparison-large-name
+key: comparison-large-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {9C81814E-8B09-4F6B-A9E9-D5C4E411BDA0}
+name: comparison-large-version
+key: comparison-large-version
+content-length: 10
+
+1505316520
+----field----
+field: {28A21876-7245-4BFC-B163-17973776964C}
+name: comparison-large-alt
+key: comparison-large-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {7EF26BDA-A033-47FD-AD58-79FB9B204E6B}
+name: comparison-small-name
+key: comparison-small-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {5C529224-062A-416E-B3FB-E170B78D7495}
+name: comparison-small-version
+key: comparison-small-version
+content-length: 10
+
+1505316520
+----field----
+field: {7F1B5FF5-B5C1-4281-AC03-95C096222512}
+name: comparison-small-alt
+key: comparison-small-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {BA09333B-F77A-4E66-B5DD-FE1E44BFB057}
+name: river-large-name
+key: river-large-name
+content-length: 30
+
+iPhone_X_Apple_River_Asset.png
+----field----
+field: {111042D5-8680-4821-9531-1ACE9DBECA7F}
+name: river-large-version
+key: river-large-version
+content-length: 10
+
+1507133158
+----field----
+field: {C544679A-511B-4839-9C63-4517E2DFE9CD}
+name: river-large-alt
+key: river-large-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {37E94929-483E-4988-AB22-C6F701CF6250}
+name: river-small-name
+key: river-small-name
+content-length: 38
+
+iPhone_10_Apple_River_Asset_mobile.png
+----field----
+field: {30B21117-B245-4F6A-882B-6898B73B2539}
+name: river-small-version
+key: river-small-version
+content-length: 10
+
+1507125037
+----field----
+field: {D95A0ADA-8C1D-4CE9-80E7-D3754A6DA075}
+name: river-small-alt
+key: river-small-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {AB62926A-3F12-46E3-AF13-42560C6ADC2A}
+name: river-linkLabel
+key: river-linklabel
+content-length: 23
+
+Compare iPhone models >
+----field----
+field: {AE1BED7E-214D-4F64-BF5E-237A9C3F5B1E}
+name: river-title
+key: river-title
+content-length: 27
+
+Apple iPhone X Key Features
+----field----
+field: {F4A0390C-AA93-4844-B20A-752E1E5F8BEC}
+name: river-href
+key: river-href
+content-length: 19
+
+shop/iphone-compare
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171024T150711Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171024T150711Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\tmaida200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+389eff7a-bc83-4472-b656-6d0fd58a859a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171024T152201Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\tmaida200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: ac1f373a-839b-4a04-8544-f9555e98048b
+
+----field----
+field: {20807A29-691B-4CF3-84D0-DD2A86619EF1}
+name: tabs-devices-name
+key: tabs-devices-name
+content-length: 7
+
+Devices
+----field----
+field: {B22962FA-D3C7-43FA-8715-60AB67D3811A}
+name: tabs-devices-carousel
+key: tabs-devices-carousel
+content-length: 116
+
+{B39966BE-B716-41C4-9D09-0F13910D30CF}|{0A682B0B-EFE3-44A8-AD43-68F669ADCAC1}|{DA9385F7-656F-4841-B1B4-DA137AF19B9E}
+----field----
+field: {8777FCCF-5060-4D5D-A895-FD248560DB3B}
+name: tabs-devices-footer
+key: tabs-devices-footer
+content-length: 38
+
+{203837E2-5383-4839-B72F-8913CC23E54D}
+----field----
+field: {15037230-E8BB-462E-AFEF-7B3BF6813879}
+name: tabs-accessories-name
+key: tabs-accessories-name
+content-length: 11
+
+Accessories
+----field----
+field: {C69CBE5A-F7E4-446B-99D9-5E03795B8B57}
+name: tabs-accessories-carousel
+key: tabs-accessories-carousel
+content-length: 38
+
+{1C452D03-8D08-4BA9-874A-F17200BC0057}
+----field----
+field: {0D732065-D244-41F4-B179-0209D23FCB66}
+name: tabs-accessories-footer
+key: tabs-accessories-footer
+content-length: 38
+
+{7125ACD8-0C87-4EE4-82CB-805AC8EE0586}
+----field----
+field: {6185D918-26D7-4FEE-A22F-9569BB215DAC}
+name: defaultFilter
+key: defaultfilter
+content-length: 38
+
+{19FC651F-7A00-4AF8-82D5-D3AACB633A9B}
+----field----
+field: {5658F5EC-210A-4054-8874-C85AC9C3C6CD}
+name: productFilter-name
+key: productfilter-name
+content-length: 8
+
+Sort By:
+----field----
+field: {689CC7DE-2C51-4416-806E-D610DF478411}
+name: productFilter-productSorts
+key: productfilter-productsorts
+content-length: 116
+
+{47B1A786-8374-4680-8DFC-8B1A4C2249B5}|{0CB3A7CB-7F2B-442A-9B9B-038CB361F5D4}|{A5AE6AAE-4012-4927-88A9-1EA6EE4C7DAF}
+----field----
+field: {E1C1FB25-437E-4CD0-B663-230AA6279FEC}
+name: deviceBrandFilter-name
+key: devicebrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {C3BBDEB6-6111-4133-8E8C-A2FBD217CF54}
+name: deviceBrandFilter-deviceBrands
+key: devicebrandfilter-devicebrands
+content-length: 155
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}
+----field----
+field: {9CE0D43D-ECC4-4728-ABD3-03A00337BBC8}
+name: accessoryBrandFilter-name
+key: accessorybrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {BFB88D2A-28C4-4605-8B26-C217A19C1B18}
+name: accessoryBrandFilter-accessoryBrands
+key: accessorybrandfilter-accessorybrands
+content-length: 1013
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{C582BE75-5A69-4879-924A-819E9540AB2D}|{7D1A1A3C-EF5B-422F-AB2E-A1F3392F00B7}|{10CAEDF2-C543-4549-A467-DECE288D1BD7}|{37ED93DE-1F9E-430F-8C74-5AE2FEC59B00}|{7FD71651-17A2-4B28-B470-5F9E6661564E}|{E6A14C9D-6F60-431C-8132-6A1EA8AC6234}|{FED7EB34-D5FB-4E02-AFD9-F93AEF6E6799}|{5412904D-F44D-46A4-8ACE-FC1722099D55}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{3D62DF84-FCD1-41EF-A02E-E84E068DEE65}|{E2252BD0-C731-4363-82EC-53347857BD55}|{030CFFFF-DCF2-4B09-A6DC-43CC7194AEE0}|{1901F7B8-D641-496F-8A93-473B5F01F35A}|{C5514097-1633-448B-BA29-D5A56FF544E3}|{DD33ACC8-4F53-4BCB-B9AE-0D7C46C61DF2}|{710B764D-C6D5-437F-8C59-D6182D515AD5}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}|{0945CA06-233A-4275-8E5B-FC4D492F5436}|{0D000286-02B9-4634-A35E-8ABA0F3EBCB3}|{CE81DC7F-369A-4FB4-A441-7E4FEEE0555D}|{274BB1DC-E0BC-4D26-B27E-4E0CBA06172F}|{5E01BDA0-F8DA-4485-AFB2-352C876CBBC2}|{38117C40-43A8-4B38-B2C5-23709027F743}|{BC7B5A7C-C6EC-49D0-9E07-7F5058B991E0}
+----field----
+field: {9BD5EEC3-9B7D-40F2-B7BB-265943CCDA38}
+name: subCategoriesFilter-name
+key: subcategoriesfilter-name
+content-length: 9
+
+Category:
+----field----
+field: {C9571C5B-7BA0-41DB-B9DD-C77919EFD4BC}
+name: subCategoriesFilter-subCategories
+key: subcategoriesfilter-subcategories
+content-length: 155
+
+{9C11FE02-CB58-453A-BEFF-174CB424EE01}|{F90B6209-6DAF-4CCC-8257-41371AE137E6}|{19BAF57C-1322-4592-8532-84FE872138BA}|{5635B8F8-4EE3-4E69-8C12-BFC7850C4989}
+----field----
+field: {0C5A459A-B3EE-4EC2-A976-83FD1D4CB5E9}
+name: compatibleProductsFilter-name
+key: compatibleproductsfilter-name
+content-length: 16
+
+Compatible With:
+----field----
+field: {FACF42B5-AC13-4446-B375-11E17070386E}
+name: compatibleProductsFilter-compatibleProducts
+key: compatibleproductsfilter-compatibleproducts
+content-length: 506
+
+{6DE98297-1F49-4312-9A51-F9B7A1E27A30}|{E1F23F30-7B32-4278-AB4F-5A8C7AAE72BF}|{D69E4069-9419-4E36-87B6-4F6704E8A4BC}|{1CD55F15-125D-4033-9723-76206BF029FE}|{3C8BB7FC-41DF-4277-96E3-64781AD55CD1}|{56DFDF03-5B43-4121-A6BC-E4059B202BC4}|{FB3270E1-0620-4837-BD48-082D107AE539}|{29B275B1-5401-4A46-BE12-CB7CC4C89EAE}|{29EB48E4-409F-4D11-A38A-C1D23D6F01EA}|{F7FEB6D6-78F7-4CFB-B21A-C35C3EE35209}|{97632807-E787-4716-8B6D-EDC2520EA199}|{E3524243-1A64-4375-A013-914AAB389322}|{5B26E423-4D72-4C99-929D-13F049922213}
+----field----
+field: {18E50CDA-9615-422F-8955-F67B60D5F98E}
+name: comparison-large-name
+key: comparison-large-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {9C81814E-8B09-4F6B-A9E9-D5C4E411BDA0}
+name: comparison-large-version
+key: comparison-large-version
+content-length: 10
+
+1505316520
+----field----
+field: {28A21876-7245-4BFC-B163-17973776964C}
+name: comparison-large-alt
+key: comparison-large-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {7EF26BDA-A033-47FD-AD58-79FB9B204E6B}
+name: comparison-small-name
+key: comparison-small-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {5C529224-062A-416E-B3FB-E170B78D7495}
+name: comparison-small-version
+key: comparison-small-version
+content-length: 10
+
+1505316520
+----field----
+field: {7F1B5FF5-B5C1-4281-AC03-95C096222512}
+name: comparison-small-alt
+key: comparison-small-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {BA09333B-F77A-4E66-B5DD-FE1E44BFB057}
+name: river-large-name
+key: river-large-name
+content-length: 30
+
+iPhone_X_Apple_River_Asset.png
+----field----
+field: {111042D5-8680-4821-9531-1ACE9DBECA7F}
+name: river-large-version
+key: river-large-version
+content-length: 10
+
+1507133158
+----field----
+field: {C544679A-511B-4839-9C63-4517E2DFE9CD}
+name: river-large-alt
+key: river-large-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {37E94929-483E-4988-AB22-C6F701CF6250}
+name: river-small-name
+key: river-small-name
+content-length: 38
+
+iPhone_10_Apple_River_Asset_mobile.png
+----field----
+field: {30B21117-B245-4F6A-882B-6898B73B2539}
+name: river-small-version
+key: river-small-version
+content-length: 10
+
+1507125037
+----field----
+field: {D95A0ADA-8C1D-4CE9-80E7-D3754A6DA075}
+name: river-small-alt
+key: river-small-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {AB62926A-3F12-46E3-AF13-42560C6ADC2A}
+name: river-linkLabel
+key: river-linklabel
+content-length: 23
+
+Compare iPhone models >
+----field----
+field: {AE1BED7E-214D-4F64-BF5E-237A9C3F5B1E}
+name: river-title
+key: river-title
+content-length: 27
+
+Apple iPhone X Key Features
+----field----
+field: {F4A0390C-AA93-4844-B20A-752E1E5F8BEC}
+name: river-href
+key: river-href
+content-length: 19
+
+shop/iphone-compare
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171025T143716Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171025T143716Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+cable\szhao200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ac1f373a-839b-4a04-8544-f9555e98048b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171025T144427Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+cable\szhao200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 1226ddc3-87f1-4336-9aa4-9274fa56a5b0
+
+----field----
+field: {20807A29-691B-4CF3-84D0-DD2A86619EF1}
+name: tabs-devices-name
+key: tabs-devices-name
+content-length: 7
+
+Devices
+----field----
+field: {B22962FA-D3C7-43FA-8715-60AB67D3811A}
+name: tabs-devices-carousel
+key: tabs-devices-carousel
+content-length: 116
+
+{B39966BE-B716-41C4-9D09-0F13910D30CF}|{0A682B0B-EFE3-44A8-AD43-68F669ADCAC1}|{DA9385F7-656F-4841-B1B4-DA137AF19B9E}
+----field----
+field: {8777FCCF-5060-4D5D-A895-FD248560DB3B}
+name: tabs-devices-footer
+key: tabs-devices-footer
+content-length: 38
+
+{203837E2-5383-4839-B72F-8913CC23E54D}
+----field----
+field: {15037230-E8BB-462E-AFEF-7B3BF6813879}
+name: tabs-accessories-name
+key: tabs-accessories-name
+content-length: 11
+
+Accessories
+----field----
+field: {C69CBE5A-F7E4-446B-99D9-5E03795B8B57}
+name: tabs-accessories-carousel
+key: tabs-accessories-carousel
+content-length: 38
+
+{1C452D03-8D08-4BA9-874A-F17200BC0057}
+----field----
+field: {0D732065-D244-41F4-B179-0209D23FCB66}
+name: tabs-accessories-footer
+key: tabs-accessories-footer
+content-length: 38
+
+{7125ACD8-0C87-4EE4-82CB-805AC8EE0586}
+----field----
+field: {6185D918-26D7-4FEE-A22F-9569BB215DAC}
+name: defaultFilter
+key: defaultfilter
+content-length: 38
+
+{19FC651F-7A00-4AF8-82D5-D3AACB633A9B}
+----field----
+field: {5658F5EC-210A-4054-8874-C85AC9C3C6CD}
+name: productFilter-name
+key: productfilter-name
+content-length: 8
+
+Sort By:
+----field----
+field: {689CC7DE-2C51-4416-806E-D610DF478411}
+name: productFilter-productSorts
+key: productfilter-productsorts
+content-length: 116
+
+{47B1A786-8374-4680-8DFC-8B1A4C2249B5}|{0CB3A7CB-7F2B-442A-9B9B-038CB361F5D4}|{A5AE6AAE-4012-4927-88A9-1EA6EE4C7DAF}
+----field----
+field: {E1C1FB25-437E-4CD0-B663-230AA6279FEC}
+name: deviceBrandFilter-name
+key: devicebrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {C3BBDEB6-6111-4133-8E8C-A2FBD217CF54}
+name: deviceBrandFilter-deviceBrands
+key: devicebrandfilter-devicebrands
+content-length: 155
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}
+----field----
+field: {9CE0D43D-ECC4-4728-ABD3-03A00337BBC8}
+name: accessoryBrandFilter-name
+key: accessorybrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {BFB88D2A-28C4-4605-8B26-C217A19C1B18}
+name: accessoryBrandFilter-accessoryBrands
+key: accessorybrandfilter-accessorybrands
+content-length: 1013
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{C582BE75-5A69-4879-924A-819E9540AB2D}|{7D1A1A3C-EF5B-422F-AB2E-A1F3392F00B7}|{10CAEDF2-C543-4549-A467-DECE288D1BD7}|{37ED93DE-1F9E-430F-8C74-5AE2FEC59B00}|{7FD71651-17A2-4B28-B470-5F9E6661564E}|{E6A14C9D-6F60-431C-8132-6A1EA8AC6234}|{FED7EB34-D5FB-4E02-AFD9-F93AEF6E6799}|{5412904D-F44D-46A4-8ACE-FC1722099D55}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{3D62DF84-FCD1-41EF-A02E-E84E068DEE65}|{E2252BD0-C731-4363-82EC-53347857BD55}|{030CFFFF-DCF2-4B09-A6DC-43CC7194AEE0}|{1901F7B8-D641-496F-8A93-473B5F01F35A}|{C5514097-1633-448B-BA29-D5A56FF544E3}|{DD33ACC8-4F53-4BCB-B9AE-0D7C46C61DF2}|{710B764D-C6D5-437F-8C59-D6182D515AD5}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}|{0945CA06-233A-4275-8E5B-FC4D492F5436}|{0D000286-02B9-4634-A35E-8ABA0F3EBCB3}|{CE81DC7F-369A-4FB4-A441-7E4FEEE0555D}|{274BB1DC-E0BC-4D26-B27E-4E0CBA06172F}|{5E01BDA0-F8DA-4485-AFB2-352C876CBBC2}|{38117C40-43A8-4B38-B2C5-23709027F743}|{BC7B5A7C-C6EC-49D0-9E07-7F5058B991E0}
+----field----
+field: {9BD5EEC3-9B7D-40F2-B7BB-265943CCDA38}
+name: subCategoriesFilter-name
+key: subcategoriesfilter-name
+content-length: 9
+
+Category:
+----field----
+field: {C9571C5B-7BA0-41DB-B9DD-C77919EFD4BC}
+name: subCategoriesFilter-subCategories
+key: subcategoriesfilter-subcategories
+content-length: 155
+
+{9C11FE02-CB58-453A-BEFF-174CB424EE01}|{F90B6209-6DAF-4CCC-8257-41371AE137E6}|{19BAF57C-1322-4592-8532-84FE872138BA}|{5635B8F8-4EE3-4E69-8C12-BFC7850C4989}
+----field----
+field: {0C5A459A-B3EE-4EC2-A976-83FD1D4CB5E9}
+name: compatibleProductsFilter-name
+key: compatibleproductsfilter-name
+content-length: 16
+
+Compatible With:
+----field----
+field: {FACF42B5-AC13-4446-B375-11E17070386E}
+name: compatibleProductsFilter-compatibleProducts
+key: compatibleproductsfilter-compatibleproducts
+content-length: 506
+
+{6DE98297-1F49-4312-9A51-F9B7A1E27A30}|{E1F23F30-7B32-4278-AB4F-5A8C7AAE72BF}|{D69E4069-9419-4E36-87B6-4F6704E8A4BC}|{1CD55F15-125D-4033-9723-76206BF029FE}|{3C8BB7FC-41DF-4277-96E3-64781AD55CD1}|{56DFDF03-5B43-4121-A6BC-E4059B202BC4}|{FB3270E1-0620-4837-BD48-082D107AE539}|{29B275B1-5401-4A46-BE12-CB7CC4C89EAE}|{29EB48E4-409F-4D11-A38A-C1D23D6F01EA}|{F7FEB6D6-78F7-4CFB-B21A-C35C3EE35209}|{97632807-E787-4716-8B6D-EDC2520EA199}|{E3524243-1A64-4375-A013-914AAB389322}|{5B26E423-4D72-4C99-929D-13F049922213}
+----field----
+field: {18E50CDA-9615-422F-8955-F67B60D5F98E}
+name: comparison-large-name
+key: comparison-large-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {9C81814E-8B09-4F6B-A9E9-D5C4E411BDA0}
+name: comparison-large-version
+key: comparison-large-version
+content-length: 10
+
+1505316520
+----field----
+field: {28A21876-7245-4BFC-B163-17973776964C}
+name: comparison-large-alt
+key: comparison-large-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {7EF26BDA-A033-47FD-AD58-79FB9B204E6B}
+name: comparison-small-name
+key: comparison-small-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {5C529224-062A-416E-B3FB-E170B78D7495}
+name: comparison-small-version
+key: comparison-small-version
+content-length: 10
+
+1505316520
+----field----
+field: {7F1B5FF5-B5C1-4281-AC03-95C096222512}
+name: comparison-small-alt
+key: comparison-small-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {BA09333B-F77A-4E66-B5DD-FE1E44BFB057}
+name: river-large-name
+key: river-large-name
+content-length: 30
+
+iPhone_X_Apple_River_Asset.png
+----field----
+field: {111042D5-8680-4821-9531-1ACE9DBECA7F}
+name: river-large-version
+key: river-large-version
+content-length: 10
+
+1507133158
+----field----
+field: {C544679A-511B-4839-9C63-4517E2DFE9CD}
+name: river-large-alt
+key: river-large-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {37E94929-483E-4988-AB22-C6F701CF6250}
+name: river-small-name
+key: river-small-name
+content-length: 38
+
+iPhone_10_Apple_River_Asset_mobile.png
+----field----
+field: {30B21117-B245-4F6A-882B-6898B73B2539}
+name: river-small-version
+key: river-small-version
+content-length: 10
+
+1507125037
+----field----
+field: {D95A0ADA-8C1D-4CE9-80E7-D3754A6DA075}
+name: river-small-alt
+key: river-small-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {AB62926A-3F12-46E3-AF13-42560C6ADC2A}
+name: river-linkLabel
+key: river-linklabel
+content-length: 23
+
+Compare iPhone models >
+----field----
+field: {AE1BED7E-214D-4F64-BF5E-237A9C3F5B1E}
+name: river-title
+key: river-title
+content-length: 27
+
+Apple iPhone X Key Features
+----field----
+field: {F4A0390C-AA93-4844-B20A-752E1E5F8BEC}
+name: river-href
+key: river-href
+content-length: 19
+
+shop/iphone-compare
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171025T144815Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171025T144815Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+cable\szhao200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1226ddc3-87f1-4336-9aa4-9274fa56a5b0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171025T145006Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+cable\szhao200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: e676e8aa-5f81-4812-a844-936f287b73a9
+
+----field----
+field: {20807A29-691B-4CF3-84D0-DD2A86619EF1}
+name: tabs-devices-name
+key: tabs-devices-name
+content-length: 7
+
+Devices
+----field----
+field: {B22962FA-D3C7-43FA-8715-60AB67D3811A}
+name: tabs-devices-carousel
+key: tabs-devices-carousel
+content-length: 116
+
+{B39966BE-B716-41C4-9D09-0F13910D30CF}|{0A682B0B-EFE3-44A8-AD43-68F669ADCAC1}|{DA9385F7-656F-4841-B1B4-DA137AF19B9E}
+----field----
+field: {8777FCCF-5060-4D5D-A895-FD248560DB3B}
+name: tabs-devices-footer
+key: tabs-devices-footer
+content-length: 38
+
+{203837E2-5383-4839-B72F-8913CC23E54D}
+----field----
+field: {15037230-E8BB-462E-AFEF-7B3BF6813879}
+name: tabs-accessories-name
+key: tabs-accessories-name
+content-length: 11
+
+Accessories
+----field----
+field: {C69CBE5A-F7E4-446B-99D9-5E03795B8B57}
+name: tabs-accessories-carousel
+key: tabs-accessories-carousel
+content-length: 38
+
+{1C452D03-8D08-4BA9-874A-F17200BC0057}
+----field----
+field: {0D732065-D244-41F4-B179-0209D23FCB66}
+name: tabs-accessories-footer
+key: tabs-accessories-footer
+content-length: 38
+
+{7125ACD8-0C87-4EE4-82CB-805AC8EE0586}
+----field----
+field: {6185D918-26D7-4FEE-A22F-9569BB215DAC}
+name: defaultFilter
+key: defaultfilter
+content-length: 38
+
+{19FC651F-7A00-4AF8-82D5-D3AACB633A9B}
+----field----
+field: {5658F5EC-210A-4054-8874-C85AC9C3C6CD}
+name: productFilter-name
+key: productfilter-name
+content-length: 8
+
+Sort By:
+----field----
+field: {689CC7DE-2C51-4416-806E-D610DF478411}
+name: productFilter-productSorts
+key: productfilter-productsorts
+content-length: 116
+
+{47B1A786-8374-4680-8DFC-8B1A4C2249B5}|{0CB3A7CB-7F2B-442A-9B9B-038CB361F5D4}|{A5AE6AAE-4012-4927-88A9-1EA6EE4C7DAF}
+----field----
+field: {E1C1FB25-437E-4CD0-B663-230AA6279FEC}
+name: deviceBrandFilter-name
+key: devicebrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {C3BBDEB6-6111-4133-8E8C-A2FBD217CF54}
+name: deviceBrandFilter-deviceBrands
+key: devicebrandfilter-devicebrands
+content-length: 155
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}
+----field----
+field: {9CE0D43D-ECC4-4728-ABD3-03A00337BBC8}
+name: accessoryBrandFilter-name
+key: accessorybrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {BFB88D2A-28C4-4605-8B26-C217A19C1B18}
+name: accessoryBrandFilter-accessoryBrands
+key: accessorybrandfilter-accessorybrands
+content-length: 1013
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{C582BE75-5A69-4879-924A-819E9540AB2D}|{7D1A1A3C-EF5B-422F-AB2E-A1F3392F00B7}|{10CAEDF2-C543-4549-A467-DECE288D1BD7}|{37ED93DE-1F9E-430F-8C74-5AE2FEC59B00}|{7FD71651-17A2-4B28-B470-5F9E6661564E}|{E6A14C9D-6F60-431C-8132-6A1EA8AC6234}|{FED7EB34-D5FB-4E02-AFD9-F93AEF6E6799}|{5412904D-F44D-46A4-8ACE-FC1722099D55}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{3D62DF84-FCD1-41EF-A02E-E84E068DEE65}|{E2252BD0-C731-4363-82EC-53347857BD55}|{030CFFFF-DCF2-4B09-A6DC-43CC7194AEE0}|{1901F7B8-D641-496F-8A93-473B5F01F35A}|{C5514097-1633-448B-BA29-D5A56FF544E3}|{DD33ACC8-4F53-4BCB-B9AE-0D7C46C61DF2}|{710B764D-C6D5-437F-8C59-D6182D515AD5}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}|{0945CA06-233A-4275-8E5B-FC4D492F5436}|{0D000286-02B9-4634-A35E-8ABA0F3EBCB3}|{CE81DC7F-369A-4FB4-A441-7E4FEEE0555D}|{274BB1DC-E0BC-4D26-B27E-4E0CBA06172F}|{5E01BDA0-F8DA-4485-AFB2-352C876CBBC2}|{38117C40-43A8-4B38-B2C5-23709027F743}|{BC7B5A7C-C6EC-49D0-9E07-7F5058B991E0}
+----field----
+field: {9BD5EEC3-9B7D-40F2-B7BB-265943CCDA38}
+name: subCategoriesFilter-name
+key: subcategoriesfilter-name
+content-length: 9
+
+Category:
+----field----
+field: {C9571C5B-7BA0-41DB-B9DD-C77919EFD4BC}
+name: subCategoriesFilter-subCategories
+key: subcategoriesfilter-subcategories
+content-length: 155
+
+{9C11FE02-CB58-453A-BEFF-174CB424EE01}|{F90B6209-6DAF-4CCC-8257-41371AE137E6}|{19BAF57C-1322-4592-8532-84FE872138BA}|{5635B8F8-4EE3-4E69-8C12-BFC7850C4989}
+----field----
+field: {0C5A459A-B3EE-4EC2-A976-83FD1D4CB5E9}
+name: compatibleProductsFilter-name
+key: compatibleproductsfilter-name
+content-length: 16
+
+Compatible With:
+----field----
+field: {FACF42B5-AC13-4446-B375-11E17070386E}
+name: compatibleProductsFilter-compatibleProducts
+key: compatibleproductsfilter-compatibleproducts
+content-length: 506
+
+{6DE98297-1F49-4312-9A51-F9B7A1E27A30}|{E1F23F30-7B32-4278-AB4F-5A8C7AAE72BF}|{D69E4069-9419-4E36-87B6-4F6704E8A4BC}|{1CD55F15-125D-4033-9723-76206BF029FE}|{3C8BB7FC-41DF-4277-96E3-64781AD55CD1}|{56DFDF03-5B43-4121-A6BC-E4059B202BC4}|{FB3270E1-0620-4837-BD48-082D107AE539}|{29B275B1-5401-4A46-BE12-CB7CC4C89EAE}|{29EB48E4-409F-4D11-A38A-C1D23D6F01EA}|{F7FEB6D6-78F7-4CFB-B21A-C35C3EE35209}|{97632807-E787-4716-8B6D-EDC2520EA199}|{E3524243-1A64-4375-A013-914AAB389322}|{5B26E423-4D72-4C99-929D-13F049922213}
+----field----
+field: {18E50CDA-9615-422F-8955-F67B60D5F98E}
+name: comparison-large-name
+key: comparison-large-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {9C81814E-8B09-4F6B-A9E9-D5C4E411BDA0}
+name: comparison-large-version
+key: comparison-large-version
+content-length: 10
+
+1505316520
+----field----
+field: {28A21876-7245-4BFC-B163-17973776964C}
+name: comparison-large-alt
+key: comparison-large-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {7EF26BDA-A033-47FD-AD58-79FB9B204E6B}
+name: comparison-small-name
+key: comparison-small-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {5C529224-062A-416E-B3FB-E170B78D7495}
+name: comparison-small-version
+key: comparison-small-version
+content-length: 10
+
+1505316520
+----field----
+field: {7F1B5FF5-B5C1-4281-AC03-95C096222512}
+name: comparison-small-alt
+key: comparison-small-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {BA09333B-F77A-4E66-B5DD-FE1E44BFB057}
+name: river-large-name
+key: river-large-name
+content-length: 30
+
+iPhone_X_Apple_River_Asset.png
+----field----
+field: {111042D5-8680-4821-9531-1ACE9DBECA7F}
+name: river-large-version
+key: river-large-version
+content-length: 10
+
+1507133158
+----field----
+field: {C544679A-511B-4839-9C63-4517E2DFE9CD}
+name: river-large-alt
+key: river-large-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {37E94929-483E-4988-AB22-C6F701CF6250}
+name: river-small-name
+key: river-small-name
+content-length: 38
+
+iPhone_10_Apple_River_Asset_mobile.png
+----field----
+field: {30B21117-B245-4F6A-882B-6898B73B2539}
+name: river-small-version
+key: river-small-version
+content-length: 10
+
+1507125037
+----field----
+field: {D95A0ADA-8C1D-4CE9-80E7-D3754A6DA075}
+name: river-small-alt
+key: river-small-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {AB62926A-3F12-46E3-AF13-42560C6ADC2A}
+name: river-linkLabel
+key: river-linklabel
+content-length: 23
+
+Compare iPhone models >
+----field----
+field: {AE1BED7E-214D-4F64-BF5E-237A9C3F5B1E}
+name: river-title
+key: river-title
+content-length: 27
+
+Apple iPhone X Key Features
+----field----
+field: {F4A0390C-AA93-4844-B20A-752E1E5F8BEC}
+name: river-href
+key: river-href
+content-length: 19
+
+shop/iphone-compare
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171025T150948Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171025T150948Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+CABLE\esoto209
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e676e8aa-5f81-4812-a844-936f287b73a9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171031T184605Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+cable\esoto209
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: 6485ef3f-6874-4e34-a241-2036eafb17a9
+
+----field----
+field: {20807A29-691B-4CF3-84D0-DD2A86619EF1}
+name: tabs-devices-name
+key: tabs-devices-name
+content-length: 7
+
+Devices
+----field----
+field: {B22962FA-D3C7-43FA-8715-60AB67D3811A}
+name: tabs-devices-carousel
+key: tabs-devices-carousel
+content-length: 116
+
+{F2A6EC64-CAD9-4742-8508-FA6E2F40A6C6}|{0A682B0B-EFE3-44A8-AD43-68F669ADCAC1}|{DA9385F7-656F-4841-B1B4-DA137AF19B9E}
+----field----
+field: {8777FCCF-5060-4D5D-A895-FD248560DB3B}
+name: tabs-devices-footer
+key: tabs-devices-footer
+content-length: 38
+
+{203837E2-5383-4839-B72F-8913CC23E54D}
+----field----
+field: {15037230-E8BB-462E-AFEF-7B3BF6813879}
+name: tabs-accessories-name
+key: tabs-accessories-name
+content-length: 11
+
+Accessories
+----field----
+field: {C69CBE5A-F7E4-446B-99D9-5E03795B8B57}
+name: tabs-accessories-carousel
+key: tabs-accessories-carousel
+content-length: 38
+
+{1C452D03-8D08-4BA9-874A-F17200BC0057}
+----field----
+field: {0D732065-D244-41F4-B179-0209D23FCB66}
+name: tabs-accessories-footer
+key: tabs-accessories-footer
+content-length: 38
+
+{7125ACD8-0C87-4EE4-82CB-805AC8EE0586}
+----field----
+field: {6185D918-26D7-4FEE-A22F-9569BB215DAC}
+name: defaultFilter
+key: defaultfilter
+content-length: 38
+
+{19FC651F-7A00-4AF8-82D5-D3AACB633A9B}
+----field----
+field: {5658F5EC-210A-4054-8874-C85AC9C3C6CD}
+name: productFilter-name
+key: productfilter-name
+content-length: 8
+
+Sort By:
+----field----
+field: {689CC7DE-2C51-4416-806E-D610DF478411}
+name: productFilter-productSorts
+key: productfilter-productsorts
+content-length: 116
+
+{47B1A786-8374-4680-8DFC-8B1A4C2249B5}|{0CB3A7CB-7F2B-442A-9B9B-038CB361F5D4}|{A5AE6AAE-4012-4927-88A9-1EA6EE4C7DAF}
+----field----
+field: {E1C1FB25-437E-4CD0-B663-230AA6279FEC}
+name: deviceBrandFilter-name
+key: devicebrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {C3BBDEB6-6111-4133-8E8C-A2FBD217CF54}
+name: deviceBrandFilter-deviceBrands
+key: devicebrandfilter-devicebrands
+content-length: 155
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}
+----field----
+field: {9CE0D43D-ECC4-4728-ABD3-03A00337BBC8}
+name: accessoryBrandFilter-name
+key: accessorybrandfilter-name
+content-length: 6
+
+Brand:
+----field----
+field: {BFB88D2A-28C4-4605-8B26-C217A19C1B18}
+name: accessoryBrandFilter-accessoryBrands
+key: accessorybrandfilter-accessorybrands
+content-length: 1013
+
+{D91A0C74-0FFE-4801-8D81-A4FADD7D35F8}|{CD55B3AF-5D42-47BA-B2BD-C914F0F26F4D}|{C582BE75-5A69-4879-924A-819E9540AB2D}|{7D1A1A3C-EF5B-422F-AB2E-A1F3392F00B7}|{10CAEDF2-C543-4549-A467-DECE288D1BD7}|{37ED93DE-1F9E-430F-8C74-5AE2FEC59B00}|{7FD71651-17A2-4B28-B470-5F9E6661564E}|{E6A14C9D-6F60-431C-8132-6A1EA8AC6234}|{FED7EB34-D5FB-4E02-AFD9-F93AEF6E6799}|{5412904D-F44D-46A4-8ACE-FC1722099D55}|{0D6BF001-A35D-40C8-B6D3-CC1669D7AC79}|{3D62DF84-FCD1-41EF-A02E-E84E068DEE65}|{E2252BD0-C731-4363-82EC-53347857BD55}|{030CFFFF-DCF2-4B09-A6DC-43CC7194AEE0}|{1901F7B8-D641-496F-8A93-473B5F01F35A}|{C5514097-1633-448B-BA29-D5A56FF544E3}|{DD33ACC8-4F53-4BCB-B9AE-0D7C46C61DF2}|{710B764D-C6D5-437F-8C59-D6182D515AD5}|{2FD572A0-4272-4A14-A2A1-86E369CB162A}|{0945CA06-233A-4275-8E5B-FC4D492F5436}|{0D000286-02B9-4634-A35E-8ABA0F3EBCB3}|{CE81DC7F-369A-4FB4-A441-7E4FEEE0555D}|{274BB1DC-E0BC-4D26-B27E-4E0CBA06172F}|{5E01BDA0-F8DA-4485-AFB2-352C876CBBC2}|{38117C40-43A8-4B38-B2C5-23709027F743}|{BC7B5A7C-C6EC-49D0-9E07-7F5058B991E0}
+----field----
+field: {9BD5EEC3-9B7D-40F2-B7BB-265943CCDA38}
+name: subCategoriesFilter-name
+key: subcategoriesfilter-name
+content-length: 9
+
+Category:
+----field----
+field: {C9571C5B-7BA0-41DB-B9DD-C77919EFD4BC}
+name: subCategoriesFilter-subCategories
+key: subcategoriesfilter-subcategories
+content-length: 155
+
+{9C11FE02-CB58-453A-BEFF-174CB424EE01}|{F90B6209-6DAF-4CCC-8257-41371AE137E6}|{19BAF57C-1322-4592-8532-84FE872138BA}|{5635B8F8-4EE3-4E69-8C12-BFC7850C4989}
+----field----
+field: {0C5A459A-B3EE-4EC2-A976-83FD1D4CB5E9}
+name: compatibleProductsFilter-name
+key: compatibleproductsfilter-name
+content-length: 16
+
+Compatible With:
+----field----
+field: {FACF42B5-AC13-4446-B375-11E17070386E}
+name: compatibleProductsFilter-compatibleProducts
+key: compatibleproductsfilter-compatibleproducts
+content-length: 506
+
+{6DE98297-1F49-4312-9A51-F9B7A1E27A30}|{E1F23F30-7B32-4278-AB4F-5A8C7AAE72BF}|{D69E4069-9419-4E36-87B6-4F6704E8A4BC}|{1CD55F15-125D-4033-9723-76206BF029FE}|{3C8BB7FC-41DF-4277-96E3-64781AD55CD1}|{56DFDF03-5B43-4121-A6BC-E4059B202BC4}|{FB3270E1-0620-4837-BD48-082D107AE539}|{29B275B1-5401-4A46-BE12-CB7CC4C89EAE}|{29EB48E4-409F-4D11-A38A-C1D23D6F01EA}|{F7FEB6D6-78F7-4CFB-B21A-C35C3EE35209}|{97632807-E787-4716-8B6D-EDC2520EA199}|{E3524243-1A64-4375-A013-914AAB389322}|{5B26E423-4D72-4C99-929D-13F049922213}
+----field----
+field: {18E50CDA-9615-422F-8955-F67B60D5F98E}
+name: comparison-large-name
+key: comparison-large-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {9C81814E-8B09-4F6B-A9E9-D5C4E411BDA0}
+name: comparison-large-version
+key: comparison-large-version
+content-length: 10
+
+1505316520
+----field----
+field: {28A21876-7245-4BFC-B163-17973776964C}
+name: comparison-large-alt
+key: comparison-large-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {7EF26BDA-A033-47FD-AD58-79FB9B204E6B}
+name: comparison-small-name
+key: comparison-small-name
+content-length: 42
+
+iPhone8_Banners/Comparison_Page_Shared.png
+----field----
+field: {5C529224-062A-416E-B3FB-E170B78D7495}
+name: comparison-small-version
+key: comparison-small-version
+content-length: 10
+
+1505316520
+----field----
+field: {7F1B5FF5-B5C1-4281-AC03-95C096222512}
+name: comparison-small-alt
+key: comparison-small-alt
+content-length: 17
+
+iPhone Comparison
+----field----
+field: {BA09333B-F77A-4E66-B5DD-FE1E44BFB057}
+name: river-large-name
+key: river-large-name
+content-length: 30
+
+iPhone_X_Apple_River_Asset.png
+----field----
+field: {111042D5-8680-4821-9531-1ACE9DBECA7F}
+name: river-large-version
+key: river-large-version
+content-length: 10
+
+1507133158
+----field----
+field: {C544679A-511B-4839-9C63-4517E2DFE9CD}
+name: river-large-alt
+key: river-large-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {37E94929-483E-4988-AB22-C6F701CF6250}
+name: river-small-name
+key: river-small-name
+content-length: 38
+
+iPhone_10_Apple_River_Asset_mobile.png
+----field----
+field: {30B21117-B245-4F6A-882B-6898B73B2539}
+name: river-small-version
+key: river-small-version
+content-length: 10
+
+1507125037
+----field----
+field: {D95A0ADA-8C1D-4CE9-80E7-D3754A6DA075}
+name: river-small-alt
+key: river-small-alt
+content-length: 12
+
+iphone-river
+----field----
+field: {AB62926A-3F12-46E3-AF13-42560C6ADC2A}
+name: river-linkLabel
+key: river-linklabel
+content-length: 23
+
+Compare iPhone models >
+----field----
+field: {AE1BED7E-214D-4F64-BF5E-237A9C3F5B1E}
+name: river-title
+key: river-title
+content-length: 27
+
+Apple iPhone X Key Features
+----field----
+field: {F4A0390C-AA93-4844-B20A-752E1E5F8BEC}
+name: river-href
+key: river-href
+content-length: 19
+
+shop/iphone-compare
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171031T184936Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171031T184936Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\tmaida200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6485ef3f-6874-4e34-a241-2036eafb17a9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171031T185705Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\tmaida200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

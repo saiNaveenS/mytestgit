@@ -1,0 +1,100 @@
+----item----
+version: 1
+id: {22E05BE2-D27E-448F-B308-A53B74C829B9}
+database: master
+path: /sitecore/content/Modesto/POC Components/Analytics Components/Events/Search AutoComplete
+parent: {7DC27C3E-DC6F-4CCA-987E-1B1E790B5FB7}
+name: Search AutoComplete
+master: {00000000-0000-0000-0000-000000000000}
+template: {0006716E-4E34-4D69-9EB7-351B4AD9C2EE}
+templatekey: Event
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 9ba912bb-b5d2-4ffc-a4ad-7ad19d36745b
+
+----field----
+field: {91319625-4738-4ABC-9774-309B9549A2D9}
+name: eventName
+key: eventname
+content-length: 18
+
+SearchAutoComplete
+----field----
+field: {4B621216-8498-45F5-8E59-9DD64D5F9EBC}
+name: name
+key: name
+content-length: 12
+
+button click
+----field----
+field: {D789DEDC-EBFE-4327-9980-BC67D787CED6}
+name: action
+key: action
+content-length: 19
+
+Search AutoComplete
+----field----
+field: {D494A9D2-6659-4F35-8531-9479DEB6860B}
+name: dtmEvent
+key: dtmevent
+content-length: 20
+
+custom-SupportSearch
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170705T185035Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9ba912bb-b5d2-4ffc-a4ad-7ad19d36745b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T163207Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

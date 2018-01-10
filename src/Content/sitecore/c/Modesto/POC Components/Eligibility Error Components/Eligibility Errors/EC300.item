@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {770CAD42-16AF-40F7-A5F2-2550ADFDB556}
+database: master
+path: /sitecore/content/Modesto/POC Components/Eligibility Error Components/Eligibility Errors/EC300
+parent: {B12B7244-A8E9-41CC-B4D0-3534E96808F1}
+name: EC300
+master: {00000000-0000-0000-0000-000000000000}
+template: {CD651C86-4E92-445E-89CB-EF8A0EC4E97A}
+templatekey: Eligibility Error
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 81d30c4f-d460-46d8-8689-28fb0165b420
+
+----field----
+field: {C84AE9A7-7494-4038-B202-5172D1685556}
+name: name
+key: name
+content-length: 5
+
+EC300
+----field----
+field: {917A724C-DDE7-497B-8142-FDE297C811A4}
+name: headline
+key: headline
+content-length: 52
+
+You’ll need an XFINITY Internet account to continue.
+----field----
+field: {0A4C3D40-F53E-448C-AD31-C629E08E0C89}
+name: body
+key: body
+content-length: 137
+
+Adding XFINITY Mobile lines currently requires an XFINITY Internet subscription. Need help setting up? Call or text us at 1 888-936-4968.
+----field----
+field: {0DEBA42C-8A16-4BB5-B6F9-E1DE948E6C7B}
+name: buttons
+key: buttons
+content-length: 77
+
+{18B1CECA-2376-4D12-A2BA-BDDFFEEFF20E}|{970478EA-7BD6-4620-946C-8126028D4239}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170403T135958Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+81d30c4f-d460-46d8-8689-28fb0165b420
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T164201Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

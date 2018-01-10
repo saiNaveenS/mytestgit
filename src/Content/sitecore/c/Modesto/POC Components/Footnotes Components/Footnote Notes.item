@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {EA1B04AA-080B-4C19-B770-44B9FE0F610E}
+database: master
+path: /sitecore/content/Modesto/POC Components/Footnotes Components/Footnote Notes
+parent: {0B19094A-D814-4EA7-B374-5581025ACE15}
+name: Footnote Notes
+master: {00000000-0000-0000-0000-000000000000}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{97DFA487-7A5A-4906-B494-A9037D63C6FA}
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 252
+
+ar|sitecore\Modesto Basic Watcher|pe|-item:create|-item:delete|-item:rename|pd|+item:write|+item:read|-item:rename|ar|sitecore\Modesto Basic Author|pe|+item:create|-item:write|+item:read|pd|+item:rename|+item:write|+item:read|+item:delete|+item:create|
+----version----
+language: en
+version: 1
+revision: dbb5b92f-e010-44bd-a41f-273091a1ede5
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170330T142334Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dbb5b92f-e010-44bd-a41f-273091a1ede5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170717T192209Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

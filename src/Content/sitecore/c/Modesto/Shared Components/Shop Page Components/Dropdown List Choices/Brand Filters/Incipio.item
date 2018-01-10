@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {E6A14C9D-6F60-431C-8132-6A1EA8AC6234}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Shop Page Components/Dropdown List Choices/Brand Filters/Incipio
+parent: {F54FAE3D-68EF-4F05-B6C9-6E4B4C150F45}
+name: Incipio
+master: {00000000-0000-0000-0000-000000000000}
+template: {7808CB20-6341-48DE-9B84-B65E4ACFF24A}
+templatekey: Dropdown Value
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 834668a9-72e5-40d0-b1d2-388c7cd2ebfb
+
+----field----
+field: {77DEDC76-85CE-409D-ACC7-840EC370C57E}
+name: name
+key: name
+content-length: 7
+
+Incipio
+----field----
+field: {9FBB4104-F152-4621-ADB8-633465A172E5}
+name: code
+key: code
+content-length: 3
+
+INC
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170731T171858Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+834668a9-72e5-40d0-b1d2-388c7cd2ebfb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170731T171909Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

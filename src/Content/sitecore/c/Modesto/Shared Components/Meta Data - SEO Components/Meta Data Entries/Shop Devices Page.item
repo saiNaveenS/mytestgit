@@ -1,0 +1,114 @@
+----item----
+version: 1
+id: {067366EE-42BE-410D-9792-5B9E0C761643}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Meta Data - SEO Components/Meta Data Entries/Shop Devices Page
+parent: {4FD654D6-75E3-4F9E-8B8D-EF935B9741B7}
+name: Shop Devices Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {236CD71A-2693-42F9-8F70-F32631F600DD}
+templatekey: Meta Data Entry
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: f6eeab94-63f0-4984-a080-2852f7255a4a
+
+----field----
+field: {4937694E-6630-4B44-92FA-AF83E6641444}
+name: title
+key: title
+content-length: 38
+
+Shop Mobile Phones from XFINITY Mobile
+----field----
+field: {DAC9E246-0BE3-41E9-8A78-DC0EF5DF0EB4}
+name: description
+key: description
+content-length: 115
+
+Pick out your mobile phone with XFINITY Mobile today. Choose from the latest Apple iPhones, Samsung, and LG phones.
+----field----
+field: {608F05AD-7522-4A2D-88BF-7810C389B9EA}
+name: twitter-title
+key: twitter-title
+content-length: 38
+
+Shop Mobile Phones from XFINITY Mobile
+----field----
+field: {F4186CEA-B30D-4420-86E2-B0AEA2E97AE3}
+name: twitter-description
+key: twitter-description
+content-length: 115
+
+Pick out your mobile phone with XFINITY Mobile today. Choose from the latest Apple iPhones, Samsung, and LG phones.
+----field----
+field: {1EE55381-7CE2-4DD5-A37B-BE074216CA79}
+name: og-title
+key: og-title
+content-length: 38
+
+Shop Mobile Phones from XFINITY Mobile
+----field----
+field: {4BA7E797-0D8B-4ED7-A826-3A3D36904D79}
+name: og-description
+key: og-description
+content-length: 115
+
+Pick out your mobile phone with XFINITY Mobile today. Choose from the latest Apple iPhones, Samsung, and LG phones.
+----field----
+field: {802D363E-E754-4ADD-81A4-19A18FD758B2}
+name: name
+key: name
+content-length: 12
+
+shop-devices
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170908T144848Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f6eeab94-63f0-4984-a080-2852f7255a4a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170915T163936Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

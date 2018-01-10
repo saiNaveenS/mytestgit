@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {6A17F233-B8B2-4BFF-B664-8D0493B1B63D}
+database: master
+path: /sitecore/templates/Modesto/JSON Administration/Cart Page/Empty Cart
+parent: {C74DC7B5-3D63-4D47-A8C9-BB8BFDA8943F}
+name: Empty Cart
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+created: 20171207T190716Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----field----
+field: {6FD695E7-7F6D-4CA5-8B49-A829E5950AE9}
+name: __Subitems Sorting
+key: __subitems sorting
+content-length: 38
+
+{781247D2-9785-400F-8935-C818EC757967}
+----version----
+language: en
+version: 1
+revision: f216b3f7-f6a7-48a4-b853-9f9976728613
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171207T190716Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f216b3f7-f6a7-48a4-b853-9f9976728613
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171219T144305Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {C7EC4864-66EE-4179-8B38-504B2690C5D1}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Shared Carousel Components/Images/Samsung Galaxy Note 8 Hero Image - Vert
+parent: {BC005751-B3F4-4D0E-B4B3-9585980B0FBF}
+name: Samsung Galaxy Note 8 Hero Image - Vert
+master: {00000000-0000-0000-0000-000000000000}
+template: {5A85B54A-F4BA-45A0-85D7-5B70466672FA}
+templatekey: Carousel Image
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 53be7e9f-95c6-44d9-905f-ba14a1131307
+
+----field----
+field: {280BA90C-C7E9-4D8C-AECC-C78CC8BAC2D9}
+name: url
+key: url
+content-length: 116
+
+http://res.cloudinary.com/modesto/image/upload/f_auto,q_auto/v1/client/v2/images/Samsung_Galaxy_Note8_Hero_image.png
+----field----
+field: {996C8E30-B166-4832-931F-3FE09F4E7F20}
+name: alt
+key: alt
+content-length: 21
+
+Samsung Galaxy Note 8
+----field----
+field: {608F9835-D4D4-4CAA-9A1C-05B33FDD7281}
+name: center
+key: center
+content-length: 4
+
+vert
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170925T144951Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+53be7e9f-95c6-44d9-905f-ba14a1131307
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170926T214138Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

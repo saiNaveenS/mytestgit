@@ -1,0 +1,297 @@
+----item----
+version: 1
+id: {B3734846-19F2-42FC-981E-2B12988EF510}
+database: master
+path: /sitecore/content/Modesto/XFINITY Mobile Website/A/Error Information
+parent: {5542DC54-F879-4255-9E6B-F07F64831389}
+name: Error Information
+master: {00000000-0000-0000-0000-000000000000}
+template: {8B3D191E-9A35-439A-BCFF-7CA9FA7FEBBB}
+templatekey: Error Information
+created: 20171213T194746Z
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 29
+
+Business/32x32/note_error.png
+----version----
+language: en
+version: 1
+revision: f32c69d7-2881-4cb3-8155-fa93a0f55700
+
+----field----
+field: {8021FB2D-4343-43D6-9486-420DA0D0F2A5}
+name: EC0-headline
+key: ec0-headline
+content-length: 56
+
+Contact us to talk about eligibility for XFINITY Mobile.
+----field----
+field: {94BBAD4A-E886-445B-8D96-495AAB3B443B}
+name: EC0-body
+key: ec0-body
+content-length: 94
+
+Pick up the phone and call <a href='tel:1 888-936-4968'>1 888-936-4968</a> or kick off a chat.
+----field----
+field: {16C3F2BF-2305-44EA-A1A8-6EA74EFDFE2E}
+name: EC0-buttons
+key: ec0-buttons
+content-length: 77
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}|{8C63EB81-3F92-4771-ABA6-86DDA27814D7}
+----field----
+field: {164F3D62-B594-43F6-B53D-53FB45410164}
+name: EC200-headline
+key: ec200-headline
+content-length: 66
+
+Right now, XFINITY Mobile is only for our home internet customers.
+----field----
+field: {DFCB603E-AF32-45CF-BA04-6A2B70C1D610}
+name: EC200-body
+key: ec200-body
+content-length: 233
+
+XFINITY offers a lot of services, but at the moment, mobile is only for home internet customers. Things will be different in the future! We’re working on expanding eligibility for all. Thanks for being with us, and please stay tuned.
+----field----
+field: {D2AAC33A-560D-47CE-8609-D03F303C9623}
+name: EC200-buttons
+key: ec200-buttons
+content-length: 38
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}
+----field----
+field: {43ADCA2D-6A88-441F-A01F-0E15DB00BB38}
+name: EC400-headline
+key: ec400-headline
+content-length: 61
+
+Right now, XFINITY Mobile is only for our internet customers.
+----field----
+field: {B795C623-8BB2-4B2D-84E7-0CA26800FC10}
+name: EC400-body
+key: ec400-body
+content-length: 254
+
+XFINITY offers a lot of services, but at the moment, mobile is only for home internet customers. Things will be different in the future! You’ve got our word that we’re working on expanding eligibility for all. Thanks for being with us. Please stay tuned.
+----field----
+field: {8347B377-A41E-42BF-BECF-2AD8AF3F4780}
+name: EC400-buttons
+key: ec400-buttons
+content-length: 77
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}|{F7F56EAC-1286-44D0-9412-7490E8BA56A7}
+----field----
+field: {DDC9CD72-4401-4ADB-8719-3A98C0B06B25}
+name: EC300-headline
+key: ec300-headline
+content-length: 52
+
+You’ll need an XFINITY Internet account to continue.
+----field----
+field: {458154AC-B057-415A-987A-677CD465DD37}
+name: EC300-body
+key: ec300-body
+content-length: 137
+
+Adding XFINITY Mobile lines currently requires an XFINITY Internet subscription. Need help setting up? Call or text us at 1 888-936-4968.
+----field----
+field: {0FEE8EC0-016E-4EC9-8025-8F444C8633B8}
+name: EC300-buttons
+key: ec300-buttons
+content-length: 77
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}|{F7F56EAC-1286-44D0-9412-7490E8BA56A7}
+----field----
+field: {22F91C0D-7A9A-4C69-930A-C7CA65AC981F}
+name: EC500-headline
+key: ec500-headline
+content-length: 70
+
+Only the primary account holder can make purchases for XFINITY Mobile.
+----field----
+field: {661010DB-68D5-4E11-84D2-9266368978EE}
+name: EC500-body
+key: ec500-body
+content-length: 232
+
+Essentially, the XFINITY Internet bill has to be in your name in order to purchase XFINITY Mobile here. If you are indeed the primary account holder, you can order phones and lines for up to five of your favorite people. Make sense?
+----field----
+field: {38E49B64-66D2-4198-8E21-9275B633F6A3}
+name: EC500-buttons
+key: ec500-buttons
+content-length: 38
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}
+----field----
+field: {297CF567-8BFB-4294-AE40-37CD6752FBAB}
+name: EC700-headline
+key: ec700-headline
+content-length: 48
+
+Uh-oh. Your internet is pre-paid, not post-paid.
+----field----
+field: {DE3F1389-B555-4CB2-B589-C04095AF8C55}
+name: EC700-body
+key: ec700-body
+content-length: 214
+
+We offer tiers of high speed data services, and it looks like yours is pre-paid. Unfortunately, a regular post-paid account is required to score you access to XFINITY Mobile. Want to upgrade? We’d love to have you.
+----field----
+field: {3FD8E54E-F844-4BC0-A0F0-C0511A0084CA}
+name: EC700-buttons
+key: ec700-buttons
+content-length: 77
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}|{41B28914-A579-4AD4-84BB-98AAB9A8C342}
+----field----
+field: {B9D01CFD-4667-428A-86FA-05C44E138A61}
+name: EC800-headline
+key: ec800-headline
+content-length: 52
+
+You’ll need an XFINITY Internet account to continue.
+----field----
+field: {4A890157-6105-487D-B43A-B3E6A0A5F7A4}
+name: EC800-body
+key: ec800-body
+content-length: 137
+
+Adding XFINITY Mobile lines currently requires an XFINITY Internet subscription. Need help setting up? Call or text us at 1 888-936-4968.
+----field----
+field: {94541C87-4F53-4D33-96CD-F6F220D89A61}
+name: EC800-buttons
+key: ec800-buttons
+content-length: 38
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}
+----field----
+field: {5F08339E-52E7-416C-A6C3-98505963BD76}
+name: EC900-headline
+key: ec900-headline
+content-length: 72
+
+You’ve got to have billing permissions on your XFINITY Internet account.
+----field----
+field: {9231FC30-C944-4FCD-B1A4-306C758A29E7}
+name: EC900-body
+key: ec900-body
+content-length: 200
+
+In other words, you’ve got to be in charge of the XFINITY Internet account to make the XFINITY Mobile purchase. Do you know the login for an active user on this account? If so, let’s make this happen!
+----field----
+field: {497E1AF2-0F55-477C-8A1B-1EB8C42067F1}
+name: EC900-buttons
+key: ec900-buttons
+content-length: 38
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}
+----field----
+field: {A8F6B30D-0633-4061-8B1A-7F110CCDC9F9}
+name: EC1000-headline
+key: ec1000-headline
+content-length: 66
+
+Uh-oh. Your account is not on our XFINITY Mobile eligibility list.
+----field----
+field: {451AD0D1-2462-419A-8E4B-B7BE45F3B27F}
+name: EC1000-body
+key: ec1000-body
+content-length: 144
+
+Right now, XFINITY Mobile is available to XFINITY Internet customers. We’d love to have you, though. Please stay tuned as we expand and enhance.
+----field----
+field: {F26ACD6A-A9C7-4643-80AD-641FD17A81F8}
+name: EC1000-buttons
+key: ec1000-buttons
+content-length: 38
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}
+----field----
+field: {290721F1-55A6-49C0-AF07-E7DEE25C8E95}
+name: EC1100-headline
+key: ec1100-headline
+content-length: 52
+
+You’ll need an XFINITY Internet account to continue.
+----field----
+field: {3E8F3039-16B1-46D8-B306-B495E69D89CA}
+name: EC1100-body
+key: ec1100-body
+content-length: 137
+
+Adding XFINITY Mobile lines currently requires an XFINITY Internet subscription. Need help setting up? Call or text us at 1 888-936-4968.
+----field----
+field: {E0EFFC9D-C227-445E-889C-74ACA354DABD}
+name: EC1100-buttons
+key: ec1100-buttons
+content-length: 38
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}
+----field----
+field: {BC000F8D-EE30-433E-8EE6-E3231B66EB49}
+name: EC1600-headline
+key: ec1600-headline
+content-length: 50
+
+You’ll need installed XFINITY Service to continue.
+----field----
+field: {C7167D2E-AF1C-4F98-A3BF-07BAA3B30B8A}
+name: EC1600-body
+key: ec1600-body
+content-length: 156
+
+Adding XFINITY Mobile lines currently requires an installed XFINITY subscription that includes HSD. Need help setting up? Call or text us at 1 888-936-4968.
+----field----
+field: {1CEBA947-594C-446E-947F-EDD40676AEC5}
+name: EC1600-buttons
+key: ec1600-buttons
+content-length: 38
+
+{452D1085-89B6-4B80-9426-DAF2C9DB4A68}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171213T194746Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f32c69d7-2881-4cb3-8155-fa93a0f55700
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171218T193730Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

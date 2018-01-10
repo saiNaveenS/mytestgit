@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {B9079617-501B-4089-8105-19FC2430CA05}
+database: master
+path: /sitecore/content/Modesto/XFINITY Mobile Website/E
+parent: {200AABD5-89D0-4F21-A054-53C540D2BBF9}
+name: E
+master: {00000000-0000-0000-0000-000000000000}
+template: {F7E817C7-64D6-473E-8FCC-172D725DC0F0}
+templatekey: Version Folder
+
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 163
+
+ar|sitecore\Modesto Basic Author|pe|+item:create|-item:write|+item:read|-item:delete|-item:rename|pd|+item:create|+item:write|+item:read|+item:delete|-item:rename|
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 9659688f-5389-4557-86e5-264aae6dc991
+
+----field----
+field: {A9BDFD5F-8FB1-40BE-A39C-523544B34A21}
+name: Name
+key: name
+content-length: 15
+
+Version E Items
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170829T185825Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9659688f-5389-4557-86e5-264aae6dc991
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170830T145847Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

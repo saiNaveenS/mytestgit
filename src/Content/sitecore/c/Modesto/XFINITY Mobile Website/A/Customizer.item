@@ -1,0 +1,408 @@
+----item----
+version: 1
+id: {B5CC5DB2-0D31-4F61-85B4-FD36B7010376}
+database: master
+path: /sitecore/content/Modesto/XFINITY Mobile Website/A/Customizer
+parent: {5542DC54-F879-4255-9E6B-F07F64831389}
+name: Customizer
+master: {00000000-0000-0000-0000-000000000000}
+template: {E827CA2D-69E5-42A7-B3CA-B0AD0C8760E1}
+templatekey: Customizer
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1200
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 74472bf7-d6e4-4a84-9fba-ab9f917a6a18
+
+----field----
+field: {F659EAC8-8065-437A-9957-2DB935992DB7}
+name: getStarted-title
+key: getstarted-title
+content-length: 17
+
+Let's get started
+----field----
+field: {BC72A7B0-1FE1-445E-8C0D-F3AFAA96B356}
+name: getStarted-text
+key: getstarted-text
+content-length: 135
+
+1=XFINITY%20Mobile%20is%20only%20available%20to%20XFINITY%20Internet%20customers.&2=Do%20you%20currently%20have%20XFINITY%20Internet%3F
+----field----
+field: {AD7D534A-949F-4766-A3A9-35D7CC1F4C66}
+name: getStarted-button1-text
+key: getstarted-button1-text
+content-length: 3
+
+Yes
+----field----
+field: {70D5C963-0B75-4F17-ADB0-06DF5388B611}
+name: getStarted-button2-text
+key: getstarted-button2-text
+content-length: 2
+
+No
+----field----
+field: {0D1D4944-205B-4905-8232-8ECFE6B1AAEC}
+name: getStartedHelp-title
+key: getstartedhelp-title
+content-length: 17
+
+Let's get started
+----field----
+field: {07ACDA5C-4471-40F3-A86F-BF8D87C63942}
+name: getStartedHelp-list-item
+key: getstartedhelp-list-item
+content-length: 194
+
+{4981F176-E7CE-419F-9B9B-85B49D062ACA}|{4E5D6CEB-7373-426E-9588-0CDF5A8191AB}|{551FC0FD-A91A-4C9E-AB3D-0C4A3D2F07DA}|{9810ADB6-2124-450A-9278-88AF88F7A753}|{63BA2D4E-899C-434F-8313-4C6D987B9F98}
+----field----
+field: {1AAA33E8-B37E-4E83-9E9D-B513BCF68DA0}
+name: getStartedHelp-section1-line1
+key: getstartedhelp-section1-line1
+content-length: 61
+
+No worries. To get XFINITY Internet, just follow these steps:
+----field----
+field: {0F50ED1F-1727-40AA-8AF1-3D079A400F58}
+name: getStartedHelp-section2-line1
+key: getstartedhelp-section2-line1
+content-length: 66
+
+Have questions or need help getting started with XFINITY Internet?
+----field----
+field: {101A0A22-203A-4FED-BDFE-A43614512E0F}
+name: getStartedHelp-section2-line2-text
+key: getstartedhelp-section2-line2-text
+content-length: 17
+
+Give us a call at
+----field----
+field: {891C1387-EA41-4866-80A9-CCD7CB829489}
+name: getStartedHelp-section2-line2-phoneNumber
+key: getstartedhelp-section2-line2-phonenumber
+content-length: 10
+
+8442962809
+----field----
+field: {CD5AE64E-FCFB-4933-9EAB-CA5CF6B03607}
+name: getStartedHelp-section2-line3-text
+key: getstartedhelp-section2-line3-text
+content-length: 33
+
+Already have XFINITY credentials?
+----field----
+field: {D49E3EBB-8616-463D-BB20-5C2A2700C9C7}
+name: getStartedHelp-section2-line3-button-text
+key: getstartedhelp-section2-line3-button-text
+content-length: 8
+
+Sign in.
+----field----
+field: {42EC8ACB-B522-4E74-955F-39C67485D47D}
+name: getStartedHelp-defaultImgSrc
+key: getstartedhelp-defaultimgsrc
+content-length: 11
+
+devices.svg
+----field----
+field: {1B4F8E47-5DA9-45D3-BC19-AA07FB63CF35}
+name: getStartedHelp-defaultImgVersion
+key: getstartedhelp-defaultimgversion
+content-length: 10
+
+1497971020
+----field----
+field: {F44A4FBA-BA60-432A-8098-919C1D28D29F}
+name: plan-title
+key: plan-title
+content-length: 19
+
+Customize your plan
+----field----
+field: {B56942B9-BAFF-4032-B102-A1ACE0D5B411}
+name: plan-planSelectionTitle
+key: plan-planselectiontitle
+content-length: 23
+
+CHOOSE YOUR DATA OPTION
+----field----
+field: {4BF149D0-C886-4622-9EA3-942688B36072}
+name: plan-phoneNumberSelection-title
+key: plan-phonenumberselection-title
+content-length: 19
+
+select phone number
+----field----
+field: {A8409759-DA53-4E93-8DE4-B2DD215F1EED}
+name: plan-phoneNumberSelection-modalText
+key: plan-phonenumberselection-modaltext
+content-length: 157
+
+Just because you have a new phone doesn’t mean you need a new phone number. You may be able to transfer your existing phone number from your current carrier.
+----field----
+field: {EF436726-257B-45C7-9285-58744B685D65}
+name: plan-phoneNumberSelection-modalAccessibilityText
+key: plan-phonenumberselection-modalaccessibilitytext
+content-length: 32
+
+More info about Xfinity Internet
+----field----
+field: {02BCB7F9-D7D9-4A40-B7B8-8F5134AD44E2}
+name: plan-phoneNumberSelection-newNumberWarning-text
+key: plan-phonenumberselection-newnumberwarning-text
+content-length: 161
+
+If you start activation with a new number, you<strong class='strong'> will not</strong> be able to transfer your number from your previous carrier to this phone.
+----field----
+field: {C493EA3E-5978-410E-9E79-B30E115FBB8D}
+name: plan-phoneNumberSelection-newNumberWarning-icon
+key: plan-phonenumberselection-newnumberwarning-icon
+content-length: 21
+
+icons/black-error.svg
+----field----
+field: {E9C71A0C-EF07-461F-841B-777C29246FBF}
+name: plan-phoneInput-title
+key: plan-phoneinput-title
+content-length: 21
+
+My current number is:
+----field----
+field: {25916388-2E7C-49BB-8251-6D4BA96DD7F4}
+name: plan-phoneInput-errorMessage
+key: plan-phoneinput-errormessage
+content-length: 49
+
+You've already used this number for another line.
+----field----
+field: {B17F1BDB-1867-4665-BCE4-E4D8FDB84B22}
+name: plan-phoneInput-inputPlaceholder
+key: plan-phoneinput-inputplaceholder
+content-length: 17
+
+Enter your number
+----field----
+field: {8815246C-D438-42C9-91CF-275777A5C0EA}
+name: plan-carrierSelection-title
+key: plan-carrierselection-title
+content-length: 22
+
+My current carrier is:
+----field----
+field: {7FC4B0D1-24BC-45BC-A7D8-8D2AF3CD6534}
+name: plan-carrierSelection-carriers
+key: plan-carrierselection-carriers
+content-length: 410
+
+1=AT%26T&2=Sprint&3=T-Mobile&4=Verizon%20Wireless&5=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80&6=AT%26T%20Prepaid&7=Boost%20Mobile&8=Cricket&9=Google%20Fi&10=Google%20Voice&11=NET10&12=Republic&13=Straight%20Talk&14=T-Mobile%20Prepaid&15=Telcel%20America&16=TracFone&17=US%20Cellular&18=Verizon%20Prepaid&19=Virgin%20Mobile&20=XFINITY%20Mobile&21=Other%20%2F%20Not%20sure
+----field----
+field: {CCDCCA77-8767-4729-8349-353CFBF84960}
+name: plan-carrierSelection-optionDefault
+key: plan-carrierselection-optiondefault
+content-length: 14
+
+Select carrier
+----field----
+field: {290C5DB1-673C-4EF6-81DC-3FD13959E993}
+name: plan-phoneUserSubtitle
+key: plan-phoneusersubtitle
+content-length: 22
+
+WHO IS THIS PHONE FOR?
+----field----
+field: {024884F4-1C02-43A0-BB03-4A26140D9610}
+name: plan-phoneUserError
+key: plan-phoneusererror
+content-length: 47
+
+You've already used this name for another line.
+----field----
+field: {7C7FCF6E-4BDC-4C88-A70B-ACC6BEC4D810}
+name: plan-estimateText
+key: plan-estimatetext
+content-length: 0
+
+
+----field----
+field: {FB676DFA-09A2-4704-BDEA-D42FDFD4FA80}
+name: plan-taxText
+key: plan-taxtext
+content-length: 28
+
+(Excluding Shipping & Taxes)
+----field----
+field: {16B1F69F-E213-4350-8644-6C67C2D47B4A}
+name: plan-button1-text
+key: plan-button1-text
+content-length: 11
+
+Add to Cart
+----field----
+field: {FD37A1A0-9F99-4AD0-8CA8-B5790B299701}
+name: plan-button2-text
+key: plan-button2-text
+content-length: 10
+
+Loading...
+----field----
+field: {653AB5A2-4AC5-46B5-9D95-6A90953AF4A0}
+name: plan-button3-text
+key: plan-button3-text
+content-length: 8
+
+Continue
+----field----
+field: {672E6424-07FC-4102-B486-623E719A951D}
+name: plan-portingFailedErrorFirstAttempt
+key: plan-portingfailederrorfirstattempt
+content-length: 66
+
+Your session has timed out. To try again, click Add to Cart below.
+----field----
+field: {9B2C9C87-049F-447E-A58E-EB4B96A22ECE}
+name: plan-portingFailedErrorThirdAttempt
+key: plan-portingfailederrorthirdattempt
+content-length: 86
+
+Sorry about that—technical error on our end. Try entering your number at another time.
+----field----
+field: {340F7546-6A2D-4552-9196-604B751B4083}
+name: plan-ndel-title
+key: plan-ndel-title
+content-length: 27
+
+SELECT NEW OR EXISTING LINE
+----field----
+field: {143CB0FA-81E2-4E30-8CB8-AF6E1CFEB9D4}
+name: plan-ndel-newLine
+key: plan-ndel-newline
+content-length: 17
+
+I want a new line
+----field----
+field: {B1B01437-21A7-4DB9-A3D8-29C2BF8114F7}
+name: plan-ndel-replaceDevice
+key: plan-ndel-replacedevice
+content-length: 24
+
+Replace an existing line
+----field----
+field: {3C5E6CF1-03B5-4098-B054-F8A0FC2676D1}
+name: plan-ndel-replaceDeviceTitle
+key: plan-ndel-replacedevicetitle
+content-length: 37
+
+select which device you are replacing
+----field----
+field: {A57CABE4-2EB1-46AB-B0D0-E047688A9E0A}
+name: plan-ndel-protectionPlan-iconSrc
+key: plan-ndel-protectionplan-iconsrc
+content-length: 19
+
+my-account/device-1
+----field----
+field: {47EADCD1-0BBC-4011-8A2F-30643E2F3DF9}
+name: plan-ndel-protectionPlan-brief
+key: plan-ndel-protectionplan-brief
+content-length: 15
+
+Protection Plan
+----field----
+field: {B2233072-69E0-4258-9AAC-47395C02E4E0}
+name: plan-ndel-protectionPlan-title
+key: plan-ndel-protectionplan-title
+content-length: 62
+
+This device is protected by the XFINITY Mobile Protection Plan
+----field----
+field: {6CA76530-9E65-4702-9922-41956BEDEEA2}
+name: plan-ndel-protectionPlan-body
+key: plan-ndel-protectionplan-body
+content-length: 141
+
+You may be eligible for a replacement. If your device is lost, stolen, or damaged, submit a claim with our protection-plan partner, Assurant.
+----field----
+field: {726D0CD8-EB06-4355-A64B-4B1872B004A8}
+name: plan-ndel-protectionPlan-submit
+key: plan-ndel-protectionplan-submit
+content-length: 14
+
+Submit A Claim
+----field----
+field: {0E38B418-0046-46C7-AB4D-9B09903E6DE5}
+name: plan-ndel-lineReplaceDialog-title
+key: plan-ndel-linereplacedialog-title
+content-length: 29
+
+This number is already in use
+----field----
+field: {19DA6BC4-FBB0-4256-AA98-BA83EB7F6B05}
+name: plan-ndel-lineReplaceDialog-body
+key: plan-ndel-linereplacedialog-body
+content-length: 96
+
+Are you replacing a device on an existing line? If not, go back and select “I want a new number.
+----field----
+field: {8ACB0C9F-05B8-4904-B91E-00831749C33B}
+name: plan-ndel-lineReplaceDialog-newLineCTA
+key: plan-ndel-linereplacedialog-newlinecta
+content-length: 17
+
+Select New Number
+----field----
+field: {77392DCF-7DAB-47E6-8C09-6567A627E1A4}
+name: plan-ndel-lineReplaceDialog-replaceDeviceCTA
+key: plan-ndel-linereplacedialog-replacedevicecta
+content-length: 16
+
+Replace a Device
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170816T151628Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+74472bf7-d6e4-4a84-9fba-ab9f917a6a18
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171009T162355Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

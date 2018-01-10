@@ -1,0 +1,6 @@
+----role----
+name: sitecore\Modesto Basic Author
+
+----role-in-role----
+rolename: sitecore\Modesto Basic Approver
+

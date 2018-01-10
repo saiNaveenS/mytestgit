@@ -1,0 +1,198 @@
+----item----
+version: 1
+id: {A38950A7-2FA2-4BF3-9296-CB20ACBF1BA2}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Plan Page Components/Plan Page Modules/Plan Details Per GB
+parent: {A3B81C47-60C1-4D9A-9D97-7D8ADC467F15}
+name: Plan Details Per GB
+master: {00000000-0000-0000-0000-000000000000}
+template: {F20532B2-1F32-4791-BEF7-5666BF19CA4B}
+templatekey: Plan Details Component
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: eff6122c-396a-46d7-a513-c4943009df45
+
+----field----
+field: {CF8469B8-E16C-4E23-AA00-20DFE06DABD1}
+name: id
+key: id
+content-length: 13
+
+planDetailsGB
+----field----
+field: {209D6F75-709D-4CE2-A959-56FB1134EC9D}
+name: content-headline
+key: content-headline
+content-length: 10
+
+[PlanName]
+----field----
+field: {B9CF5D48-BC46-44CB-AD12-6E423F073A77}
+name: content-description
+key: content-description
+content-length: 213
+
+Each month, pay for the 4G LTE data you use at one low price of $12/GB. There are no limits, just the flexibility you need. The best part? It’s shared data, so you can have multiple lines connected on one account.
+----field----
+field: {6D161A2C-9F01-462B-BF7A-F5C16378FAA6}
+name: content-hotspotsSection-headline
+key: content-hotspotssection-headline
+content-length: 41
+
+Save money with millions of WiFi hotspots
+----field----
+field: {E22A40A0-E27F-429A-B930-6E5DBFE92034}
+name: content-hotspotsSection-description
+key: content-hotspotssection-description
+content-length: 129
+
+With access to 18 million XFINITY WiFi hotspots, you can do what you love on your phone without adding to your 4G LTE data usage.
+----field----
+field: {46BD8F24-7109-4DF5-AAE1-5429AA4ED872}
+name: content-hotspotsSection-locatorText
+key: content-hotspotssection-locatortext
+content-length: 45
+
+Enter your ZIP Code to find hotspots near you
+----field----
+field: {BE385156-39DD-4AC5-B2E3-AB0E9F4F3B8B}
+name: content-hotspotsSection-locatorPlaceholder
+key: content-hotspotssection-locatorplaceholder
+content-length: 14
+
+Enter ZIP Code
+----field----
+field: {8C642CD2-C858-42FB-B36C-7C42A9E5E512}
+name: content-hotspotsSection-img
+key: content-hotspotssection-img
+content-length: 18
+
+plan-page/city.svg
+----field----
+field: {EB31F2B3-40D3-4654-93E4-2D922C29B415}
+name: content-mobileAppSection-headline
+key: content-mobileappsection-headline
+content-length: 28
+
+Keep tabs on your data usage
+----field----
+field: {3B77FCC8-6F65-46D1-A14E-3D0A453A2926}
+name: content-mobileAppSection-description
+key: content-mobileappsection-description
+content-length: 167
+
+We make it simple to keep track of how much data you use on your account with the XFINITY Mobile app. You can also set data usage notifications to help stay on budget.
+----field----
+field: {E2E38F75-1390-4924-97B4-F212547541D9}
+name: content-mobileAppSection-cta
+key: content-mobileappsection-cta
+content-length: 11
+
+Get Started
+----field----
+field: {C4028D72-B496-418A-9EED-806284C32FD9}
+name: content-mobileAppSection-img
+key: content-mobileappsection-img
+content-length: 24
+
+plan_btg_phone-usage.png
+----field----
+field: {707C5AC6-7614-4BFC-B8DD-0EDD2F6AA3DD}
+name: content-mobileAppSection-backgroundImg
+key: content-mobileappsection-backgroundimg
+content-length: 31
+
+plan-page/mobile-background.png
+----field----
+field: {EE17BC30-2D69-43FC-9580-B304EFDB55B7}
+name: content-switchPlanSection-headline
+key: content-switchplansection-headline
+content-length: 43
+
+Sign up for [PlanName] whenever you need it
+----field----
+field: {A5CA9D50-097E-4CAB-AE2E-6385C3DEEE54}
+name: content-switchPlanSection-description
+key: content-switchplansection-description
+content-length: 172
+
+You can easily change to [PlanName] data during your billing cycle with our app. The best part? It's one low, worry-free price on the best network–just $45/line each month.
+----field----
+field: {4C656B3C-8FEB-4324-90C8-74B4A6A7FC39}
+name: content-switchPlanSection-cta
+key: content-switchplansection-cta
+content-length: 11
+
+Get Started
+----field----
+field: {53C27924-E598-4865-9A24-CE7295885041}
+name: content-switchPlanSection-pricing
+key: content-switchplansection-pricing
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {1CA36EB9-DDB0-452B-BD9D-4F6C019F1FF9}
+name: content-switchPlanSection-img
+key: content-switchplansection-img
+content-length: 18
+
+plan-page/data.svg
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170328T172920Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eff6122c-396a-46d7-a513-c4943009df45
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170920T152556Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

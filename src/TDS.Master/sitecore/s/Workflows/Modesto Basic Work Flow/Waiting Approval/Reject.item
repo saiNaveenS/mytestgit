@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {4B1104B6-6255-4EF0-8A26-65B70CC1A18F}
+database: master
+path: /sitecore/system/Workflows/Modesto Basic Work Flow/Waiting Approval/Reject
+parent: {B7B6F1F6-2CE9-4443-9AC9-C95987004934}
+name: Reject
+master: {00000000-0000-0000-0000-000000000000}
+template: {CB01F9FC-C187-46B3-AB0B-97A8468D8303}
+templatekey: Command
+
+----field----
+field: {DCBEBC58-6124-4100-A248-FC717D6C78D5}
+name: Next state
+key: next state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 29
+
+Applications/32x32/delete.png
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 301
+
+ar|sitecore\Modesto Basic Author|pe|+workflowCommand:execute|+item:write|+item:read|ar|sitecore\Modesto Basic Watcher|pe|-item:read|ar|sitecore\Modesto Basic Approver|pe|+workflowCommand:execute|+item:write|+item:read|ar|sitecore\Modesto Basic Admin|pe|+workflowCommand:execute|+item:write|+item:read|
+----version----
+language: en
+version: 1
+revision: f2253bac-f742-4738-b803-03c16935c194
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170117T161025Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f2253bac-f742-4738-b803-03c16935c194
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170829T203719Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

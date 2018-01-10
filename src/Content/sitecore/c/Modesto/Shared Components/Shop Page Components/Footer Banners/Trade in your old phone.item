@@ -1,0 +1,348 @@
+----item----
+version: 1
+id: {203837E2-5383-4839-B72F-8913CC23E54D}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Shop Page Components/Footer Banners/Trade in your old phone
+parent: {6D6E7A6D-0B9B-4643-8010-DA22AF3030D5}
+name: Trade in your old phone
+master: {00000000-0000-0000-0000-000000000000}
+template: {9B742F3A-B23E-4428-AC67-6601CF336EE1}
+templatekey: Two Item Footer Banner
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 0ec391ba-c830-4900-ab14-4f5fbf1573e8
+
+----field----
+field: {AED7C3A8-C30A-41D5-9ED0-743C47650AA8}
+name: theme
+key: theme
+content-length: 4
+
+dark
+----field----
+field: {91EE93AA-67A5-4333-9211-EDC35DE310D0}
+name: alignment
+key: alignment
+content-length: 5
+
+right
+----field----
+field: {24345B0A-1E62-47F3-B3E3-DB7EE5EFDEDA}
+name: title
+key: title
+content-length: 23
+
+Trade in your old phone
+----field----
+field: {9328E686-68F3-4959-BDFA-6B2D2B33F898}
+name: linkText
+key: linktext
+content-length: 10
+
+Learn More
+----field----
+field: {313F3DEA-0160-4724-A4B3-79DB344AF391}
+name: rightProduct-name
+key: rightproduct-name
+content-length: 26
+
+tradeins_phones-lockup.png
+----field----
+field: {0A277A4E-596F-49A6-A034-1F2E0626EF00}
+name: rightProduct-version
+key: rightproduct-version
+content-length: 10
+
+1502819613
+----field----
+field: {4B3DA321-9532-471A-ACD1-76DBD0177A02}
+name: rightProduct-useBoundingBox
+key: rightproduct-useboundingbox
+content-length: 0
+
+
+----field----
+field: {7265891D-426B-4894-B5E7-62F4490F1EB7}
+name: isTradein
+key: istradein
+content-length: 1
+
+1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170926T203419Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0ec391ba-c830-4900-ab14-4f5fbf1573e8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170926T203717Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 9b591897-0e09-4667-94eb-8d6e2b2c1e63
+
+----field----
+field: {AED7C3A8-C30A-41D5-9ED0-743C47650AA8}
+name: theme
+key: theme
+content-length: 4
+
+dark
+----field----
+field: {91EE93AA-67A5-4333-9211-EDC35DE310D0}
+name: alignment
+key: alignment
+content-length: 5
+
+right
+----field----
+field: {24345B0A-1E62-47F3-B3E3-DB7EE5EFDEDA}
+name: title
+key: title
+content-length: 23
+
+Trade in your old phone
+----field----
+field: {9328E686-68F3-4959-BDFA-6B2D2B33F898}
+name: linkText
+key: linktext
+content-length: 10
+
+Learn More
+----field----
+field: {313F3DEA-0160-4724-A4B3-79DB344AF391}
+name: rightProduct-name
+key: rightproduct-name
+content-length: 22
+
+IPhone8_large_1396.png
+----field----
+field: {0A277A4E-596F-49A6-A034-1F2E0626EF00}
+name: rightProduct-version
+key: rightproduct-version
+content-length: 10
+
+1505314826
+----field----
+field: {4B3DA321-9532-471A-ACD1-76DBD0177A02}
+name: rightProduct-useBoundingBox
+key: rightproduct-useboundingbox
+content-length: 0
+
+
+----field----
+field: {7265891D-426B-4894-B5E7-62F4490F1EB7}
+name: isTradein
+key: istradein
+content-length: 1
+
+1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171025T143801Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171025T143801Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+cable\szhao200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9b591897-0e09-4667-94eb-8d6e2b2c1e63
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171025T144111Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+cable\szhao200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: f9339145-ed61-4ed7-b0d9-21857c1813e5
+
+----field----
+field: {AED7C3A8-C30A-41D5-9ED0-743C47650AA8}
+name: theme
+key: theme
+content-length: 4
+
+dark
+----field----
+field: {91EE93AA-67A5-4333-9211-EDC35DE310D0}
+name: alignment
+key: alignment
+content-length: 5
+
+right
+----field----
+field: {24345B0A-1E62-47F3-B3E3-DB7EE5EFDEDA}
+name: title
+key: title
+content-length: 23
+
+Trade in your old phone
+----field----
+field: {9328E686-68F3-4959-BDFA-6B2D2B33F898}
+name: linkText
+key: linktext
+content-length: 5
+
+Do it
+----field----
+field: {313F3DEA-0160-4724-A4B3-79DB344AF391}
+name: rightProduct-name
+key: rightproduct-name
+content-length: 29
+
+iPhone8_medium_596_longer.png
+----field----
+field: {0A277A4E-596F-49A6-A034-1F2E0626EF00}
+name: rightProduct-version
+key: rightproduct-version
+content-length: 10
+
+1505318213
+----field----
+field: {4B3DA321-9532-471A-ACD1-76DBD0177A02}
+name: rightProduct-useBoundingBox
+key: rightproduct-useboundingbox
+content-length: 0
+
+
+----field----
+field: {7265891D-426B-4894-B5E7-62F4490F1EB7}
+name: isTradein
+key: istradein
+content-length: 1
+
+1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171025T151225Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171025T151225Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+CABLE\esoto209
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f9339145-ed61-4ed7-b0d9-21857c1813e5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171025T151709Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+CABLE\esoto209
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

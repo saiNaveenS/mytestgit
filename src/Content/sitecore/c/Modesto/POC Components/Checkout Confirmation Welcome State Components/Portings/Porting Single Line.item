@@ -1,0 +1,107 @@
+----item----
+version: 1
+id: {242AC14C-5DB8-4332-89FD-D931236DD899}
+database: master
+path: /sitecore/content/Modesto/POC Components/Checkout Confirmation Welcome State Components/Portings/Porting Single Line
+parent: {A3E00F60-A75D-457D-AD5D-0FA3F9F35753}
+name: Porting Single Line
+master: {00000000-0000-0000-0000-000000000000}
+template: {3E5B9B13-BA02-47F2-90E7-AC5F813C8665}
+templatekey: Porting
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: ec5624b9-e135-4c38-abe2-aed5882fdabc
+
+----field----
+field: {DFDA5DAD-7EDF-4CED-8A21-3C9F83A814F7}
+name: description
+key: description
+content-length: 19
+
+Porting Single Line
+----field----
+field: {D1F31FEA-DBDF-4270-97A1-BCD36A706C5E}
+name: device
+key: device
+content-length: 6
+
+single
+----field----
+field: {20FF60CB-6F8D-4F56-8819-8869C0BAD719}
+name: porting-headline
+key: porting-headline
+content-length: 28
+
+Enjoy your new phone faster.
+----field----
+field: {F80E9A5D-274F-419C-8426-975004C4F524}
+name: porting-body
+key: porting-body
+content-length: 172
+
+Entering a few details now can speed up the number transfer process and save you time once your order arrives. Your current phone will work until your new one is activated.
+----field----
+field: {C25D3681-7537-40AD-A391-CA27E5BF614C}
+name: porting-cta
+key: porting-cta
+content-length: 22
+
+Enter Transfer Details
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170403T153100Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ec5624b9-e135-4c38-abe2-aed5882fdabc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T163954Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

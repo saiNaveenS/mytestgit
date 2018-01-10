@@ -1,0 +1,114 @@
+----item----
+version: 1
+id: {8B712995-ECF0-4AF2-A762-73424647C62C}
+database: master
+path: /sitecore/content/Modesto/POC Components/Carriers/GoSmart
+parent: {D62D00E6-68C4-4311-ABE5-99FFDA1C6791}
+name: GoSmart
+master: {00000000-0000-0000-0000-000000000000}
+template: {7525ABC4-F972-4555-8AF3-B41FBFD46D35}
+templatekey: Carrier
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: e69281b4-b545-426a-90b4-04fee7f2cdc9
+
+----field----
+field: {8C488FAA-FEDE-47E1-B35E-6DB34ECA17CE}
+name: carrier
+key: carrier
+content-length: 7
+
+GoSmart
+----field----
+field: {ED7F3BDD-301A-4A38-93B8-BAD1599BA8ED}
+name: carrierCode
+key: carriercode
+content-length: 7
+
+GoSmart
+----field----
+field: {4F181FD2-4911-4293-B425-A173F92C3D2C}
+name: account
+key: account
+content-length: 21
+
+10-digit phone number
+----field----
+field: {38511A20-1ED1-496E-88D4-F91DAC0598AF}
+name: pin
+key: pin
+content-length: 46
+
+4-digit PIN. Dial 611 to set one up if needed.
+----field----
+field: {4ABE785F-7E15-419F-A1A5-80D4B475FB3E}
+name: website
+key: website
+content-length: 41
+
+https://www.gosmartmobile.com/get-started
+----field----
+field: {6DAEE62C-9D38-4E9F-A96A-0F3BED5A5493}
+name: support
+key: support
+content-length: 14
+
+1-877-582-7788
+----field----
+field: {89ED217E-4A8C-43C9-A882-B0D2AC548ABB}
+name: addressRequired
+key: addressrequired
+content-length: 0
+
+
+----field----
+field: {D1ABF2D8-7F84-4459-96DE-34596842CBE1}
+name: notes
+key: notes
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170331T173412Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e69281b4-b545-426a-90b4-04fee7f2cdc9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T163654Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

@@ -1,0 +1,1107 @@
+----item----
+version: 1
+id: {3073224F-D4AF-4818-AA41-3CEC972854AB}
+database: master
+path: /sitecore/content/Modesto/XFINITY Mobile Website/A/Cart Page
+parent: {5542DC54-F879-4255-9E6B-F07F64831389}
+name: Cart Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {C74DC7B5-3D63-4D47-A8C9-BB8BFDA8943F}
+templatekey: Cart Page
+created: 20171207T190912Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 6d60899c-76d9-4d8b-a6d5-56b1444ef5b7
+
+----field----
+field: {D0FA1F29-3BF6-4AEF-9CC7-ABC1CC97A9C0}
+name: emptyCart-title
+key: emptycart-title
+content-length: 29
+
+There's nothing in your cart.
+----field----
+field: {7AA18828-2703-42AF-9DFF-88C94209AAA3}
+name: emptyCart-button-text
+key: emptycart-button-text
+content-length: 13
+
+Keep Shopping
+----field----
+field: {65D2B0F1-1DB3-4615-9464-B5909187224A}
+name: filledCart-section1-title
+key: filledcart-section1-title
+content-length: 9
+
+Your Cart
+----field----
+field: {E2DA0CAF-AF8F-4FA8-AE8E-B380DE1ADFB4}
+name: filledCart-section1-link-text
+key: filledcart-section1-link-text
+content-length: 28
+
+View estimated monthly costs
+----field----
+field: {8083FABB-BAA0-40ED-AD1F-E2057B7B4BE5}
+name: filledCart-section2-checkoutHeader
+key: filledcart-section2-checkoutheader
+content-length: 9
+
+Your Cart
+----field----
+field: {403F9759-2B1C-43D0-8EE2-0BBE7F107D06}
+name: filledCart-section2-header
+key: filledcart-section2-header
+content-length: 23
+
+Unlimited Talk and Text
+----field----
+field: {5705D0B9-0FA6-43E5-A315-6DF7069CF361}
+name: filledCart-section2-headerRight
+key: filledcart-section2-headerright
+content-length: 8
+
+Included
+----field----
+field: {249590C6-ADB1-4051-9F88-825F1950B999}
+name: filledCart-section2-description
+key: filledcart-section2-description
+content-length: 175
+
+Just for being an XFINITY Internet customer, you get up to five XFINITY Mobile lines with unlimited talk and text, and you start with 100 MB of shared 4G LTE data every month.
+----field----
+field: {3785D3EE-A9E5-4921-BDDB-E11DFBF8D738}
+name: filledCart-section2-checkout-link-text
+key: filledcart-section2-checkout-link-text
+content-length: 17
+
+Continue Shopping
+----field----
+field: {F7B1F475-A91E-4ED2-AC90-12628359CB27}
+name: filledCart-section2-NDELText
+key: filledcart-section2-ndeltext
+content-length: 17
+
+This will replace
+----field----
+field: {1AE84A27-4432-4DDB-AE8D-E1620F14DE89}
+name: filledCart-section2-NDELDisclaimer
+key: filledcart-section2-ndeldisclaimer
+content-length: 38
+
+{1EDE0227-C32F-4F82-BB59-4045AD7DF7D1}
+----field----
+field: {5E12FF5A-2017-4CC7-A7E2-F8333EA02880}
+name: filledCart-section2-preorderDisclaimer
+key: filledcart-section2-preorderdisclaimer
+content-length: 38
+
+{6DD0B319-BFE6-41B4-B725-53C2D221534C}
+----field----
+field: {F842561A-577E-472C-A91E-2C97073BA5D9}
+name: filledCart-section2-disclaimer
+key: filledcart-section2-disclaimer
+content-length: 38
+
+{15061B1F-1CE7-4ED1-A287-F5490D427564}
+----field----
+field: {E085E7EF-0DCC-4024-A196-0FFA58DC82F8}
+name: filledCart-section2-total-title
+key: filledcart-section2-total-title
+content-length: 15
+
+Estimated Total
+----field----
+field: {3C470B46-2622-48B5-BCB4-EA513FDC6E22}
+name: filledCart-section2-total-titleAbrevation
+key: filledcart-section2-total-titleabrevation
+content-length: 10
+
+Est. Total
+----field----
+field: {3DB45F9D-0B57-4AAB-BE1D-2286CE4DEFDC}
+name: filledCart-section2-total-exclusion
+key: filledcart-section2-total-exclusion
+content-length: 18
+
+Excluding shipping
+----field----
+field: {24D5D0EB-D252-4653-B792-0AEC07943812}
+name: filledCart-section2-taxes-title
+key: filledcart-section2-taxes-title
+content-length: 37
+
+Estimated Taxes, Fees & Other Charges
+----field----
+field: {6FD9D57D-662C-4BCA-9673-0915B9C2AF65}
+name: filledCart-section2-taxes-subtitle
+key: filledcart-section2-taxes-subtitle
+content-length: 91
+
+Taxes are based on the full price of your products and must be paid in one upfront payment.
+----field----
+field: {61E21D2D-7733-40E8-A672-F09C3A740FC2}
+name: filledCart-section2-taxes-zipcodeLabel
+key: filledcart-section2-taxes-zipcodelabel
+content-length: 41
+
+Sales tax calculated using your zip code:
+----field----
+field: {1D424FC4-7865-4DFF-969D-150B7F955B30}
+name: filledCart-section2-taxes-zipcodeSave
+key: filledcart-section2-taxes-zipcodesave
+content-length: 4
+
+Save
+----field----
+field: {8D1E4188-4C85-44FD-A772-EEB2E193B9BD}
+name: filledCart-section2-taxes-disclaimer
+key: filledcart-section2-taxes-disclaimer
+content-length: 221
+
+Other charges are determined on a monthly recurring basis and are subject to change. These charges are not government-mandated, but rather, are required to recover federal, state, and local fees imposed on XFINITY Mobile.
+----field----
+field: {54B3F6AB-B397-4BED-A72F-A987DA26CD4F}
+name: filledCart-section2-taxes-information
+key: filledcart-section2-taxes-information
+content-length: 51
+
+For more information taxes and other charges, visit
+----field----
+field: {9DB2A048-2A2B-48AA-8D47-D16CDCD49220}
+name: filledCart-section2-taxes-xfinityLink-text
+key: filledcart-section2-taxes-xfinitylink-text
+content-length: 11
+
+XFINITY.com
+----field----
+field: {5210FA76-9138-482F-9927-D9BFABC16E19}
+name: filledCart-section2-taxes-xfinityLink-href
+key: filledcart-section2-taxes-xfinitylink-href
+content-length: 18
+
+http://xfinity.com
+----field----
+field: {03E96C10-12C4-44C0-9CB7-7E3F25A7696E}
+name: filledCart-section2-taxes-expandedTaxes
+key: filledcart-section2-taxes-expandedtaxes
+content-length: 71
+
+Heading1=Taxes%2C%20Fees%2C%20%26%20Surcharges&Heading2=Other%20Charges
+----field----
+field: {CE95D239-6269-4E20-B0CD-D159B2D73E00}
+name: filledCart-section2-cartItem-preorderLabel
+key: filledcart-section2-cartitem-preorderlabel
+content-length: 9
+
+Pre-order
+----field----
+field: {BB1FA56C-319F-4FC8-A988-BF20B99BC0AD}
+name: filledCart-section2-cartItem-pricing-delay
+key: filledcart-section2-cartitem-pricing-delay
+content-length: 21
+
+First Payment Delayed
+----field----
+field: {BE63D7E7-E373-49FC-916D-F44EFEE7CC57}
+name: filledCart-section2-cartItem-pricing-onDate
+key: filledcart-section2-cartitem-pricing-ondate
+content-length: 16
+
+First payment on
+----field----
+field: {EDB871A1-D17A-46FF-8ED2-E9C8E16A1E8F}
+name: filledCart-section2-cartItem-pricing-push
+key: filledcart-section2-cartitem-pricing-push
+content-length: 6
+
+Pushed
+----field----
+field: {74BA25E6-D516-4F05-B03D-D3B208B88B4D}
+name: filledCart-section2-cartItem-protection-prorated
+key: filledcart-section2-cartitem-protection-prorated
+content-length: 8
+
+Prorated
+----field----
+field: {F84DE47A-D39B-42B4-B645-4B7DBE8639A2}
+name: filledCart-section2-cartItem-rate-prorated
+key: filledcart-section2-cartitem-rate-prorated
+content-length: 8
+
+Prorated
+----field----
+field: {5E2C2E91-8A7B-43E1-94D9-F45F86E2C82E}
+name: filledCart-section2-cartItem-rate-onUse
+key: filledcart-section2-cartitem-rate-onuse
+content-length: 12
+
+Based on use
+----field----
+field: {E4E45181-682D-4805-9613-DA4D99900967}
+name: filledCart-section2-cartItem-review-preorderDelivery
+key: filledcart-section2-cartitem-review-preorderdelivery
+content-length: 25
+
+Estimated available Date:
+----field----
+field: {D139108E-C348-4EE0-8410-DE2CE2DAF7A9}
+name: filledCart-section2-cartItem-review-buttonTextEdit
+key: filledcart-section2-cartitem-review-buttontextedit
+content-length: 4
+
+Edit
+----field----
+field: {027C9FC1-9E3E-4806-9965-037BFDBABFBC}
+name: filledCart-section2-cartItem-review-buttonTextRemove
+key: filledcart-section2-cartitem-review-buttontextremove
+content-length: 6
+
+Remove
+----field----
+field: {4AFC16B6-27F7-40F5-B74F-FF33F097378E}
+name: filledCart-section2-cartItem-removeCartItem-text
+key: filledcart-section2-cartitem-removecartitem-text
+content-length: 31
+
+Are you sure you want to remove
+----field----
+field: {8FA4D2B3-9495-4425-BD27-B6FE4B0401DF}
+name: filledCart-section2-cartItem-removeCartItem-buttonRemove-text
+key: filledcart-section2-cartitem-removecartitem-buttonremove-text
+content-length: 6
+
+Remove
+----field----
+field: {E7B08398-6D08-4E46-99AE-6D800B55B524}
+name: filledCart-section2-cartItem-removeCartItem-buttonKeep-text
+key: filledcart-section2-cartitem-removecartitem-buttonkeep-text
+content-length: 4
+
+Keep
+----field----
+field: {7EA46998-B99A-45E1-82CF-89A2A343EFC9}
+name: filledCart-section2-cartItem-editCartItem-group-buttonSave-text
+key: filledcart-section2-cartitem-editcartitem-group-buttonsave-text
+content-length: 4
+
+Save
+----field----
+field: {6104B9F4-D165-4847-9A41-DD365E121C11}
+name: filledCart-section2-cartItem-editCartItem-group-buttonEdit-text
+key: filledcart-section2-cartitem-editcartitem-group-buttonedit-text
+content-length: 4
+
+Edit
+----field----
+field: {52228274-D1B1-44E9-B469-41F72FD2F718}
+name: filledCart-section2-cartItem-editCartItem-labelColor
+key: filledcart-section2-cartitem-editcartitem-labelcolor
+content-length: 5
+
+color
+----field----
+field: {93BD9523-6837-4FBB-90FA-E20BC71DA1E9}
+name: filledCart-section2-cartItem-editCartItem-labelCapacity
+key: filledcart-section2-cartitem-editcartitem-labelcapacity
+content-length: 8
+
+Capacity
+----field----
+field: {28F9305C-9404-41DF-AA95-9BA1C9257427}
+name: filledCart-section2-cartItem-editCartItem-labelQuantity
+key: filledcart-section2-cartitem-editcartitem-labelquantity
+content-length: 8
+
+Quantity
+----field----
+field: {59836F85-7DF6-4763-A352-0AA4C5B73FE6}
+name: filledCart-section2-cartItem-editCartItem-labelPayment
+key: filledcart-section2-cartitem-editcartitem-labelpayment
+content-length: 7
+
+Payment
+----field----
+field: {CE83F125-9FB5-4365-B404-45D59F414137}
+name: filledCart-section2-cartItem-editCartItem-labelProtection
+key: filledcart-section2-cartitem-editcartitem-labelprotection
+content-length: 15
+
+Protection plan
+----field----
+field: {5B7B95D0-E7FB-48B3-8B2F-9970560544B5}
+name: filledCart-section2-cartItem-editCartItem-labelData
+key: filledcart-section2-cartitem-editcartitem-labeldata
+content-length: 23
+
+choose your data option
+----field----
+field: {71E1EF41-1E9C-4B81-86DB-A4094F293773}
+name: filledCart-section2-cartItem-editCartItem-labelNumber
+key: filledcart-section2-cartitem-editcartitem-labelnumber
+content-length: 19
+
+select phone number
+----field----
+field: {1ECC177F-CDB4-43D5-95DC-77EC73BEFF96}
+name: filledCart-section2-cartItem-editCartItem-labelPhoneUser
+key: filledcart-section2-cartitem-editcartitem-labelphoneuser
+content-length: 22
+
+who is this phone for?
+----field----
+field: {4C985515-78EF-40CB-9421-B2BAE54B8531}
+name: filledCart-section2-cartItem-editCartItem-buttonDone-text
+key: filledcart-section2-cartitem-editcartitem-buttondone-text
+content-length: 4
+
+Done
+----field----
+field: {02F1A93C-F23B-4E4E-AA4F-6B4AE380B2B3}
+name: filledCart-section2-cartItem-editCartItem-numberStatus-errorMessage
+key: filledcart-section2-cartitem-editcartitem-numberstatus-errormessage
+content-length: 152
+
+Your phone number can’t be transferred. There are a lot of reasons why this can happen. Please contact your carrier, or try entering a different number.
+----field----
+field: {E4C0F4D1-6121-4DD3-A581-346AF8B9EAFD}
+name: filledCart-section2-cartItem-preOrderRemoveModal-header
+key: filledcart-section2-cartitem-preorderremovemodal-header
+content-length: 14
+
+Check out with
+----field----
+field: {E910AC4D-A155-44D1-9E84-5210273D138A}
+name: filledCart-section2-cartItem-preOrderRemoveModal-shippingWarning
+key: filledcart-section2-cartitem-preorderremovemodal-shippingwarning
+content-length: 24
+
+items ship individually.
+----field----
+field: {C35866D6-E6F0-4F3F-A901-B29BFDA48E33}
+name: filledCart-section2-cartItem-preOrderRemoveModal-disclaimer
+key: filledcart-section2-cartitem-preorderremovemodal-disclaimer
+content-length: 73
+
+Please check out with this item before adding any new items to your cart.
+----field----
+field: {8F1439F2-7EB4-4427-8177-D1106B269865}
+name: filledCart-section2-cartItem-preOrderRemoveModal-buttonProceedToCart-text
+key: filledcart-section2-cartitem-preorderremovemodal-buttonproceedtocart-text
+content-length: 13
+
+Continue with
+----field----
+field: {F546FF00-39BD-4F41-B4D0-1F085CA76435}
+name: filledCart-section2-cartItem-preOrderRemoveModal-continueShopping
+key: filledcart-section2-cartitem-preorderremovemodal-continueshopping
+content-length: 98
+
+text1=Or%2C%20you%20can%20remove%20the&text2=item%20from%20your%20cart%20to%20continue%20shopping.
+----field----
+field: {8849884A-1B24-4577-8F00-0CEEDDD701A4}
+name: filledCart-section2-cartItem-preOrderRemoveModal-buttonRemoveItem
+key: filledcart-section2-cartitem-preorderremovemodal-buttonremoveitem
+content-length: 23
+
+text1=Remove&text2=Item
+----field----
+field: {D70E0E8D-20F7-4323-B169-AF56EE9950FD}
+name: filledCart-section3-button1-text
+key: filledcart-section3-button1-text
+content-length: 17
+
+Continue Shopping
+----field----
+field: {F8E1AA6F-F037-45F0-87DC-A1B95553CECA}
+name: filledCart-section3-button2-text
+key: filledcart-section3-button2-text
+content-length: 8
+
+Checkout
+----field----
+field: {2C9FC7B2-9311-4B9A-89EB-1D2DFAE1910B}
+name: filledCart-statement-title
+key: filledcart-statement-title
+content-length: 23
+
+Estimated Monthly Costs
+----field----
+field: {EB356E2F-25C2-4419-8549-90F3B9BE378D}
+name: filledCart-statement-subtitle
+key: filledcart-statement-subtitle
+content-length: 16
+
+Lines of Service
+----field----
+field: {EBB06A74-0D1E-4132-964C-4453740772A6}
+name: filledCart-statement-subtitleRight
+key: filledcart-statement-subtitleright
+content-length: 13
+
+Monthly Costs
+----field----
+field: {40565BB1-4D3F-4FF6-B65C-3B0FEA5E7CB2}
+name: filledCart-statement-total
+key: filledcart-statement-total
+content-length: 5
+
+Total
+----field----
+field: {D816D800-FB61-4701-A99A-6F96148C562C}
+name: filledCart-statement-usage
+key: filledcart-statement-usage
+content-length: 9
+
+Gig usage
+----field----
+field: {B3389EAB-4DA8-48AE-B87F-769FE59A5785}
+name: filledCart-statement-disclaimer
+key: filledcart-statement-disclaimer
+content-length: 180
+
+This is the estimated amount you will be charged for your wireless service, device payment plan and additional services, if any. See your device payment plan agreement for details.
+----field----
+field: {6FC8C15B-A614-4472-8D95-162F73D2D1CE}
+name: filledCart-productLine-use
+key: filledcart-productline-use
+content-length: 12
+
+Based on use
+----field----
+field: {DB335B97-F8E0-4257-884F-6034F484C536}
+name: filledCart-productLine-serviceUnlimited
+key: filledcart-productline-serviceunlimited
+content-length: 34
+
+Service with unlimited Talk & Text
+----field----
+field: {18D7B07E-4C26-4B4C-9773-6B1B90ECDB4C}
+name: filledCart-productLine-serviceUnlimitedCost
+key: filledcart-productline-serviceunlimitedcost
+content-length: 8
+
+Included
+----field----
+field: {BD0756CA-7360-464C-BE5E-A53BBA19405F}
+name: filledCart-productLine-devicePayments
+key: filledcart-productline-devicepayments
+content-length: 15
+
+Device Payments
+----field----
+field: {2B4E37D3-AF48-477C-886D-DEE79585BE93}
+name: filledCart-productLine-dataIncludedByTheGig
+key: filledcart-productline-dataincludedbythegig
+content-length: 14
+
+100MB Included
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171207T190912Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6d60899c-76d9-4d8b-a6d5-56b1444ef5b7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171219T152945Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 4d9f6a92-9c87-44e0-95d2-19c73b10c0e6
+
+----field----
+field: {D0FA1F29-3BF6-4AEF-9CC7-ABC1CC97A9C0}
+name: emptyCart-title
+key: emptycart-title
+content-length: 29
+
+There's nothing in your cart.
+----field----
+field: {7AA18828-2703-42AF-9DFF-88C94209AAA3}
+name: emptyCart-button-text
+key: emptycart-button-text
+content-length: 13
+
+Keep Shopping
+----field----
+field: {65D2B0F1-1DB3-4615-9464-B5909187224A}
+name: filledCart-section1-title
+key: filledcart-section1-title
+content-length: 9
+
+Your Cart
+----field----
+field: {E2DA0CAF-AF8F-4FA8-AE8E-B380DE1ADFB4}
+name: filledCart-section1-link-text
+key: filledcart-section1-link-text
+content-length: 28
+
+View estimated monthly costs
+----field----
+field: {8083FABB-BAA0-40ED-AD1F-E2057B7B4BE5}
+name: filledCart-section2-checkoutHeader
+key: filledcart-section2-checkoutheader
+content-length: 9
+
+Your Cart
+----field----
+field: {403F9759-2B1C-43D0-8EE2-0BBE7F107D06}
+name: filledCart-section2-header
+key: filledcart-section2-header
+content-length: 23
+
+Unlimited Talk and Text
+----field----
+field: {5705D0B9-0FA6-43E5-A315-6DF7069CF361}
+name: filledCart-section2-headerRight
+key: filledcart-section2-headerright
+content-length: 8
+
+Included
+----field----
+field: {249590C6-ADB1-4051-9F88-825F1950B999}
+name: filledCart-section2-description
+key: filledcart-section2-description
+content-length: 175
+
+Just for being an XFINITY Internet customer, you get up to five XFINITY Mobile lines with unlimited talk and text, and you start with 100 MB of shared 4G LTE data every month.
+----field----
+field: {3785D3EE-A9E5-4921-BDDB-E11DFBF8D738}
+name: filledCart-section2-checkout-link-text
+key: filledcart-section2-checkout-link-text
+content-length: 17
+
+Continue Shopping
+----field----
+field: {F7B1F475-A91E-4ED2-AC90-12628359CB27}
+name: filledCart-section2-NDELText
+key: filledcart-section2-ndeltext
+content-length: 17
+
+This will replace
+----field----
+field: {1AE84A27-4432-4DDB-AE8D-E1620F14DE89}
+name: filledCart-section2-NDELDisclaimer
+key: filledcart-section2-ndeldisclaimer
+content-length: 38
+
+{1EDE0227-C32F-4F82-BB59-4045AD7DF7D1}
+----field----
+field: {5E12FF5A-2017-4CC7-A7E2-F8333EA02880}
+name: filledCart-section2-preorderDisclaimer
+key: filledcart-section2-preorderdisclaimer
+content-length: 38
+
+{6DD0B319-BFE6-41B4-B725-53C2D221534C}
+----field----
+field: {F842561A-577E-472C-A91E-2C97073BA5D9}
+name: filledCart-section2-disclaimer
+key: filledcart-section2-disclaimer
+content-length: 38
+
+{15061B1F-1CE7-4ED1-A287-F5490D427564}
+----field----
+field: {E085E7EF-0DCC-4024-A196-0FFA58DC82F8}
+name: filledCart-section2-total-title
+key: filledcart-section2-total-title
+content-length: 15
+
+Estimated Total
+----field----
+field: {3C470B46-2622-48B5-BCB4-EA513FDC6E22}
+name: filledCart-section2-total-titleAbrevation
+key: filledcart-section2-total-titleabrevation
+content-length: 10
+
+Est. Total
+----field----
+field: {3DB45F9D-0B57-4AAB-BE1D-2286CE4DEFDC}
+name: filledCart-section2-total-exclusion
+key: filledcart-section2-total-exclusion
+content-length: 18
+
+Excluding shipping
+----field----
+field: {24D5D0EB-D252-4653-B792-0AEC07943812}
+name: filledCart-section2-taxes-title
+key: filledcart-section2-taxes-title
+content-length: 37
+
+Estimated Taxes, Fees & Other Charges
+----field----
+field: {6FD9D57D-662C-4BCA-9673-0915B9C2AF65}
+name: filledCart-section2-taxes-subtitle
+key: filledcart-section2-taxes-subtitle
+content-length: 91
+
+Taxes are based on the full price of your products and must be paid in one upfront payment.
+----field----
+field: {61E21D2D-7733-40E8-A672-F09C3A740FC2}
+name: filledCart-section2-taxes-zipcodeLabel
+key: filledcart-section2-taxes-zipcodelabel
+content-length: 41
+
+Sales tax calculated using your zip code:
+----field----
+field: {0E93D6FF-62E1-4AD8-98A2-057588FE59EA}
+name: filledCart-section2-taxes-zipcodeChange
+key: filledcart-section2-taxes-zipcodechange
+content-length: 6
+
+Change
+----field----
+field: {1D424FC4-7865-4DFF-969D-150B7F955B30}
+name: filledCart-section2-taxes-zipcodeSave
+key: filledcart-section2-taxes-zipcodesave
+content-length: 4
+
+Save
+----field----
+field: {8D1E4188-4C85-44FD-A772-EEB2E193B9BD}
+name: filledCart-section2-taxes-disclaimer
+key: filledcart-section2-taxes-disclaimer
+content-length: 221
+
+Other charges are determined on a monthly recurring basis and are subject to change. These charges are not government-mandated, but rather, are required to recover federal, state, and local fees imposed on XFINITY Mobile.
+----field----
+field: {54B3F6AB-B397-4BED-A72F-A987DA26CD4F}
+name: filledCart-section2-taxes-information
+key: filledcart-section2-taxes-information
+content-length: 51
+
+For more information taxes and other charges, visit
+----field----
+field: {9DB2A048-2A2B-48AA-8D47-D16CDCD49220}
+name: filledCart-section2-taxes-xfinityLink-text
+key: filledcart-section2-taxes-xfinitylink-text
+content-length: 11
+
+XFINITY.com
+----field----
+field: {5210FA76-9138-482F-9927-D9BFABC16E19}
+name: filledCart-section2-taxes-xfinityLink-href
+key: filledcart-section2-taxes-xfinitylink-href
+content-length: 18
+
+http://xfinity.com
+----field----
+field: {03E96C10-12C4-44C0-9CB7-7E3F25A7696E}
+name: filledCart-section2-taxes-expandedTaxes
+key: filledcart-section2-taxes-expandedtaxes
+content-length: 71
+
+heading1=Taxes%2C%20Fees%2C%20%26%20Surcharges&heading2=Other%20Charges
+----field----
+field: {CE95D239-6269-4E20-B0CD-D159B2D73E00}
+name: filledCart-section2-cartItem-preorderLabel
+key: filledcart-section2-cartitem-preorderlabel
+content-length: 9
+
+Pre-order
+----field----
+field: {BB1FA56C-319F-4FC8-A988-BF20B99BC0AD}
+name: filledCart-section2-cartItem-pricing-delay
+key: filledcart-section2-cartitem-pricing-delay
+content-length: 21
+
+First Payment Delayed
+----field----
+field: {BE63D7E7-E373-49FC-916D-F44EFEE7CC57}
+name: filledCart-section2-cartItem-pricing-onDate
+key: filledcart-section2-cartitem-pricing-ondate
+content-length: 16
+
+First payment on
+----field----
+field: {EDB871A1-D17A-46FF-8ED2-E9C8E16A1E8F}
+name: filledCart-section2-cartItem-pricing-push
+key: filledcart-section2-cartitem-pricing-push
+content-length: 6
+
+Pushed
+----field----
+field: {74BA25E6-D516-4F05-B03D-D3B208B88B4D}
+name: filledCart-section2-cartItem-protection-prorated
+key: filledcart-section2-cartitem-protection-prorated
+content-length: 8
+
+Prorated
+----field----
+field: {F84DE47A-D39B-42B4-B645-4B7DBE8639A2}
+name: filledCart-section2-cartItem-rate-prorated
+key: filledcart-section2-cartitem-rate-prorated
+content-length: 8
+
+Prorated
+----field----
+field: {5E2C2E91-8A7B-43E1-94D9-F45F86E2C82E}
+name: filledCart-section2-cartItem-rate-onUse
+key: filledcart-section2-cartitem-rate-onuse
+content-length: 12
+
+Based on use
+----field----
+field: {E4E45181-682D-4805-9613-DA4D99900967}
+name: filledCart-section2-cartItem-review-preorderDelivery
+key: filledcart-section2-cartitem-review-preorderdelivery
+content-length: 25
+
+Estimated available Date:
+----field----
+field: {D139108E-C348-4EE0-8410-DE2CE2DAF7A9}
+name: filledCart-section2-cartItem-review-buttonTextEdit
+key: filledcart-section2-cartitem-review-buttontextedit
+content-length: 4
+
+Edit
+----field----
+field: {027C9FC1-9E3E-4806-9965-037BFDBABFBC}
+name: filledCart-section2-cartItem-review-buttonTextRemove
+key: filledcart-section2-cartitem-review-buttontextremove
+content-length: 6
+
+Remove
+----field----
+field: {4AFC16B6-27F7-40F5-B74F-FF33F097378E}
+name: filledCart-section2-cartItem-removeCartItem-text
+key: filledcart-section2-cartitem-removecartitem-text
+content-length: 31
+
+Are you sure you want to remove
+----field----
+field: {8FA4D2B3-9495-4425-BD27-B6FE4B0401DF}
+name: filledCart-section2-cartItem-removeCartItem-buttonRemove-text
+key: filledcart-section2-cartitem-removecartitem-buttonremove-text
+content-length: 6
+
+Remove
+----field----
+field: {E7B08398-6D08-4E46-99AE-6D800B55B524}
+name: filledCart-section2-cartItem-removeCartItem-buttonKeep-text
+key: filledcart-section2-cartitem-removecartitem-buttonkeep-text
+content-length: 4
+
+Keep
+----field----
+field: {7EA46998-B99A-45E1-82CF-89A2A343EFC9}
+name: filledCart-section2-cartItem-editCartItem-group-buttonSave-text
+key: filledcart-section2-cartitem-editcartitem-group-buttonsave-text
+content-length: 4
+
+Save
+----field----
+field: {6104B9F4-D165-4847-9A41-DD365E121C11}
+name: filledCart-section2-cartItem-editCartItem-group-buttonEdit-text
+key: filledcart-section2-cartitem-editcartitem-group-buttonedit-text
+content-length: 4
+
+Edit
+----field----
+field: {52228274-D1B1-44E9-B469-41F72FD2F718}
+name: filledCart-section2-cartItem-editCartItem-labelColor
+key: filledcart-section2-cartitem-editcartitem-labelcolor
+content-length: 5
+
+color
+----field----
+field: {93BD9523-6837-4FBB-90FA-E20BC71DA1E9}
+name: filledCart-section2-cartItem-editCartItem-labelCapacity
+key: filledcart-section2-cartitem-editcartitem-labelcapacity
+content-length: 8
+
+Capacity
+----field----
+field: {28F9305C-9404-41DF-AA95-9BA1C9257427}
+name: filledCart-section2-cartItem-editCartItem-labelQuantity
+key: filledcart-section2-cartitem-editcartitem-labelquantity
+content-length: 8
+
+Quantity
+----field----
+field: {59836F85-7DF6-4763-A352-0AA4C5B73FE6}
+name: filledCart-section2-cartItem-editCartItem-labelPayment
+key: filledcart-section2-cartitem-editcartitem-labelpayment
+content-length: 7
+
+Payment
+----field----
+field: {CE83F125-9FB5-4365-B404-45D59F414137}
+name: filledCart-section2-cartItem-editCartItem-labelProtection
+key: filledcart-section2-cartitem-editcartitem-labelprotection
+content-length: 15
+
+Protection plan
+----field----
+field: {5B7B95D0-E7FB-48B3-8B2F-9970560544B5}
+name: filledCart-section2-cartItem-editCartItem-labelData
+key: filledcart-section2-cartitem-editcartitem-labeldata
+content-length: 23
+
+choose your data option
+----field----
+field: {71E1EF41-1E9C-4B81-86DB-A4094F293773}
+name: filledCart-section2-cartItem-editCartItem-labelNumber
+key: filledcart-section2-cartitem-editcartitem-labelnumber
+content-length: 19
+
+select phone number
+----field----
+field: {1ECC177F-CDB4-43D5-95DC-77EC73BEFF96}
+name: filledCart-section2-cartItem-editCartItem-labelPhoneUser
+key: filledcart-section2-cartitem-editcartitem-labelphoneuser
+content-length: 22
+
+who is this phone for?
+----field----
+field: {4C985515-78EF-40CB-9421-B2BAE54B8531}
+name: filledCart-section2-cartItem-editCartItem-buttonDone-text
+key: filledcart-section2-cartitem-editcartitem-buttondone-text
+content-length: 4
+
+Done
+----field----
+field: {02F1A93C-F23B-4E4E-AA4F-6B4AE380B2B3}
+name: filledCart-section2-cartItem-editCartItem-numberStatus-errorMessage
+key: filledcart-section2-cartitem-editcartitem-numberstatus-errormessage
+content-length: 152
+
+Your phone number can’t be transferred. There are a lot of reasons why this can happen. Please contact your carrier, or try entering a different number.
+----field----
+field: {E4C0F4D1-6121-4DD3-A581-346AF8B9EAFD}
+name: filledCart-section2-cartItem-preOrderRemoveModal-header
+key: filledcart-section2-cartitem-preorderremovemodal-header
+content-length: 38
+
+text1=Check%20out%20with&text2=Item%3F
+----field----
+field: {E910AC4D-A155-44D1-9E84-5210273D138A}
+name: filledCart-section2-cartItem-preOrderRemoveModal-shippingWarning
+key: filledcart-section2-cartitem-preorderremovemodal-shippingwarning
+content-length: 24
+
+items ship individually.
+----field----
+field: {C35866D6-E6F0-4F3F-A901-B29BFDA48E33}
+name: filledCart-section2-cartItem-preOrderRemoveModal-disclaimer
+key: filledcart-section2-cartitem-preorderremovemodal-disclaimer
+content-length: 73
+
+Please check out with this item before adding any new items to your cart.
+----field----
+field: {8F1439F2-7EB4-4427-8177-D1106B269865}
+name: filledCart-section2-cartItem-preOrderRemoveModal-buttonProceedToCart-text
+key: filledcart-section2-cartitem-preorderremovemodal-buttonproceedtocart-text
+content-length: 13
+
+Continue with
+----field----
+field: {F546FF00-39BD-4F41-B4D0-1F085CA76435}
+name: filledCart-section2-cartItem-preOrderRemoveModal-continueShopping
+key: filledcart-section2-cartitem-preorderremovemodal-continueshopping
+content-length: 98
+
+text1=Or%2C%20you%20can%20remove%20the&text2=item%20from%20your%20cart%20to%20continue%20shopping.
+----field----
+field: {8849884A-1B24-4577-8F00-0CEEDDD701A4}
+name: filledCart-section2-cartItem-preOrderRemoveModal-buttonRemoveItem
+key: filledcart-section2-cartitem-preorderremovemodal-buttonremoveitem
+content-length: 23
+
+text1=Remove&text2=item
+----field----
+field: {D70E0E8D-20F7-4323-B169-AF56EE9950FD}
+name: filledCart-section3-button1-text
+key: filledcart-section3-button1-text
+content-length: 17
+
+Continue Shopping
+----field----
+field: {F8E1AA6F-F037-45F0-87DC-A1B95553CECA}
+name: filledCart-section3-button2-text
+key: filledcart-section3-button2-text
+content-length: 8
+
+Checkout
+----field----
+field: {2C9FC7B2-9311-4B9A-89EB-1D2DFAE1910B}
+name: filledCart-statement-title
+key: filledcart-statement-title
+content-length: 23
+
+Estimated Monthly Costs
+----field----
+field: {EB356E2F-25C2-4419-8549-90F3B9BE378D}
+name: filledCart-statement-subtitle
+key: filledcart-statement-subtitle
+content-length: 16
+
+Lines of Service
+----field----
+field: {EBB06A74-0D1E-4132-964C-4453740772A6}
+name: filledCart-statement-subtitleRight
+key: filledcart-statement-subtitleright
+content-length: 13
+
+Monthly Costs
+----field----
+field: {40565BB1-4D3F-4FF6-B65C-3B0FEA5E7CB2}
+name: filledCart-statement-total
+key: filledcart-statement-total
+content-length: 5
+
+Total
+----field----
+field: {D816D800-FB61-4701-A99A-6F96148C562C}
+name: filledCart-statement-usage
+key: filledcart-statement-usage
+content-length: 9
+
+Gig usage
+----field----
+field: {B3389EAB-4DA8-48AE-B87F-769FE59A5785}
+name: filledCart-statement-disclaimer
+key: filledcart-statement-disclaimer
+content-length: 180
+
+This is the estimated amount you will be charged for your wireless service, device payment plan and additional services, if any. See your device payment plan agreement for details.
+----field----
+field: {6FC8C15B-A614-4472-8D95-162F73D2D1CE}
+name: filledCart-productLine-use
+key: filledcart-productline-use
+content-length: 12
+
+Based on use
+----field----
+field: {DB335B97-F8E0-4257-884F-6034F484C536}
+name: filledCart-productLine-serviceUnlimited
+key: filledcart-productline-serviceunlimited
+content-length: 34
+
+Service with unlimited Talk & Text
+----field----
+field: {18D7B07E-4C26-4B4C-9773-6B1B90ECDB4C}
+name: filledCart-productLine-serviceUnlimitedCost
+key: filledcart-productline-serviceunlimitedcost
+content-length: 8
+
+Included
+----field----
+field: {BD0756CA-7360-464C-BE5E-A53BBA19405F}
+name: filledCart-productLine-devicePayments
+key: filledcart-productline-devicepayments
+content-length: 15
+
+Device Payments
+----field----
+field: {2B4E37D3-AF48-477C-886D-DEE79585BE93}
+name: filledCart-productLine-dataIncludedByTheGig
+key: filledcart-productline-dataincludedbythegig
+content-length: 14
+
+100MB Included
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171219T152949Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171219T152949Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4d9f6a92-9c87-44e0-95d2-19c73b10c0e6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171219T164723Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

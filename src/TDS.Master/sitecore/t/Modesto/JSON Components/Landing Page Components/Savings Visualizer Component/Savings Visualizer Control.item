@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {97E0A846-F33C-4A95-90C5-9D1C42C49D5E}
+database: master
+path: /sitecore/templates/Modesto/JSON Components/Landing Page Components/Savings Visualizer Component/Savings Visualizer Control
+parent: {8E0BB8D8-A763-451C-A807-0FC7D7BB142C}
+name: Savings Visualizer Control
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
+----version----
+language: en
+version: 1
+revision: 8ef2f0e3-03c2-4dea-8a9b-26a7dc7b0d6d
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170323T184425Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8ef2f0e3-03c2-4dea-8a9b-26a7dc7b0d6d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170503T195618Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

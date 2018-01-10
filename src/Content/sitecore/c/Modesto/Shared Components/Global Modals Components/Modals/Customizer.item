@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {515F952C-79DF-4316-AB57-E87F119A6A1B}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Global Modals Components/Modals/Customizer
+parent: {0143DF1D-0E20-453F-8AC3-D34F82B05323}
+name: Customizer
+master: {00000000-0000-0000-0000-000000000000}
+template: {9DE9419B-0795-49EE-8B13-7A6F66A761BC}
+templatekey: Customizer Modal
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 0a707dec-28a8-4b26-a8a5-e066f7b7933b
+
+----field----
+field: {3E809256-2F04-4339-B271-DEDAB9EE4092}
+name: portingUnableToTrasfer-title
+key: portingunabletotrasfer-title
+content-length: 39
+
+Your phone number can’t be transferred.
+----field----
+field: {F539915F-C75E-492F-9218-1AD299D757BB}
+name: portingUnableToTrasfer-description
+key: portingunabletotrasfer-description
+content-length: 128
+
+There are several reasons this can happen. Contact your current carrier for further details, or try entering a different number.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170925T152214Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0a707dec-28a8-4b26-a8a5-e066f7b7933b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170925T152248Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

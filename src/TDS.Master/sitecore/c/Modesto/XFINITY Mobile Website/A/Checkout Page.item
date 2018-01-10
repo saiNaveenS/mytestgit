@@ -1,0 +1,738 @@
+----item----
+version: 1
+id: {FE2CAC27-9428-4CE9-9672-C7C49222157D}
+database: master
+path: /sitecore/content/Modesto/XFINITY Mobile Website/A/Checkout Page
+parent: {5542DC54-F879-4255-9E6B-F07F64831389}
+name: Checkout Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {50D7A5BF-8B9E-4B2C-9B0F-31D6F1C28D5A}
+templatekey: Checkout Page
+created: 20171129T200500Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 540f0acb-a126-4a42-926e-2c48e805b1ac
+
+----field----
+field: {F67B9253-6FD3-4D8D-A965-C22FB90067A0}
+name: header
+key: header
+content-length: 9
+
+Your Cart
+----field----
+field: {2AA7313B-8BFF-459B-9620-C7A1E8831822}
+name: eligibility-backToCartButton-text
+key: eligibility-backtocartbutton-text
+content-length: 12
+
+Back to Cart
+----field----
+field: {CE0BCC20-49E1-442B-BC43-B0D75FE88E12}
+name: estimatedmonthlycosts-text
+key: estimatedmonthlycosts-text
+content-length: 23
+
+Estimated Monthly Costs
+----field----
+field: {B80BD36B-BD62-4444-A5F4-1720F6A8E6DA}
+name: shippinginfo-heading
+key: shippinginfo-heading
+content-length: 28
+
+Here's where we're shipping:
+----field----
+field: {C9932CFD-B0B5-4150-AC62-BB1448EA7C05}
+name: shippinginfo-edit
+key: shippinginfo-edit
+content-length: 4
+
+Edit
+----field----
+field: {F10AC418-D600-4603-830B-65875B66C417}
+name: paymentinfo-heading
+key: paymentinfo-heading
+content-length: 25
+
+Here’s how you’re paying:
+----field----
+field: {9B75D7FB-3B76-45DC-8773-8E60C70F8D2C}
+name: paymentinfo-edit
+key: paymentinfo-edit
+content-length: 4
+
+Edit
+----field----
+field: {08BB1D59-85A4-4761-BEEA-02F77F8F4C68}
+name: shippingSpeed-header
+key: shippingspeed-header
+content-length: 15
+
+Shipping Speeds
+----field----
+field: {20C433FE-63DE-4554-B2A0-29A5DC07BF28}
+name: shippingSpeed-description
+key: shippingspeed-description
+content-length: 59
+
+text1=Refer%20to%20shipping%20Confirmation&text2=Arrives%20
+----field----
+field: {7C48B212-EED7-42DF-B6E1-B2DD77BBF6B5}
+name: eligibility-ECCLanding-header
+key: eligibility-ecclanding-header
+content-length: 33
+
+We need a little more information
+----field----
+field: {F62C7C92-4404-4976-8BBE-E3A0CFC1F2E5}
+name: eligibility-ECCLanding-subheadPristine
+key: eligibility-ecclanding-subheadpristine
+content-length: 165
+
+Since your XFINITY Internet hasn’t been installed yet, we need to run a quick credit check. Don’t worry, this isn’t the kind of check that impacts your credit score.
+----field----
+field: {D0965F15-C0D6-4C09-9AF0-7D451CAB1B04}
+name: eligibility-ECCLanding-subheadNotPristine
+key: eligibility-ecclanding-subheadnotpristine
+content-length: 81
+
+To see if you qualify for XFINITY Mobile, we'll need to run a quick credit check.
+----field----
+field: {9CEB7576-AB8B-4638-8499-C5846EE26754}
+name: eligibility-ECCLanding-descriptionNotPristine
+key: eligibility-ecclanding-descriptionnotpristine
+content-length: 46
+
+Note that this could impact your credit score.
+----field----
+field: {975A241A-382E-4F39-BEA9-03FECBA857FE}
+name: eligibility-ECCLanding-button-text
+key: eligibility-ecclanding-button-text
+content-length: 16
+
+Run Credit Check
+----field----
+field: {E0730F7A-27C0-4803-8EE7-DBA4D9FE6C43}
+name: eligibility-ECCLanding-creditCheckFailed
+key: eligibility-ecclanding-creditcheckfailed
+content-length: 102
+
+There was an error retrieving your credit information. Please call customer support at (888) 936-4968.
+----field----
+field: {AC9B0992-AA3B-4B72-AE6D-ADD79A52B5E1}
+name: eligibility-PostECC-ECCFail-header
+key: eligibility-postecc-eccfail-header
+content-length: 21
+
+Credit Check Complete
+----field----
+field: {DE3BD2BF-195F-4B74-9E19-13577A5BCA60}
+name: eligibility-PostECC-ECCFail-subhead
+key: eligibility-postecc-eccfail-subhead
+content-length: 105
+
+Based on the results of your credit check, we're unable to offer you XFINITY Mobile service at this time.
+----field----
+field: {5DBD22F8-ADAC-4224-9031-3B3A431ED8D8}
+name: eligibility-PostECC-ECCFail-description
+key: eligibility-postecc-eccfail-description
+content-length: 213
+
+text1=You%27ll%20receive%20a%20letter%20in%20the%20mail%20that%20explains%20how%20to%20get%20a%20free%20credit%20report.%20If%20you%20have%20questions%2C%20feel%20free%20to%20call%20us%20at&text2=or&text3=anytime.
+----field----
+field: {F85ABCE8-3F89-462E-80F4-8BACCF1293BE}
+name: eligibility-PostECC-ECCFail-description-button-text
+key: eligibility-postecc-eccfail-description-button-text
+content-length: 9
+
+live chat
+----field----
+field: {2EBC5485-626C-436B-AB0B-91A2647255BE}
+name: eligibility-PostECC-ECCFail-description-button-label
+key: eligibility-postecc-eccfail-description-button-label
+content-length: 33
+
+Click to chat with XFINITY Mobile
+----field----
+field: {75CC53FA-5D84-4712-8924-5111800F25AA}
+name: eligibility-PostECC-ECCFail-button-text
+key: eligibility-postecc-eccfail-button-text
+content-length: 10
+
+Learn More
+----field----
+field: {1EB91286-64F9-4754-86B6-8B1FFC86E4AB}
+name: eligibility-PostECC-ECCPass-header
+key: eligibility-postecc-eccpass-header
+content-length: 8
+
+Success!
+----field----
+field: {D8A8B40A-66A2-467E-B2D0-A4C9E086EDEB}
+name: eligibility-PostECC-ECCPass-subhead
+key: eligibility-postecc-eccpass-subhead
+content-length: 33
+
+Your Credit Check was successful.
+----field----
+field: {D02F7651-570C-40EE-BFE6-23DCC4595726}
+name: eligibility-PostECC-ECCPass-continueToShippingButton-text
+key: eligibility-postecc-eccpass-continuetoshippingbutton-text
+content-length: 20
+
+Continue to Shipping
+----field----
+field: {4B01326F-CF04-46F3-9B9B-4FBE99C167B2}
+name: eligibility-PostECC-ECCPartial-sameCheckout-header
+key: eligibility-postecc-eccpartial-samecheckout-header
+content-length: 21
+
+Credit Check Complete
+----field----
+field: {04BAEDF5-EEF7-4B76-B1BD-C65BDEDB2D7F}
+name: eligibility-PostECC-ECCPartial-sameCheckout-subhead
+key: eligibility-postecc-eccpartial-samecheckout-subhead
+content-length: 119
+
+text1=Based%20on%20the%20results%20of%20your%20credit%20check%2C%20you%20can%20go%20ahead%20and%20purchase&text2=today.
+----field----
+field: {D4783877-DA80-42AF-8831-AD38F504B726}
+name: eligibility-PostECC-ECCPartial-sameCheckout-button-text
+key: eligibility-postecc-eccpartial-samecheckout-button-text
+content-length: 11
+
+Update Cart
+----field----
+field: {E9F49AA5-6434-4276-AC74-80C125C96A69}
+name: eligibility-PostECC-ECCPartial-firstTime-header
+key: eligibility-postecc-eccpartial-firsttime-header
+content-length: 21
+
+Credit Check Complete
+----field----
+field: {59F8E27F-8AB1-44AA-9ADF-39EFF07FFC19}
+name: eligibility-PostECC-ECCPartial-firstTime-subhead1
+key: eligibility-postecc-eccpartial-firsttime-subhead1
+content-length: 119
+
+text1=Based%20on%20the%20results%20of%20your%20credit%20check%2C%20you%20can%20go%20ahead%20and%20purchase&text2=today.
+----field----
+field: {39FDD9A7-3EFA-4994-878D-513B2306DBE5}
+name: eligibility-PostECC-ECCPartial-firstTime-subhead2
+key: eligibility-postecc-eccpartial-firsttime-subhead2
+content-length: 43
+
+text1=Select&text2=to%20purchase%20today%3A
+----field----
+field: {AE5EED35-76C5-45B6-9E1D-7D11764B47D6}
+name: eligibility-PostECC-ECCPartial-firstTime-button-text
+key: eligibility-postecc-eccpartial-firsttime-button-text
+content-length: 11
+
+Update Cart
+----field----
+field: {E85CC709-439A-4620-A645-DD0F441201CD}
+name: eligibility-PostECC-ECCPartial-firstTime-description-section1
+key: eligibility-postecc-eccpartial-firsttime-description-section1
+content-length: 82
+
+You'll receive a letter in the mail that explains how to get a free credit report.
+----field----
+field: {D0299123-4724-47F1-8A4E-7632C291FAC1}
+name: eligibility-PostECC-ECCPartial-firstTime-description-section2
+key: eligibility-postecc-eccpartial-firsttime-description-section2
+content-length: 96
+
+text1=If%20you%20have%20questions%2C%20feel%20free%20to%20call%20us%20at&text2=or&text3=anytime.
+----field----
+field: {3E5E6092-FFCB-4575-81B7-DF0CFC0B6AE7}
+name: eligibility-PostECC-ECCPartial-firstTime-description-section2-button-text
+key: eligibility-postecc-eccpartial-firsttime-description-section2-button-text
+content-length: 9
+
+live chat
+----field----
+field: {890E12F7-A5DC-4FF4-9A82-5F773EC32759}
+name: eligibility-PostECC-ECCPartial-newCheckout-header
+key: eligibility-postecc-eccpartial-newcheckout-header
+content-length: 21
+
+Credit Check Complete
+----field----
+field: {9539D7A1-063C-4E2F-9858-C4AFA31DCDB3}
+name: eligibility-PostECC-ECCPartial-newCheckout-subhead1
+key: eligibility-postecc-eccpartial-newcheckout-subhead1
+content-length: 119
+
+text1=Based%20on%20the%20results%20of%20your%20credit%20check%2C%20you%20can%20go%20ahead%20and%20purchase&text2=today.
+----field----
+field: {72A500DC-CE9D-4FE5-9A53-406CF45FE6E6}
+name: eligibility-PostECC-ECCPartial-newCheckout-subhead2
+key: eligibility-postecc-eccpartial-newcheckout-subhead2
+content-length: 43
+
+text1=Select&text2=to%20purchase%20today%3A
+----field----
+field: {1EE43926-9F27-4E1B-B08B-796FCA78DE30}
+name: eligibility-PostECC-ECCPartial-newCheckout-button-text
+key: eligibility-postecc-eccpartial-newcheckout-button-text
+content-length: 11
+
+Update Cart
+----field----
+field: {77574D2F-A581-4C9F-88DD-B235009B64C1}
+name: eligibility-PostECC-ECCPartial-newCheckout-description-section1
+key: eligibility-postecc-eccpartial-newcheckout-description-section1
+content-length: 82
+
+You'll receive a letter in the mail that explains how to get a free credit report.
+----field----
+field: {0080FE17-CF91-47B4-A208-A4F46B34998F}
+name: eligibility-PostECC-ECCPartial-newCheckout-description-section2
+key: eligibility-postecc-eccpartial-newcheckout-description-section2
+content-length: 96
+
+text1=If%20you%20have%20questions%2C%20feel%20free%20to%20call%20us%20at&text2=or&text3=anytime.
+----field----
+field: {874712A3-0B81-46A4-8D90-E9F1A099BD40}
+name: eligibility-PostECC-ECCPartial-newCheckout-description-section2-button-text
+key: eligibility-postecc-eccpartial-newcheckout-description-section2-button-text
+content-length: 9
+
+live chat
+----field----
+field: {426AF229-5800-4408-A358-D7DC2998301A}
+name: shipping-header
+key: shipping-header
+content-length: 16
+
+Shipping Address
+----field----
+field: {F6A909DE-4B8A-4CF3-80D1-B48B4A0D7168}
+name: shipping-name-firstname
+key: shipping-name-firstname
+content-length: 10
+
+First Name
+----field----
+field: {72F09269-93C0-402D-914A-72F4AAD9A673}
+name: shipping-name-lastname
+key: shipping-name-lastname
+content-length: 9
+
+Last Name
+----field----
+field: {75126DFD-40F0-4329-B4B3-06AF92F0CE30}
+name: shipping-disclaimer-default
+key: shipping-disclaimer-default
+content-length: 76
+
+Note: All devices will ship to the XFINITY Internet service address on file.
+----field----
+field: {E4D26F28-CCAA-4FC2-BEB7-4B11100D52C9}
+name: shipping-disclaimer-new
+key: shipping-disclaimer-new
+content-length: 81
+
+Please note, all devices will be shipped to the Internet service address on file.
+----field----
+field: {7BAAF415-7C0F-49ED-AFBF-4EA15A9BAD51}
+name: shipping-address-addresslabel
+key: shipping-address-addresslabel
+content-length: 7
+
+Address
+----field----
+field: {762B2679-9B1B-47D9-9132-8C4757AB7B59}
+name: shipping-address-address2AccessibilityLabel
+key: shipping-address-address2accessibilitylabel
+content-length: 8
+
+Address2
+----field----
+field: {36AB1332-E95B-4C6D-AAE5-ADE4D1A7A89D}
+name: shipping-address-city
+key: shipping-address-city
+content-length: 9
+
+Town/City
+----field----
+field: {A8D146BE-AEE1-428B-8774-CFC6F1EE2EDF}
+name: shipping-address-state
+key: shipping-address-state
+content-length: 5
+
+State
+----field----
+field: {5EFA823E-09AA-4753-B382-1766DFB060E6}
+name: shipping-address-zipcode
+key: shipping-address-zipcode
+content-length: 8
+
+Zip Code
+----field----
+field: {FAEF036B-1F19-441B-BE8E-541049DE3E79}
+name: shipping-contactinformation-header
+key: shipping-contactinformation-header
+content-length: 19
+
+Contact Information
+----field----
+field: {B8CA9D65-0AE8-4622-A40D-BA1665C46778}
+name: shipping-contactinformation-disclaimer
+key: shipping-contactinformation-disclaimer
+content-length: 90
+
+Tell us how to contact you about orders, billing, and other important account information.
+----field----
+field: {C0047FB7-D7AE-40F3-97CB-E5583C7A4189}
+name: shipping-contactinformation-label-mobilenumber
+key: shipping-contactinformation-label-mobilenumber
+content-length: 13
+
+Mobile Number
+----field----
+field: {3A64B18E-67C0-4E76-B004-5124A664C2C7}
+name: shipping-contactinformation-label-emailaddress
+key: shipping-contactinformation-label-emailaddress
+content-length: 13
+
+Email Address
+----field----
+field: {734556B5-35BA-4684-A377-E1B60CB81103}
+name: shipping-continueToPayment-button-text
+key: shipping-continuetopayment-button-text
+content-length: 19
+
+Continue to Payment
+----field----
+field: {E39DA542-761E-4AA6-A36C-B76513D9A286}
+name: shipping-addressVerficationOverlay-header
+key: shipping-addressverficationoverlay-header
+content-length: 32
+
+Can we use this address instead?
+----field----
+field: {AAD43F24-012C-4FF5-BB7B-7E764757D2DA}
+name: shipping-addressVerficationOverlay-subhead
+key: shipping-addressverficationoverlay-subhead
+content-length: 104
+
+text1=The%20US%20Postal%20Service%20gave%20us%20this&text2=version%20of%20the%20address%20you%20entered.
+----field----
+field: {D777D80D-F467-41ED-B026-ACAF7F770148}
+name: shipping-addressVerficationOverlay-address
+key: shipping-addressverficationoverlay-address
+content-length: 17
+
+Suggested address
+----field----
+field: {56E1C805-361D-45A5-AF1A-FE819F8ABE22}
+name: shipping-addressVerficationOverlay-ariaLabel
+key: shipping-addressverficationoverlay-arialabel
+content-length: 154
+
+text1=Yes%2C%20use%20this%20address%20and%20close%20this%20dialog%20box&text2=No%2C%20keep%20the%20originial%20address%20and%20close%20this%20dialog%20box
+----field----
+field: {B191953B-1D4A-49D7-ADD9-79CF9FE83219}
+name: shipping-addressVerficationOverlay-addressButton-current
+key: shipping-addressverficationoverlay-addressbutton-current
+content-length: 17
+
+Yes, use this one
+----field----
+field: {2F99D433-655D-45C7-80FC-6877192F7049}
+name: shipping-addressVerficationOverlay-addressButton-original
+key: shipping-addressverficationoverlay-addressbutton-original
+content-length: 18
+
+No, use what I had
+----field----
+field: {7DDA2CF0-6ADD-48BD-8518-7929961B75E3}
+name: shipping-addressVerficationOverlay-addressNotFound-header
+key: shipping-addressverficationoverlay-addressnotfound-header
+content-length: 34
+
+Are you sure this is your address?
+----field----
+field: {3568C847-C06B-4031-8F0E-D00E75AD3BC1}
+name: shipping-addressVerficationOverlay-addressNotFound-subhead
+key: shipping-addressverficationoverlay-addressnotfound-subhead
+content-length: 106
+
+text1=We%20checked%20with%20the%20US%20Postal%20Service&text2=and%20they%20can%27t%20find%20the%20address.
+----field----
+field: {B464600F-CCB7-4919-9369-5ACC37929660}
+name: shipping-addressVerficationOverlay-addressNotFound-ariaLabel
+key: shipping-addressverficationoverlay-addressnotfound-arialabel
+content-length: 139
+
+text1=No%2C%20Edit%20my%20address%20and%20close%20this%20dialog%20box&text2=Yes%2C%20this%20is%20correct%20and%20close%20the%20dialog%20box
+----field----
+field: {130F9C75-7ABE-4BF8-B1EE-F42832D05985}
+name: shipping-addressVerficationOverlay-addressNotFound-addressButton-edit
+key: shipping-addressverficationoverlay-addressnotfound-addressbutton-edit
+content-length: 17
+
+Edit this address
+----field----
+field: {A84A31D4-9BA8-4B36-AB64-77D8D967039D}
+name: shipping-addressVerficationOverlay-addressNotFound-addressButton-continue
+key: shipping-addressverficationoverlay-addressnotfound-addressbutton-continue
+content-length: 15
+
+Continue anyway
+----field----
+field: {A6B959C0-9CB4-4D0A-87D0-C8BF87DB3282}
+name: shippinginfo-ariaLabel
+key: shippinginfo-arialabel
+content-length: 25
+
+Edit payment informations
+----field----
+field: {60F5D149-A8BF-4D6F-9BF5-5B78CA3192BF}
+name: shippinginfo-img-src
+key: shippinginfo-img-src
+content-length: 23
+
+icons/black-shipped.svg
+----field----
+field: {13D1A171-7613-4AF9-93C7-0A2D1315DB73}
+name: shippinginfo-img-alt
+key: shippinginfo-img-alt
+content-length: 18
+
+black shipped icon
+----field----
+field: {722AED84-39F4-4C0F-982F-4E1BF47E2022}
+name: shippinginfo-shippingDisclaimer
+key: shippinginfo-shippingdisclaimer
+content-length: 35
+
+Signature is required for delivery.
+----field----
+field: {6B3BC78E-9C9E-4453-8B4D-B659A86D7A1F}
+name: payment-header
+key: payment-header
+content-length: 21
+
+Credit or Debit Card 
+----field----
+field: {7A918BC3-D5A9-4B87-AB60-FA347188DD6F}
+name: payment-subheading
+key: payment-subheading
+content-length: 25
+
+Same as shipping address 
+----field----
+field: {D6827E80-C30C-4114-B8B3-9AFF29F6E30E}
+name: payment-description
+key: payment-description
+content-length: 263
+
+The card you enter below will be used for this order and saved to your account. Your XFINITY Mobile charges will be automatically charged to this card on your auto-pay date each month. You can change your card information anytime from your XFINITY Mobile account.
+----field----
+field: {91EBCF7A-EC86-45AD-9854-5E6B9AC1B32F}
+name: payment-billingaddress-header
+key: payment-billingaddress-header
+content-length: 15
+
+Billing Address
+----field----
+field: {63CE1A5D-BF7A-471C-A586-1ED73C72BFB6}
+name: payment-continueToReview-text
+key: payment-continuetoreview-text
+content-length: 18
+
+Continue to Review
+----field----
+field: {C6EB5B35-9C88-40F6-BEE5-06DE43F38D30}
+name: paymentinfo-ariaLabel
+key: paymentinfo-arialabel
+content-length: 25
+
+Edit payment informations
+----field----
+field: {23CE8C86-B159-4E0E-B9A2-1949B82DC32F}
+name: paymentinfo-img-src
+key: paymentinfo-img-src
+content-length: 27
+
+icons/credit-card-black.svg
+----field----
+field: {8C11CD71-4034-45C2-8579-47DE70A4595B}
+name: paymentinfo-img-alt
+key: paymentinfo-img-alt
+content-length: 22
+
+credit card black icon
+----field----
+field: {173B8AF8-1C45-4A3D-93E3-5546F335F7E7}
+name: review-header
+key: review-header
+content-length: 18
+
+Review your order 
+----field----
+field: {0F098C34-8C56-40B9-891B-3D55EFA30974}
+name: review-estimatedMonthlyCosts-text
+key: review-estimatedmonthlycosts-text
+content-length: 23
+
+Estimated Monthly Costs
+----field----
+field: {A47ED1B2-1F81-4AF3-830B-CC25C5807500}
+name: review-terms
+key: review-terms
+content-length: 620
+
+By checking the box below and clicking on “Place Order,” you represent that you (1) are 18 years of age or older, (2) have reviewed and agree to purchase the equipment and services described in the order information above and (3) have read and agree to the policies and terms and conditions of service identified below. Your purchase is subject to these terms and conditions so you should read them carefully. You can read and print the agreements by clicking the links. Any applicable termination fee associated with other Xfinity services will apply if you cancel such other services and retain Xfinity Mobile service.
+----field----
+field: {C65F77E8-14A8-4679-BB32-690032AB4D74}
+name: review-termsconditions-age
+key: review-termsconditions-age
+content-length: 33
+
+I am at least 18 years of age and
+----field----
+field: {C0F941D5-6A08-4609-9012-ED5786670E5D}
+name: review-termsconditions-consent
+key: review-termsconditions-consent
+content-length: 29
+
+I agree to the XFINITY Mobile
+----field----
+field: {F3544045-A688-490C-B6E2-18E043A1814D}
+name: review-termsconditions-agreement
+key: review-termsconditions-agreement
+content-length: 29
+
+Device Payment Plan Agreement
+----field----
+field: {11BDC813-99AD-46CD-A24D-65324F6F87EA}
+name: review-orderinformation-disclosures
+key: review-orderinformation-disclosures
+content-length: 57
+
+To learn more about XFINITY Mobile Broadband Disclosures,
+----field----
+field: {11BE1B31-B3E3-4599-BBF2-3EDF8664E67F}
+name: review-orderinformation-clickhere
+key: review-orderinformation-clickhere
+content-length: 11
+
+click here.
+----field----
+field: {FDC479B1-1FC8-45C5-A659-35E11DA0E386}
+name: review-orderinformation-learnabout
+key: review-orderinformation-learnabout
+content-length: 42
+
+To learn more about returns, check out our
+----field----
+field: {98B25C60-EB03-4DAD-9731-7475D75C4D39}
+name: review-orderinformation-returnpolicy
+key: review-orderinformation-returnpolicy
+content-length: 15
+
+Returns Policy.
+----field----
+field: {BA72150D-56AC-4A24-9335-1D3AAF1C21DB}
+name: review-placeOrder-text
+key: review-placeorder-text
+content-length: 11
+
+Place Order
+----field----
+field: {99BCECF6-E6B5-4326-BE58-2EDB89BCCD0C}
+name: review-accountHolderDisclaimer
+key: review-accountholderdisclaimer
+content-length: 47
+
+I am the holder of this XFINITY Mobile account.
+----field----
+field: {B6B9D6F6-D928-4AD1-A678-184CE8C904CA}
+name: review-ageDisclaimer
+key: review-agedisclaimer
+content-length: 81
+
+I am at least 18 years of age and I am the holder of this XFINITY Mobile account.
+----field----
+field: {8190C9C1-2133-4C4E-AD1E-E461C21BCF45}
+name: review-customerAgreement
+key: review-customeragreement
+content-length: 18
+
+Customer Agreement
+----field----
+field: {6875368C-5145-4984-819B-B7ADB9B2F258}
+name: review-devicePlanAgreement
+key: review-deviceplanagreement
+content-length: 21
+
+Device Plan Agreement
+----field----
+field: {6CF4D882-5F82-4B74-9321-05A9C107131B}
+name: review-esignActDisclosure
+key: review-esignactdisclosure
+content-length: 34
+
+ESIGN Act and Disclosure Agreement
+----field----
+field: {1074BE72-EDDC-462F-A05C-66F1EF106640}
+name: review-signatures
+key: review-signatures
+content-length: 74
+
+and to the use of electronic records and signatures in accordance with the
+----field----
+field: {0FE7D42E-6851-4DB8-8464-BCC62C2464C1}
+name: review-xmpp
+key: review-xmpp
+content-length: 91
+
+text1=XMPP%20Terms%20%26%20Conditions&text2=and%20to%20the&text3=XMPP%20Paperless%20Consent
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171129T200500Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+540f0acb-a126-4a42-926e-2c48e805b1ac
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171228T150145Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

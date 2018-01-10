@@ -1,0 +1,163 @@
+----item----
+version: 1
+id: {E931093F-ED29-4E8B-9B11-24A9F3C0AA4D}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Plan Page Components/Plan Page Modules/Plan Details Unlimited
+parent: {A3B81C47-60C1-4D9A-9D97-7D8ADC467F15}
+name: Plan Details Unlimited
+master: {00000000-0000-0000-0000-000000000000}
+template: {F20532B2-1F32-4791-BEF7-5666BF19CA4B}
+templatekey: Plan Details Component
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 90a638bd-6425-4129-963f-47ac1c324ca0
+
+----field----
+field: {CF8469B8-E16C-4E23-AA00-20DFE06DABD1}
+name: id
+key: id
+content-length: 14
+
+planDetailsUnl
+----field----
+field: {209D6F75-709D-4CE2-A959-56FB1134EC9D}
+name: content-headline
+key: content-headline
+content-length: 26
+
+[PlanName]. Unprecedented.
+----field----
+field: {B9CF5D48-BC46-44CB-AD12-6E423F073A77}
+name: content-description
+key: content-description
+content-length: 163
+
+You can take advantage of an unprecedented offer–$45/line for [PlanName] data on the best network. No data usage limits. It's just one predictable price per month.
+----field----
+field: {1240D1DD-8408-44E1-95C4-77B4FFF0DCE7}
+name: content-priceSection-headline
+key: content-pricesection-headline
+content-length: 39
+
+One great price per line for [PlanName]
+----field----
+field: {D696BE8F-4559-410F-B5B5-548491CBA945}
+name: content-priceSection-description
+key: content-pricesection-description
+content-length: 152
+
+Whether you're shopping for yourself or for a group, you'll pay $45 per line for [PlanName] monthly data. One line, any line, same great price per line.
+----field----
+field: {FBB4FFF2-624E-4A35-93BD-08F543A2A1F2}
+name: content-priceSection-cta
+key: content-pricesection-cta
+content-length: 11
+
+Get Started
+----field----
+field: {C8BBF134-D2B6-4EC0-88F9-D87DC45CB285}
+name: content-priceSection-modalText
+key: content-pricesection-modaltext
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {7FEBEA12-4ABE-4436-A2D1-290F64E43ECC}
+name: content-priceSection-backgroundImg
+key: content-pricesection-backgroundimg
+content-length: 118
+
+http://res.cloudinary.com/modesto/image/upload/f_auto,fl_lossy,q_auto/v1499281011/client/v2/images/enjoy-unlimited.png
+----field----
+field: {E5153035-6146-42BF-8642-9A1E2FB62AB3}
+name: content-changePlanSection-headline
+key: content-changeplansection-headline
+content-length: 35
+
+Freedom to change your data options
+----field----
+field: {5B9A716B-AC99-427C-A812-29BA19225B88}
+name: content-changePlanSection-description
+key: content-changeplansection-description
+content-length: 143
+
+You can always switch a line from [PlanName] to By the Gig at the end of your billing cycle, with all the 4G LTE data you need for just $12/GB.
+----field----
+field: {CF9E0F94-09B2-4913-A420-4D3840303208}
+name: content-changePlanSection-cta
+key: content-changeplansection-cta
+content-length: 11
+
+Get Started
+----field----
+field: {F2504B81-8364-4486-8425-F4F37A8FFDFF}
+name: content-changePlanSection-modalText
+key: content-changeplansection-modaltext
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {A68B3B3A-3512-4A1C-A40A-7D55504CF544}
+name: content-changePlanSection-img
+key: content-changeplansection-img
+content-length: 25
+
+plan-page/phone-split.png
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170328T175842Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+90a638bd-6425-4129-963f-47ac1c324ca0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170915T174621Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

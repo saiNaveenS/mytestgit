@@ -1,0 +1,238 @@
+----item----
+version: 1
+id: {98FCB9C5-42B8-44B1-A6EF-23CDF0D294BF}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Plan Page Components/Plan Page Modules/Modesto Intro
+parent: {A3B81C47-60C1-4D9A-9D97-7D8ADC467F15}
+name: Modesto Intro
+master: {00000000-0000-0000-0000-000000000000}
+template: {05A1597B-1F09-4FE5-B838-66C8F488B6CA}
+templatekey: Modesto Intro Component
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 110ade3b-1666-438b-a6d6-4c4339582a76
+
+----field----
+field: {CF8469B8-E16C-4E23-AA00-20DFE06DABD1}
+name: id
+key: id
+content-length: 12
+
+modestoIntro
+----field----
+field: {03028FEB-F96D-4F0D-A2B3-4E2324F7E103}
+name: content-title
+key: content-title
+content-length: 23
+
+The XFINITY Mobile Plan
+----field----
+field: {9E6FD2AB-EA04-4264-AC4F-E0851E70E226}
+name: content-description
+key: content-description
+content-length: 26
+
+Designed to save you money
+----field----
+field: {92161425-6EEB-4676-99AE-8786722F42A4}
+name: content-summary-title
+key: content-summary-title
+content-length: 43
+
+Included with your XFINITY Internet service
+----field----
+field: {4ADA3CDD-ABD7-4CEC-A367-74D0CFCFC9D4}
+name: content-summary-list
+key: content-summary-list
+content-length: 155
+
+{C950FC50-FFC1-49E9-B7A7-E5A8EC9002A1}|{C5D43F39-C977-4361-9C55-4D8994873B70}|{322DA748-F4AD-4BE4-8C80-1A8BC9939CC4}|{626399B5-7737-47BC-B788-BD6B429380CA}
+----field----
+field: {88960182-15DF-4DAB-969E-069775656B6A}
+name: content-nonXMCustomer-header
+key: content-nonxmcustomer-header
+content-length: 37
+
+Not an XFINITY Internet customer yet?
+----field----
+field: {B54E5456-3E76-4B8D-9962-845177FF9C88}
+name: content-nonXMCustomer-link
+key: content-nonxmcustomer-link
+content-length: 11
+
+Get started
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170328T165622Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+110ade3b-1666-438b-a6d6-4c4339582a76
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170915T174609Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 87fd0e6b-f0b9-43a9-b004-304ab213ed3b
+
+----field----
+field: {CF8469B8-E16C-4E23-AA00-20DFE06DABD1}
+name: id
+key: id
+content-length: 12
+
+modestoIntro
+----field----
+field: {03028FEB-F96D-4F0D-A2B3-4E2324F7E103}
+name: content-title
+key: content-title
+content-length: 23
+
+The XFINITY Mobile Plan
+----field----
+field: {9E6FD2AB-EA04-4264-AC4F-E0851E70E226}
+name: content-description
+key: content-description
+content-length: 26
+
+Designed to save you money
+----field----
+field: {92161425-6EEB-4676-99AE-8786722F42A4}
+name: content-summary-title
+key: content-summary-title
+content-length: 43
+
+Included with your XFINITY Internet service
+----field----
+field: {4ADA3CDD-ABD7-4CEC-A367-74D0CFCFC9D4}
+name: content-summary-list
+key: content-summary-list
+content-length: 155
+
+{C950FC50-FFC1-49E9-B7A7-E5A8EC9002A1}|{C5D43F39-C977-4361-9C55-4D8994873B70}|{322DA748-F4AD-4BE4-8C80-1A8BC9939CC4}|{626399B5-7737-47BC-B788-BD6B429380CA}
+----field----
+field: {88960182-15DF-4DAB-969E-069775656B6A}
+name: content-nonXMCustomer-header
+key: content-nonxmcustomer-header
+content-length: 37
+
+Not an XFINITY Internet customer yet?
+----field----
+field: {B54E5456-3E76-4B8D-9962-845177FF9C88}
+name: content-nonXMCustomer-link
+key: content-nonxmcustomer-link
+content-length: 11
+
+Get started
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171101T204333Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171101T204333Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\psivil200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+87fd0e6b-f0b9-43a9-b004-304ab213ed3b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171101T204411Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\psivil200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

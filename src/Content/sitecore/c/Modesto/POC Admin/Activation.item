@@ -1,0 +1,723 @@
+----item----
+version: 1
+id: {C70579F6-74C2-48EE-9580-83CAC979AE41}
+database: master
+path: /sitecore/content/Modesto/POC Admin/Activation
+parent: {A5793DC9-B64F-438D-8083-D583C856A62C}
+name: Activation
+master: {00000000-0000-0000-0000-000000000000}
+template: {725CFFD5-8EB8-4704-9EDC-524FBB133D3D}
+templatekey: Activation
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 8229b366-fffd-4a30-91e6-d3d8cba38489
+
+----field----
+field: {BCF15820-4440-43A8-ACCE-E7422946F80A}
+name: preTransfer-pageHeader-header
+key: pretransfer-pageheader-header
+content-length: 26
+
+Welcome to XFINITY Mobile.
+----field----
+field: {DE0EBCD2-DB7B-4515-8970-D9935DF0862D}
+name: preTransfer-pageHeader-subhead
+key: pretransfer-pageheader-subhead
+content-length: 164
+
+Congratulations! Your confirmation number is <%= number %>. In a few days you should have your new phone in hand.<br>An email is on the way with additional details.
+----field----
+field: {D082D27F-1B3D-417A-8756-2120AF8F712D}
+name: preTransfer-pageContent-prompt-single-header
+key: pretransfer-pagecontent-prompt-single-header
+content-length: 33
+
+Get an early start on activation.
+----field----
+field: {6E7C4CC8-0268-4E39-9C73-60BEF6507465}
+name: preTransfer-pageContent-prompt-single-body
+key: pretransfer-pagecontent-prompt-single-body
+content-length: 140
+
+If you enter a few account details now from your previous carrier, that will be one less thing you have to remember when your phone arrives.
+----field----
+field: {EC35E1FB-892C-4B5C-BFA0-2944A0184AE5}
+name: preTransfer-pageContent-prompt-multi-header
+key: pretransfer-pagecontent-prompt-multi-header
+content-length: 33
+
+Get an early start on activation.
+----field----
+field: {3D259AC9-F83A-4066-B911-21142CF7CF8E}
+name: preTransfer-pageContent-prompt-multi-body
+key: pretransfer-pagecontent-prompt-multi-body
+content-length: 140
+
+If you enter a few account details now from your previous carrier, that will be one less thing you have to remember when your phones arrive.
+----field----
+field: {AB3100A3-073C-4ABB-A866-842B2EF991E8}
+name: preTransfer-pageContent-prompt-multi-mobileBody
+key: pretransfer-pagecontent-prompt-multi-mobilebody
+content-length: 41
+
+Choose a phone to enter transfer details.
+----field----
+field: {550BE03A-2C1C-4780-8751-291018A2F7F2}
+name: preTransfer-pageContent-saved-single-header
+key: pretransfer-pagecontent-saved-single-header
+content-length: 23
+
+Transfer details saved.
+----field----
+field: {B7BD8C4B-C801-4544-A448-B6E7626FD118}
+name: preTransfer-pageContent-saved-single-body
+key: pretransfer-pagecontent-saved-single-body
+content-length: 50
+
+Access your transfer details any time from [link].
+----field----
+field: {CA2688E3-F0B5-4AF0-858E-A145A23F0521}
+name: preTransfer-pageContent-saved-multi-header
+key: pretransfer-pagecontent-saved-multi-header
+content-length: 23
+
+Transfer details saved.
+----field----
+field: {380741F0-15B9-4258-84CA-0854CEB57F9C}
+name: preTransfer-pageContent-saved-multi-body
+key: pretransfer-pagecontent-saved-multi-body
+content-length: 50
+
+Access your transfer details any time from [link].
+----field----
+field: {314A028D-0CD6-4470-8BBF-E1AE2E95136F}
+name: preTransfer-pageContent-desktop-later
+key: pretransfer-pagecontent-desktop-later
+content-length: 49
+
+Need to complete this later? Just head to [link].
+----field----
+field: {B63B7DFA-0D2A-4640-A1B1-96175498027A}
+name: preTransfer-pageContent-desktop-help
+key: pretransfer-pagecontent-desktop-help
+content-length: 26
+
+Need help? Read, [article]
+----field----
+field: {076DABC0-5A18-4454-8796-3136A374EB67}
+name: copyTransferDetails-header
+key: copytransferdetails-header
+content-length: 28
+
+Is this shared account info?
+----field----
+field: {AC11FB7E-D536-4E65-9DDE-1C38764FB417}
+name: copyTransferDetails-body
+key: copytransferdetails-body
+content-length: 121
+
+Select which lines share account info as [firstName]'s phone [number], and we'll copy your previous carrier details over.
+----field----
+field: {DC7E7771-12B5-4649-857D-F334573A2C4E}
+name: copyTransferDetails-cta
+key: copytransferdetails-cta
+content-length: 5
+
+Apply
+----field----
+field: {49FC4EEE-CBEC-4F5F-9111-43AF4E7B0066}
+name: activationHub-header
+key: activationhub-header
+content-length: 34
+
+Tracking or activating new phones?
+----field----
+field: {68FC1DDC-F90F-4A91-9A7C-908D00616716}
+name: activationHub-subhead
+key: activationhub-subhead
+content-length: 26
+
+You're in the right place.
+----field----
+field: {BCB23139-9C60-4810-82ED-D984C5AE6E69}
+name: activationHub-mobileSub
+key: activationhub-mobilesub
+content-length: 14
+
+Select a phone
+----field----
+field: {0B9EB189-CD97-4017-9277-D3AF197DB2A1}
+name: activationHub-orderStatus-placed-text
+key: activationhub-orderstatus-placed-text
+content-length: 12
+
+Order Placed
+----field----
+field: {CB561BEF-FA80-4DCA-830C-6245E8E452C8}
+name: activationHub-orderStatus-placed-anchor
+key: activationhub-orderstatus-placed-anchor
+content-length: 14
+
+Track Shipment
+----field----
+field: {E9A384DD-527F-4B7C-89C0-AAF60B336136}
+name: activationHub-orderStatus-shipped-text
+key: activationhub-orderstatus-shipped-text
+content-length: 18
+
+Estimated Delivery
+----field----
+field: {F4D14ADA-D346-4CBB-9934-123E285C781C}
+name: activationHub-orderStatus-shipped-anchor
+key: activationhub-orderstatus-shipped-anchor
+content-length: 14
+
+Track Shipment
+----field----
+field: {8E87A226-6F26-4CE3-B203-29196AB85E36}
+name: activationHub-orderStatus-delayed-text
+key: activationhub-orderstatus-delayed-text
+content-length: 13
+
+Order Delayed
+----field----
+field: {F5DA2B56-F228-47CD-9D15-2FEF33596293}
+name: activationHub-orderStatus-delayed-anchor
+key: activationhub-orderstatus-delayed-anchor
+content-length: 14
+
+Track Shipment
+----field----
+field: {3A6597F1-9638-41B0-9D38-A94C70CBE729}
+name: activationHub-orderStatus-failed-text
+key: activationhub-orderstatus-failed-text
+content-length: 12
+
+Order Failed
+----field----
+field: {AEBF59AF-A0AA-4951-BC49-314C38C36398}
+name: activationHub-orderStatus-failed-anchor
+key: activationhub-orderstatus-failed-anchor
+content-length: 14
+
+Track Shipment
+----field----
+field: {67136F28-04DA-43CE-8BB9-DCE0899CAF5D}
+name: activationHub-orderStatus-received-text
+key: activationhub-orderstatus-received-text
+content-length: 15
+
+Order Delivered
+----field----
+field: {4E98D75B-1DA3-4CCB-9D8E-7D4520B7FF9E}
+name: activationHub-orderStatus-received-anchor
+key: activationhub-orderstatus-received-anchor
+content-length: 14
+
+Track Shipment
+----field----
+field: {47E32A54-9102-4894-BC8E-D303F29B7C1E}
+name: activationHub-orderStatus-canceled-text
+key: activationhub-orderstatus-canceled-text
+content-length: 8
+
+Canceled
+----field----
+field: {1946BE2B-3440-435F-8C17-F65AD06B1BBF}
+name: activationHub-orderStatus-canceled-anchor
+key: activationhub-orderstatus-canceled-anchor
+content-length: 14
+
+Track Shipment
+----field----
+field: {5290D770-E4F4-4E8D-B179-D663AE196446}
+name: activationHub-orderStatus-alreadydelivered-text
+key: activationhub-orderstatus-alreadydelivered-text
+content-length: 24
+
+Order already delivered?
+----field----
+field: {35BEBC25-A820-4112-87BE-2632454B01C4}
+name: activationHub-orderStatus-deliveryfailed-text
+key: activationhub-orderstatus-deliveryfailed-text
+content-length: 15
+
+Delivery Failed
+----field----
+field: {2ED112D9-73A9-4708-9AA4-6DCD5AFF1F64}
+name: activationHub-orderStatus-deliveryfailed-anchor
+key: activationhub-orderstatus-deliveryfailed-anchor
+content-length: 14
+
+Track Shipment
+----field----
+field: {685B6745-0EC4-4FCB-BF92-FDF27D0D5D76}
+name: activationHub-activationStatus-orderedIncomplete-content
+key: activationhub-activationstatus-orderedincomplete-content
+content-length: 45
+
+Transferring a number? Start the process now.
+----field----
+field: {613F4B30-EB90-41DD-B2E3-2DEA5115C058}
+name: activationHub-activationStatus-orderedIncomplete-cta
+key: activationhub-activationstatus-orderedincomplete-cta
+content-length: 22
+
+Enter Transfer Details
+----field----
+field: {E0B26BD7-228B-4167-9957-2988C757E9CE}
+name: activationHub-activationStatus-orderedComplete-content
+key: activationhub-activationstatus-orderedcomplete-content
+content-length: 45
+
+When your phone ships, you can track it here.
+----field----
+field: {80155452-3A72-45EE-904A-BD9C4A696790}
+name: activationHub-activationStatus-orderedComplete-cta
+key: activationhub-activationstatus-orderedcomplete-cta
+content-length: 13
+
+View Progress
+----field----
+field: {9194AF7C-6924-471A-8390-B10D46E52FD1}
+name: activationHub-activationStatus-delivered-content
+key: activationhub-activationstatus-delivered-content
+content-length: 55
+
+Your shiny, new phone has arrived. Let’s get it set up.
+----field----
+field: {1D68032F-F8DE-45FB-A84F-7DAE54196D6C}
+name: activationHub-activationStatus-delivered-cta
+key: activationhub-activationstatus-delivered-cta
+content-length: 14
+
+Activate Phone
+----field----
+field: {65572EAC-9AE3-48CD-8AF4-B72A4ED4F3CC}
+name: activationHub-activationStatus-inProgress-content
+key: activationhub-activationstatus-inprogress-content
+content-length: 25
+
+Your phone is activating.
+----field----
+field: {E663BAF3-6E28-46B6-8667-D2DBBF69D6E5}
+name: activationHub-activationStatus-inProgress-cta
+key: activationhub-activationstatus-inprogress-cta
+content-length: 13
+
+View Progress
+----field----
+field: {C38AF872-20A3-467E-A315-5AE8F907A15A}
+name: activationHub-activationStatus-portError-content
+key: activationhub-activationstatus-porterror-content
+content-length: 64
+
+Some of your account details entered for transfer are incorrect.
+----field----
+field: {A0957907-C988-46C0-B3F4-31267E2CF5AD}
+name: activationHub-activationStatus-portError-cta
+key: activationhub-activationstatus-porterror-cta
+content-length: 17
+
+Check Information
+----field----
+field: {13F25607-0AD7-426D-B3BB-4F1A97FD9F7F}
+name: activationHub-activationStatus-activationError-content
+key: activationhub-activationstatus-activationerror-content
+content-length: 79
+
+Uh oh. There's a problem activating this line, please call us at (215) 845-5845
+----field----
+field: {003270F5-8D71-4F13-A00B-BF69ABFECF5D}
+name: activationHub-activationStatus-activationComplete-content
+key: activationhub-activationstatus-activationcomplete-content
+content-length: 114
+
+Activation complete! Your phone is good to go. It's now time to turn it on. If it's already on, please restart it.
+----field----
+field: {B4C12591-9096-4C98-97BA-41FD5569E9E7}
+name: activationHub-activationStatus-activationComplete-cta
+key: activationhub-activationstatus-activationcomplete-cta
+content-length: 16
+
+Go to My Account
+----field----
+field: {3EB0654D-EEEE-406E-80CD-904E792C7DA8}
+name: activation-breadcrumbs-transfer
+key: activation-breadcrumbs-transfer
+content-length: 8
+
+Transfer
+----field----
+field: {6158FEFD-7B11-4CCE-94A2-D1E55D75697E}
+name: activation-breadcrumbs-powerOff
+key: activation-breadcrumbs-poweroff
+content-length: 9
+
+Power Off
+----field----
+field: {4E6A8B1F-437E-45E7-B000-12976639DB9C}
+name: activation-breadcrumbs-Activate
+key: activation-breadcrumbs-activate
+content-length: 8
+
+Activate
+----field----
+field: {1C1799EF-FCDF-413F-A558-0AC90E0CD2B1}
+name: activation-support-headline
+key: activation-support-headline
+content-length: 27
+
+Questions about activation?
+----field----
+field: {43F742C9-C7E7-4FF6-B551-0058D75F58F3}
+name: activation-support-content
+key: activation-support-content
+content-length: 105
+
+If you get stuck at any point, we're here to help. Chat live with an Expert or call us at (215) 845-5845.
+----field----
+field: {CE3F9EB3-A48C-47E2-8F8A-AEBCA6B3824A}
+name: activation-activationBanners-simple-content
+key: activation-activationbanners-simple-content
+content-length: 59
+
+Keep an eye on your phone delivery and activation progress.
+----field----
+field: {317B6B1E-A4A1-4812-8B2A-84B720857A5B}
+name: activation-activationBanners-simple-cta
+key: activation-activationbanners-simple-cta
+content-length: 15
+
+Activation Home
+----field----
+field: {99227F4D-645C-48B9-8BE5-45A1D5ED42F1}
+name: activation-steps-zero-headline
+key: activation-steps-zero-headline
+content-length: 21
+
+Ready. Set. Activate.
+----field----
+field: {32E3F690-2CCA-4691-ADD3-F694EF98762B}
+name: activation-steps-zero-bodyDesktop
+key: activation-steps-zero-bodydesktop
+content-length: 209
+
+Get your new phone up and running in just a few steps. Activation may take up to two hours while we get your number from your previous carrier. Don't worry, your old phone will work just fine during this time.
+----field----
+field: {86C48155-DD40-4298-AA89-84F40B41AE00}
+name: activation-steps-zero-bodyAll
+key: activation-steps-zero-bodyall
+content-length: 21
+
+Ready to get started?
+----field----
+field: {F52A626E-26C6-46DA-820A-BD9A56B34723}
+name: activation-steps-zero-cta
+key: activation-steps-zero-cta
+content-length: 8
+
+Let's Go
+----field----
+field: {0B09B7BF-0B9F-453C-8155-7979CBE5B428}
+name: activation-steps-zero-explainer
+key: activation-steps-zero-explainer
+content-length: 93
+
+Activation may take up to two hours, but your old phone will work just fine during this time.
+----field----
+field: {5418E6F6-6F18-4AF3-8155-3F5DE798DBD7}
+name: activation-steps-two-subhead
+key: activation-steps-two-subhead
+content-length: 32
+
+Make sure your new phone is off.
+----field----
+field: {A2DD5C9F-E842-44FD-B204-12959703BD84}
+name: activation-steps-two-subContent
+key: activation-steps-two-subcontent
+content-length: 102
+
+We know you're excited, but please make sure your new phone is off in order to get everything working.
+----field----
+field: {8DA80825-EBB7-47F7-9CB2-0B9D55C15B32}
+name: activation-steps-two-prompt
+key: activation-steps-two-prompt
+content-length: 20
+
+Yep, my phone is off
+----field----
+field: {9324A4B9-9219-443E-BD88-66BA9AEA23EF}
+name: activation-steps-two-cta
+key: activation-steps-two-cta
+content-length: 9
+
+Next step
+----field----
+field: {48EB05F7-4542-4BF9-B9C2-08F2B6570885}
+name: activation-steps-three-subheadPort
+key: activation-steps-three-subheadport
+content-length: 23
+
+Ready to switch phones?
+----field----
+field: {D4E4E4E3-83CD-4BB5-9B5F-4A2F9971B80C}
+name: activation-steps-three-subheadNew
+key: activation-steps-three-subheadnew
+content-length: 6
+
+Ready?
+----field----
+field: {E98D3143-D97E-47B6-BD7A-B8B2AB0C26EF}
+name: activation-steps-three-bodyDesktopPort
+key: activation-steps-three-bodydesktopport
+content-length: 214
+
+Click "Start Activation" and keep both your phones close. At some point within two hours, your service will quickly switch from your old phone to your new phone. We'll send you an email when the switch is complete.
+----field----
+field: {29089A92-D6BD-4EAB-9C37-E0CFCE8DC8A1}
+name: activation-steps-three-bodyMobilePort
+key: activation-steps-three-bodymobileport
+content-length: 112
+
+Within two hours, service will switch from your old phone to your new phone. We'll send an email when it's done.
+----field----
+field: {3BC5215A-28AF-4471-86A8-18EE0C74EEDD}
+name: activation-steps-three-bodyDesktopNew
+key: activation-steps-three-bodydesktopnew
+content-length: 180
+
+Click "Start Activation" and keep your phone close. At some point within two hours, your service will start on your new phone. We'll send you an email when the process is complete.
+----field----
+field: {DF6DCEB0-9A0B-4FB4-9F42-5CDB84EA720A}
+name: activation-steps-three-bodyMobileNew
+key: activation-steps-three-bodymobilenew
+content-length: 91
+
+Within two hours, service will start on your new phone. We'll send an email when it's done.
+----field----
+field: {5D2E48E5-3436-43EA-9BE1-EC3D5F1228DB}
+name: activation-steps-three-promptPort
+key: activation-steps-three-promptport
+content-length: 22
+
+Let's make the switch.
+----field----
+field: {938348B2-809B-4CD3-B1CA-79951B1B5202}
+name: activation-steps-three-promptNew
+key: activation-steps-three-promptnew
+content-length: 18
+
+Let's get started.
+----field----
+field: {B4B9CFD0-AA85-4C73-9800-F1718FDE89D2}
+name: activation-steps-three-cta
+key: activation-steps-three-cta
+content-length: 16
+
+Start Activation
+----field----
+field: {0A1EB664-C5DB-4603-A916-9F0FF52E029E}
+name: activation-steps-four-states-inProgress-subhead
+key: activation-steps-four-states-inprogress-subhead
+content-length: 39
+
+We've got it from here. Activating now.
+----field----
+field: {95EAC810-B97D-4FFD-A91A-AB17CEE79B03}
+name: activation-steps-four-states-inProgress-content
+key: activation-steps-four-states-inprogress-content
+content-length: 27
+
+Keep your phone turned off.
+----field----
+field: {7CDA828A-59AA-4FD5-B7EC-3E2210AF0709}
+name: activation-steps-four-states-complete-subhead
+key: activation-steps-four-states-complete-subhead
+content-length: 23
+
+Activation is complete.
+----field----
+field: {5D24D13D-3074-4061-9052-EBC0FBD6232B}
+name: activation-steps-four-states-complete-content
+key: activation-steps-four-states-complete-content
+content-length: 97
+
+Your new phone is good to go! It's now time to turn it on. If it's already on, please restart it.
+----field----
+field: {0EF746F5-EC7C-4328-8B37-D110E268CADC}
+name: activation-steps-four-states-complete-message
+key: activation-steps-four-states-complete-message
+content-length: 12
+
+What's next?
+----field----
+field: {57B618F2-C456-456C-95C7-C4CE3DCE4555}
+name: activation-steps-four-states-complete-messageBody
+key: activation-steps-four-states-complete-messagebody
+content-length: 65
+
+Turn on your new phone.<br>If it's already on, please restart it.
+----field----
+field: {E2807ABD-4B52-4A63-BCD8-4A272C8368B1}
+name: activation-steps-four-states-complete-messageBody2
+key: activation-steps-four-states-complete-messagebody2
+content-length: 28
+
+Enjoy mobile as it should be
+----field----
+field: {CCBA09F7-56EB-45AF-8050-34848E47B628}
+name: activation-steps-four-states-complete-cta
+key: activation-steps-four-states-complete-cta
+content-length: 16
+
+Go to My Account
+----field----
+field: {825D008A-7638-4CC0-9488-8841AF43B58C}
+name: activation-steps-four-states-errorUserFix-subhead
+key: activation-steps-four-states-erroruserfix-subhead
+content-length: 18
+
+Information error.
+----field----
+field: {31A7EC9B-15DF-4BCC-92BD-A68B22DB7831}
+name: activation-steps-four-states-errorUserFix-content
+key: activation-steps-four-states-erroruserfix-content
+content-length: 88
+
+It looks like there's a problem with the details you entered from your previous carrier.
+----field----
+field: {974A99F3-5715-4C24-B273-73EE101E2FE3}
+name: activation-steps-four-states-errorUserFix-cta
+key: activation-steps-four-states-erroruserfix-cta
+content-length: 9
+
+Fix Error
+----field----
+field: {38FA036A-2D68-4B92-8860-8C5C31E66548}
+name: activation-steps-four-states-errorCallUs-subhead
+key: activation-steps-four-states-errorcallus-subhead
+content-length: 14
+
+We hit a snag.
+----field----
+field: {421545CA-5A04-47BD-8882-36BF47AAAD3E}
+name: activation-steps-four-states-errorCallUs-messageBody
+key: activation-steps-four-states-errorcallus-messagebody
+content-length: 132
+
+It looks like there's a problem with this line. Please call us at <strong>(215) 845-5845</strong> and we'll get to the bottom of it.
+----field----
+field: {3A48A2C2-C0AC-4A69-84D3-31F17D0D4978}
+name: activation-steps-four-explainer-top
+key: activation-steps-four-explainer-top
+content-length: 56
+
+Activation can happen any time within a two-hour period.
+----field----
+field: {1A5335A4-F86F-4888-8CC5-0F0869243A52}
+name: activation-steps-four-explainer-bottom
+key: activation-steps-four-explainer-bottom
+content-length: 31
+
+Watch for a confirmation email.
+----field----
+field: {3BAC1C01-5B90-4773-8AC3-FC22B4108298}
+name: activation-steps-four-linePicker-header
+key: activation-steps-four-linepicker-header
+content-length: 23
+
+Activate another phone.
+----field----
+field: {6A6AF599-878F-4AE7-B8F1-B1C6C0EF5690}
+name: activation-steps-four-linePicker-cta
+key: activation-steps-four-linepicker-cta
+content-length: 23
+
+Back to activation home
+----field----
+field: {53B08B1C-852D-4B7A-80A2-D7DE5D88F370}
+name: activation-steps-four-game-header
+key: activation-steps-four-game-header
+content-length: 20
+
+While you're here...
+----field----
+field: {9FDF608F-EA5D-44C4-9D08-3B868AD128CB}
+name: activation-steps-four-game-cta
+key: activation-steps-four-game-cta
+content-length: 19
+
+Play Giggy's FunRun
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170403T184513Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8229b366-fffd-4a30-91e6-d3d8cba38489
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170829T162132Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

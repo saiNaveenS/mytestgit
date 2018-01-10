@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {2DFF4E14-3CE1-488A-BE16-1D1F52B8FB52}
+database: master
+path: /sitecore/content/Modesto/POC Components/Routes Components/Routes/Plan Landing
+parent: {EB376B15-FB4D-4BD0-B8B4-B2F792C34975}
+name: Plan Landing
+master: {00000000-0000-0000-0000-000000000000}
+template: {81E18057-ECE6-4D3E-B2A8-F1E5D2584A00}
+templatekey: Route
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: c0d73a52-ac4b-4ea1-b92b-942a8fd667ff
+
+----field----
+field: {B241FAF5-9AB4-4C68-95FC-1F44D988E47D}
+name: state
+key: state
+content-length: 12
+
+plan.landing
+----field----
+field: {39B8D10E-76C5-423C-9D6E-4C097F674535}
+name: anchors
+key: anchors
+content-length: 194
+
+{D282E197-289C-4F86-B384-22042347009A}|{F8062F03-3E88-4C2A-9C52-03737F3740AA}|{28D24764-7E9B-4C2C-99D6-6C448BDEF2ED}|{EED75C4D-810F-47EB-B8A0-B051ACF22CD9}|{9CD66079-1766-4311-9A70-72D0F17E6145}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170628T193808Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c0d73a52-ac4b-4ea1-b92b-942a8fd667ff
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T164652Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {18038C4B-1BAE-4F87-9FD4-DE506064D05C}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Landing Page Components/Network Modal Items/How does XFINITY Mobile save you money
+parent: {05DDA432-BFCC-44D7-9C2E-1DBA58E6CEA5}
+name: How does XFINITY Mobile save you money
+master: {00000000-0000-0000-0000-000000000000}
+template: {FC0775B8-58DE-4CE7-BBD5-D01D7A2AD825}
+templatekey: Landing Page Network Modal Item
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: b2cc7d48-8cfa-42d6-b436-cca44dce2e9f
+
+----field----
+field: {1864F363-2CEC-48B4-A880-482A931C28C5}
+name: header
+key: header
+content-length: 39
+
+How does XFINITY Mobile save you money?
+----field----
+field: {57051710-21BF-4986-BC1D-CE3150D89024}
+name: description
+key: description
+content-length: 150
+
+With access to 18 million XFINITY WiFi hotspots nationwide, you can use more WiFi and less 4G LTE data. That means you spend less on data every month.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170726T161450Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b2cc7d48-8cfa-42d6-b436-cca44dce2e9f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170920T154918Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

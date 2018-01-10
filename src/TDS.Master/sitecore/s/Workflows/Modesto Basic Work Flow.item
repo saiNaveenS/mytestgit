@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+database: master
+path: /sitecore/system/Workflows/Modesto Basic Work Flow
+parent: {05592656-56D7-4D85-AACF-30919EE494F9}
+name: Modesto Basic Work Flow
+master: {00000000-0000-0000-0000-000000000000}
+template: {1C0ACC50-37BE-4742-B43C-96A07A7410A5}
+templatekey: Workflow
+
+----field----
+field: {B5166B38-E4BF-4410-953C-2037F2BF6A56}
+name: Initial state
+key: initial state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1000
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 238
+
+ar|sitecore\Modesto Basic Author|pe|+item:read|+item:write|ar|sitecore\Modesto Basic Watcher|pe|+item:read|+item:write|ar|sitecore\Modesto Basic Approver|pe|+item:read|+item:write|ar|sitecore\Modesto Basic Admin|pe|+item:read|+item:write|
+----version----
+language: en
+version: 1
+revision: 1dea8b1b-d6fa-4a69-924b-9ea904e0be8a
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170117T160713Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1dea8b1b-d6fa-4a69-924b-9ea904e0be8a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170829T202836Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

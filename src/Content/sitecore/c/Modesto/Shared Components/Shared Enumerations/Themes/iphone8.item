@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {DFC4EB76-FBDF-465A-94C2-B38EC0E784A7}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Shared Enumerations/Themes/iphone8
+parent: {1D748064-0FC5-46CD-80C8-0CC4ECB7235D}
+name: iphone8
+master: {00000000-0000-0000-0000-000000000000}
+template: {714FC96E-CA23-4E63-BE7F-25A8F0DF0D5F}
+templatekey: Theme
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: f7b4081d-e3b7-4fa7-a56a-f9c18e44424c
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170925T212458Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f7b4081d-e3b7-4fa7-a56a-f9c18e44424c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170925T212505Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

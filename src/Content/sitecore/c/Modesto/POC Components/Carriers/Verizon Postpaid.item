@@ -1,0 +1,107 @@
+----item----
+version: 1
+id: {9A10DA46-3486-49C8-A77D-57EB07D5FC20}
+database: master
+path: /sitecore/content/Modesto/POC Components/Carriers/Verizon Postpaid
+parent: {D62D00E6-68C4-4311-ABE5-99FFDA1C6791}
+name: Verizon Postpaid
+master: {00000000-0000-0000-0000-000000000000}
+template: {7525ABC4-F972-4555-8AF3-B41FBFD46D35}
+templatekey: Carrier
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: c5a2dc09-9aea-4191-a8e5-016a947e4a64
+
+----field----
+field: {8C488FAA-FEDE-47E1-B35E-6DB34ECA17CE}
+name: carrier
+key: carrier
+content-length: 7
+
+Verizon
+----field----
+field: {ED7F3BDD-301A-4A38-93B8-BAD1599BA8ED}
+name: carrierCode
+key: carriercode
+content-length: 16
+
+Verizon POSTPAID
+----field----
+field: {4F181FD2-4911-4293-B425-A173F92C3D2C}
+name: account
+key: account
+content-length: 83
+
+The account number can be found on your most recent bill and usually ends in 00001.
+----field----
+field: {38511A20-1ED1-496E-88D4-F91DAC0598AF}
+name: pin
+key: pin
+content-length: 226
+
+The passcode is "call-in" passcode when you call customer service. It is usually the last 4 digits of your social security number (unless you specifically changed it to something else). Customer Service Number is 800-922-0204.
+----field----
+field: {4ABE785F-7E15-419F-A1A5-80D4B475FB3E}
+name: website
+key: website
+content-length: 30
+
+http://www.verizonwireless.com
+----field----
+field: {6DAEE62C-9D38-4E9F-A96A-0F3BED5A5493}
+name: support
+key: support
+content-length: 12
+
+800-922-0204
+----field----
+field: {D1ABF2D8-7F84-4459-96DE-34596842CBE1}
+name: notes
+key: notes
+content-length: 88
+
+Also, NEVER port the PRIMARY number first - always port your secondary number(s) FIRST!!
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170331T180616Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c5a2dc09-9aea-4191-a8e5-016a947e4a64
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T163842Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

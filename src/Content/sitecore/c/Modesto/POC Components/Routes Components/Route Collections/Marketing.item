@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {824C7094-B65F-4451-B9CC-45EA24EE00C7}
+database: master
+path: /sitecore/content/Modesto/POC Components/Routes Components/Route Collections/Marketing
+parent: {7F9BE507-75C1-48B5-8C5B-EDBD9F86C709}
+name: Marketing
+master: {00000000-0000-0000-0000-000000000000}
+template: {7026637F-34EB-4D50-B223-B88C63BAE6AF}
+templatekey: Routes Collection
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: ffddbf3b-9e1c-4820-b900-4c02fefcfc4e
+
+----field----
+field: {8AF6C29E-7539-44C1-BDE5-8EB3213893AD}
+name: name
+key: name
+content-length: 9
+
+Marketing
+----field----
+field: {79EF3A6A-0DD4-4BF0-BB30-224CE31914D8}
+name: routes
+key: routes
+content-length: 233
+
+{D3FA48E4-44A2-4C8F-BB00-63C6E8A71630}|{32B4BFD8-32A0-4E97-B0C6-80C8260C3F97}|{776861C1-D6B6-4AFE-97C1-158F83A9EEF7}|{2DFF4E14-3CE1-488A-BE16-1D1F52B8FB52}|{B10DB725-5D34-4CEC-A928-B11B05F8A4E4}|{BACF69F9-0261-492C-8F75-6E2774CB9FCA}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170628T193945Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ffddbf3b-9e1c-4820-b900-4c02fefcfc4e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T164615Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

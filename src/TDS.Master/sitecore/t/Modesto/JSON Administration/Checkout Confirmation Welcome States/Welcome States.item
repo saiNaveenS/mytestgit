@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {E9C7AE10-3392-4618-8D73-133912D98CDB}
+database: master
+path: /sitecore/templates/Modesto/JSON Administration/Checkout Confirmation Welcome States/Welcome States
+parent: {80A506EB-6088-4279-888E-228D98D55E8D}
+name: Welcome States
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+created: 20170403T151358Z
+
+----version----
+language: en
+version: 1
+revision: 531121c9-084d-4d8a-b01b-85d7385c2744
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170403T151358Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+531121c9-084d-4d8a-b01b-85d7385c2744
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171211T181133Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

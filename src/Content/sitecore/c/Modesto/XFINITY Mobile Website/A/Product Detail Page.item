@@ -1,0 +1,504 @@
+----item----
+version: 1
+id: {168C2426-C6DA-4748-BC4E-935255A5E7B2}
+database: master
+path: /sitecore/content/Modesto/XFINITY Mobile Website/A/Product Detail Page
+parent: {5542DC54-F879-4255-9E6B-F07F64831389}
+name: Product Detail Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {D4591E4C-13A7-49FA-BD4C-9438E06BD9BB}
+templatekey: Product Detail Page
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+25
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: f6395203-e9f7-44df-9239-6ab25040977f
+
+----field----
+field: {2CDA820C-9757-486C-9DB3-1B4E79A5EA02}
+name: carousel-header
+key: carousel-header
+content-length: 20
+
+Featured Accessories
+----field----
+field: {1DC8C61B-258E-497A-A88B-CB3451E83047}
+name: pdp-labelColor
+key: pdp-labelcolor
+content-length: 5
+
+COLOR
+----field----
+field: {B789236D-34A3-446E-A233-8275FC83133E}
+name: pdp-labelStorage
+key: pdp-labelstorage
+content-length: 7
+
+STORAGE
+----field----
+field: {80EA2260-887E-4FB9-B649-A6006A804C1D}
+name: pdp-labelPayment
+key: pdp-labelpayment
+content-length: 7
+
+PAYMENT
+----field----
+field: {3DD25C01-9809-40E0-99E8-6DFF270C321C}
+name: pdp-labelAvailability
+key: pdp-labelavailability
+content-length: 12
+
+AVAILABILITY
+----field----
+field: {DB29DDD7-E880-4F3D-80D9-0883368EB265}
+name: pdp-headingXMPP
+key: pdp-headingxmpp
+content-length: 30
+
+XFINITY MOBILE PROTECTION PLAN
+----field----
+field: {CB2EADDF-8DB2-45AD-947C-31732D6288E1}
+name: pdp-descriptionAPPLXMPP
+key: pdp-descriptionapplxmpp
+content-length: 215
+
+Every XFINITY Mobile device is covered under a manufacturer’s warranty. You can purchase additional protection that includes AppleCare Services, waived early-upgrade fees, and lost or stolen coverage for your phone.
+----field----
+field: {0161BFFC-EA0A-4454-AF8C-9415B82D597F}
+name: pdp-descriptionOtherXMPP
+key: pdp-descriptionotherxmpp
+content-length: 225
+
+Every XFINITY Mobile device is covered under a manufacturer’s warranty. You can purchase additional protection that includes waived early-upgrade fees, accidental-damage protection, and lost or stolen coverage for your phone.
+----field----
+field: {B37D0850-7037-4A69-B095-13483A91022E}
+name: pdp-descriptionXMPPMore
+key: pdp-descriptionxmppmore
+content-length: 10
+
+Learn More
+----field----
+field: {EC8FAC4C-13AF-4FB6-BC89-113D8CECFA29}
+name: pdp-xmppLegalSub
+key: pdp-xmpplegalsub
+content-length: 80
+
+XFINITY Mobile Protection Plan is currently unavailable to residents of New York
+----field----
+field: {5DA5A31E-E5FE-493B-A681-33396DE14AD2}
+name: pdp-buttonContinue
+key: pdp-buttoncontinue
+content-length: 8
+
+Continue
+----field----
+field: {33DADA57-1572-44B0-8102-0DC0E217DFFF}
+name: pdp-buttonOutOfStock
+key: pdp-buttonoutofstock
+content-length: 12
+
+Out of Stock
+----field----
+field: {F44DC97C-51C5-43DE-95E0-A4451ED666C3}
+name: pdp-iconTradeIn-src
+key: pdp-icontradein-src
+content-length: 27
+
+icons/bill-refund-black.svg
+----field----
+field: {4FA4F27D-8660-4158-A24E-7EB723BD1ED3}
+name: pdp-headingTradeIn
+key: pdp-headingtradein
+content-length: 23
+
+Trade in your old phone
+----field----
+field: {BE8A0D42-68D9-479E-B494-98EE35B4B9A0}
+name: pdp-descriptionTradeIn
+key: pdp-descriptiontradein
+content-length: 87
+
+You can get paid for your old phone! Learn more about trade-in eligibility and process.
+----field----
+field: {0B693F4E-5D1A-424E-9314-BAD32907555D}
+name: pdp-descriptionTradeInMore
+key: pdp-descriptiontradeinmore
+content-length: 10
+
+Learn More
+----field----
+field: {D7EE72EF-D335-46DF-A7DA-B0BF96177DD8}
+name: pdp-iconPayment
+key: pdp-iconpayment
+content-length: 0
+
+
+----field----
+field: {65A9EB59-7F03-42A8-8133-41CC8AD4A287}
+name: pdp-titleProductFeatures
+key: pdp-titleproductfeatures
+content-length: 12
+
+Key Features
+----field----
+field: {14CD7D41-5C2C-46F9-AB4B-633A29BD5029}
+name: pdp-modalProductPricing
+key: pdp-modalproductpricing
+content-length: 38
+
+{6A2C6121-342E-4C10-B016-24F26F078CF1}
+----field----
+field: {E82347B2-8FE9-4890-B474-2E4CC5B0A123}
+name: pdp-modalXMPP
+key: pdp-modalxmpp
+content-length: 38
+
+{918D570C-8829-4412-8F9D-0E72635AA6A0}
+----field----
+field: {5C3141CC-DDD6-4DEC-904F-D5B89FF92501}
+name: pdp-rivers
+key: pdp-rivers
+content-length: 77
+
+{EE5FE1E8-0AA6-4E3D-BBF4-C4AC510A1EB3}|{7BA59B69-D7E0-4921-8484-C3C7C55C31FA}
+----field----
+field: {654E0A88-C75D-42CC-9615-652F02FF5B06}
+name: pdp-showLess
+key: pdp-showless
+content-length: 9
+
+show less
+----field----
+field: {5A64D1A9-BFA0-4EAD-94FC-4E2975CE7C42}
+name: pdp-seeMore
+key: pdp-seemore
+content-length: 11
+
+...see more
+----field----
+field: {DAFE06FF-E5F6-4A26-AAC4-FAFAACDC9432}
+name: pdp-pricingPopover
+key: pdp-pricingpopover
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {08F42DEB-7541-4F42-BDE4-7CA1FE016A5E}
+name: pdp-disclaimers
+key: pdp-disclaimers
+content-length: 700
+
+Apple=%26trade%3B%20and%20Copyright%20%26copy%3B%20%5Byear%5D%20Apple%20Inc.%20All%20rights%20reserved.&LG=LG%20X%20power%26trade%3B%20and%20LG%20X%20charge%26trade%3B%20are%20trademarks%20of%20LG%20Electronics%2C%20Inc.&Samsung=%26copy%3B%5Byear%5D%20Samsung%20Electronics%20America%2C%20Inc.%20Samsung%2C%20Samsung%20Galaxy%2C%20Samsung%20Galaxy%20S%2C%20Super%20AM%20OLEO%2C%20Exynos%2C%20Samsung%20Pay%2C%20Samsung%20Smart%20Switch%2C%20Samsung%20Gear%20VR.%20Samsung%20Smart%20TV%20and%20Samsung%20Knox%20are%20all%20trademarks%20of%20Samsung%20Electronics%20Co.%2C%20Ltd.%20Use%20only%20in%20accordance%20with%20law.%20All%20trademarks%20are%20the%20property%20of%20their%20respective%20owners.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170718T203618Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f6395203-e9f7-44df-9239-6ab25040977f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170926T193313Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 7d40cc4a-bca6-4ed9-839a-fc402aac0c5e
+
+----field----
+field: {2CDA820C-9757-486C-9DB3-1B4E79A5EA02}
+name: carousel-header
+key: carousel-header
+content-length: 20
+
+Featured Accessories
+----field----
+field: {1DC8C61B-258E-497A-A88B-CB3451E83047}
+name: pdp-labelColor
+key: pdp-labelcolor
+content-length: 5
+
+COLOR
+----field----
+field: {B789236D-34A3-446E-A233-8275FC83133E}
+name: pdp-labelStorage
+key: pdp-labelstorage
+content-length: 7
+
+STORAGE
+----field----
+field: {80EA2260-887E-4FB9-B649-A6006A804C1D}
+name: pdp-labelPayment
+key: pdp-labelpayment
+content-length: 7
+
+PAYMENT
+----field----
+field: {3DD25C01-9809-40E0-99E8-6DFF270C321C}
+name: pdp-labelAvailability
+key: pdp-labelavailability
+content-length: 12
+
+AVAILABILITY
+----field----
+field: {DB29DDD7-E880-4F3D-80D9-0883368EB265}
+name: pdp-headingXMPP
+key: pdp-headingxmpp
+content-length: 30
+
+XFINITY MOBILE PROTECTION PLAN
+----field----
+field: {CB2EADDF-8DB2-45AD-947C-31732D6288E1}
+name: pdp-descriptionAPPLXMPP
+key: pdp-descriptionapplxmpp
+content-length: 215
+
+Every XFINITY Mobile device is covered under a manufacturer’s warranty. You can purchase additional protection that includes AppleCare Services, waived early-upgrade fees, and lost or stolen coverage for your phone.
+----field----
+field: {0161BFFC-EA0A-4454-AF8C-9415B82D597F}
+name: pdp-descriptionOtherXMPP
+key: pdp-descriptionotherxmpp
+content-length: 225
+
+Every XFINITY Mobile device is covered under a manufacturer’s warranty. You can purchase additional protection that includes waived early-upgrade fees, accidental-damage protection, and lost or stolen coverage for your phone.
+----field----
+field: {B37D0850-7037-4A69-B095-13483A91022E}
+name: pdp-descriptionXMPPMore
+key: pdp-descriptionxmppmore
+content-length: 10
+
+Learn More
+----field----
+field: {EC8FAC4C-13AF-4FB6-BC89-113D8CECFA29}
+name: pdp-xmppLegalSub
+key: pdp-xmpplegalsub
+content-length: 80
+
+XFINITY Mobile Protection Plan is currently unavailable to residents of New York
+----field----
+field: {5DA5A31E-E5FE-493B-A681-33396DE14AD2}
+name: pdp-buttonContinue
+key: pdp-buttoncontinue
+content-length: 8
+
+Continue
+----field----
+field: {33DADA57-1572-44B0-8102-0DC0E217DFFF}
+name: pdp-buttonOutOfStock
+key: pdp-buttonoutofstock
+content-length: 12
+
+Out of Stock
+----field----
+field: {F44DC97C-51C5-43DE-95E0-A4451ED666C3}
+name: pdp-iconTradeIn-src
+key: pdp-icontradein-src
+content-length: 27
+
+icons/bill-refund-black.svg
+----field----
+field: {4FA4F27D-8660-4158-A24E-7EB723BD1ED3}
+name: pdp-headingTradeIn
+key: pdp-headingtradein
+content-length: 23
+
+Trade in your old phone
+----field----
+field: {BE8A0D42-68D9-479E-B494-98EE35B4B9A0}
+name: pdp-descriptionTradeIn
+key: pdp-descriptiontradein
+content-length: 87
+
+You can get paid for your old phone! Learn more about trade-in eligibility and process.
+----field----
+field: {0B693F4E-5D1A-424E-9314-BAD32907555D}
+name: pdp-descriptionTradeInMore
+key: pdp-descriptiontradeinmore
+content-length: 10
+
+Learn More
+----field----
+field: {D7EE72EF-D335-46DF-A7DA-B0BF96177DD8}
+name: pdp-iconPayment
+key: pdp-iconpayment
+content-length: 0
+
+
+----field----
+field: {65A9EB59-7F03-42A8-8133-41CC8AD4A287}
+name: pdp-titleProductFeatures
+key: pdp-titleproductfeatures
+content-length: 12
+
+Key Features
+----field----
+field: {14CD7D41-5C2C-46F9-AB4B-633A29BD5029}
+name: pdp-modalProductPricing
+key: pdp-modalproductpricing
+content-length: 38
+
+{6A2C6121-342E-4C10-B016-24F26F078CF1}
+----field----
+field: {E82347B2-8FE9-4890-B474-2E4CC5B0A123}
+name: pdp-modalXMPP
+key: pdp-modalxmpp
+content-length: 38
+
+{918D570C-8829-4412-8F9D-0E72635AA6A0}
+----field----
+field: {5C3141CC-DDD6-4DEC-904F-D5B89FF92501}
+name: pdp-rivers
+key: pdp-rivers
+content-length: 116
+
+{EE5FE1E8-0AA6-4E3D-BBF4-C4AC510A1EB3}|{7BA59B69-D7E0-4921-8484-C3C7C55C31FA}|{8863C682-8CFD-42ED-B319-84CD1B7908E2}
+----field----
+field: {654E0A88-C75D-42CC-9615-652F02FF5B06}
+name: pdp-showLess
+key: pdp-showless
+content-length: 9
+
+show less
+----field----
+field: {5A64D1A9-BFA0-4EAD-94FC-4E2975CE7C42}
+name: pdp-seeMore
+key: pdp-seemore
+content-length: 11
+
+...see more
+----field----
+field: {DAFE06FF-E5F6-4A26-AAC4-FAFAACDC9432}
+name: pdp-pricingPopover
+key: pdp-pricingpopover
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {08F42DEB-7541-4F42-BDE4-7CA1FE016A5E}
+name: pdp-disclaimers
+key: pdp-disclaimers
+content-length: 686
+
+Apple=%E2%84%A2%20and%20Copyright%20%C2%A9%20%5Byear%5D%20Apple%20Inc.%20All%20rights%20reserved.&LG=LG%20X%20power%E2%84%A2%20and%20LG%20X%20charge%E2%84%A2%20are%20trademarks%20of%20LG%20Electronics%2C%20Inc.&Samsung=%C2%A9%5Byear%5D%20Samsung%20Electronics%20America%2C%20Inc.%20Samsung%2C%20Samsung%20Galaxy%2C%20Samsung%20Galaxy%20S%2C%20Super%20AM%20OLEO%2C%20Exynos%2C%20Samsung%20Pay%2C%20Samsung%20Smart%20Switch%2C%20Samsung%20Gear%20VR.%20Samsung%20Smart%20TV%20and%20Samsung%20Knox%20are%20all%20trademarks%20of%20Samsung%20Electronics%20Co.%2C%20Ltd.%20Use%20only%20in%20accordance%20with%20law.%20All%20trademarks%20are%20the%20property%20of%20their%20respective%20owners.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20171024T152230Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20171024T152230Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\tmaida200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7d40cc4a-bca6-4ed9-839a-fc402aac0c5e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20171024T152807Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\tmaida200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

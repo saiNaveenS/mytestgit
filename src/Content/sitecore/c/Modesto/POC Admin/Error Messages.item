@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {24CD5D2D-2F67-490A-9E58-8A5841BB7043}
+database: master
+path: /sitecore/content/Modesto/POC Admin/Error Messages
+parent: {A5793DC9-B64F-438D-8083-D583C856A62C}
+name: Error Messages
+master: {00000000-0000-0000-0000-000000000000}
+template: {C2394D80-4887-43F0-ABC4-F386ACB693C9}
+templatekey: Error Messages
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1400
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 76ac53ef-595f-4cf2-a1e5-1202e3745e7b
+
+----field----
+field: {87255EB7-BFCC-4E16-A0AD-0A9244AF44A4}
+name: Error Messages
+key: error messages
+content-length: 4207
+
+1000=Missing%20customer&1001=Missing%20service&1020=Missing%20feature&1023=Missing%20invoice%20number&1054=Missing%20serial%20number&1066=Missing%20the%20credit%20card%20payment%20record&1084=Missing%20the%20template&1093=Missing%20the%20profile&1514=Duplicate%20serial%20number&1529=Duplicate%20user%20id&2000=Conflict%20with%20two%20numbers%20active%20at%20same%20time&2004=Conflict%20with%20feature%20active%20ranges.&2501=Invalid%20payment%20method&2502=Invalid%20credit%20card%20number&2504=Invalid%20seperate%20pages%20flag&2505=Invalid%20carrier%20ID&2506=Invalid%20status%20code&2507=Invalid%20serial%20number&2509=Invalid%20long%20distance%20plan%20ID&2510=Invalid%20federal%20tax%20code&2511=Invalid%20state%20tax%20code&2512=Invalid%20local%20tax%20code&2518=Invalid%20service%20type&2519=Invalid%20payment%20type&2537=Invalid%20cusomer%20type&2538=Invalid%20customer%20status&2539=Invalid%20status%20reason%20combination&2540=Invalid%20group%20id&2541=Invalid%20corporate%20id&2542=Invalid%20credit%20class&2545=Invalid%20sales%20rep&2546=Invalid%20phone%20number%252fcarrier%20id%20combination%20%28phone%20not%20in%20inventory%29&2548=Invalid%20price%20plan&2549=Invalid%20company%20ID&2550=Invalid%20item%20ID&2552=Invalid%20Zip%20Code&2553=Invalid%20ESN&2563=Invalid%20collection%20status&2567=Invalid%20status&2568=Invalid%20invoice%20number&2569=Invalid%20customer%20number&2574=Invalid%20amount&2577=Invalid%20email%20address&2585=Invalid%20birth%20date&2592=Invalid%20Drivers%20License%20Number&2595=Invalid%20RMA%20Type&2599=Invalid%20Store%20ID&2602=Invalid%20SSN&2606=Invalid%20CV%20Number&2607=Invalid%20Merchant%20ID&2609=Invalid%20State&2610=Invalid%20Phone%20Number&2611=Invalid%20Plan%20Group%20ID&2614=Invalid%20CSA%20Name&2625=Invalid%20Profile%20Type&2645=Invalid%20Value&2651=Invalid%20ICCID&3000=Not%20null%20customer%20number&3001=Not%20null%20activation%20number&3002=Not%20null%20phone%20number&3003=Not%20null%20status%20code&3004=Not%20null%20effective%20date&3006=Not%20null%20serial%20number&3007=Not%20null%20long%20distance%20plan%20ID&3008=Not%20null%20long%20distance%20carrier%20ID&3022=Not%20null%20service%20type&3024=Not%20null%20federal%20tax%20code&3025=Not%20null%20state%20tax%20code&3026=Not%20null%20local%20tax%20code&3032=Not%20null%20reason&3040=Not%20null%20wholesale%20carrier%20id&3044=Not%20null%20invoice%20number&3054=Not%20null%20zip&3055=Not%20null%20city&3056=Not%20null%20state&3063=Not%20null%20address&3075=Not%20null%20corporate%20ID&3079=Not%20null%20email%20address&3082=Not%20null%20value&3098=Not%20done%20yet&3100=Not%20null%20card%20verification%20number&3101=Not%20null%20amount&3104=Not%20null%20merchant%20id.&3105=Not%20null%20plan%20group%20id&3111=Not%20Found&3117=Not%20Credit%20Card%20Capable&3539=Cannot%20have%20more%20than%20one&3554=Cannot%20modify%20record&3555=Cannot%20be%20zero&3566=Cannot%20continue%20to%20process&3569=Cannot%20find%20the%20geocode&3577=Cannot%20authorize%20the%20transaction&3596=Cannot%20perform%20action%20because%20of%20pending%20change%20form.&3597=Cannot%20perform%20action%20because%20of%20pending%20transaction.&3620=Cannot%20do%20the%20action%20specified%20because%20of%20a%20group%20setting.&3622=Cannot%20port%20number&3693=Cannot%20query%20record&4013=Needs%20to%20be%20in%20the%20acceptable%20date%20range.&4500=Too%20high&4501=Too%20low&4503=Too%20Long&9999=Internal%20DBMS%20error.%20%2ASystem%20Error.%20Error%20retrieving%20the%20required%20information%20due%20to%20internal%20system%20error%20%28db%20connection%20loss%252fresources%20not%20available%29&8A=Account%20Number%20Required%20or%20Incorrect&8B=SSN%252fTax%20ID%20Required%20or%20Incorrect&8C=Password%252fPIN%20Required%20or%20Incorrect&8D=Zip%20Code%20Required%20or%20Incorrect&8E=First%20Name%20Required%20or%20Incorrect&401.api=Looks%20like%20we%20got%20disconnected.%20Please%20enter%20XFINITY%20Mobile%20login%20information%20again.%20If%20this%20issue%20continues%20for%2024%20hours%20please%20contact%20us.&401.buy-flow=Looks%20like%20we%20got%20disconnected.%20Please%20enter%20your%20XFINITY%20account%20login%20information%20again.%20If%20this%20issue%20continues%20for%2024%20hours%20please%20contact%20us.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170331T191525Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+76ac53ef-595f-4cf2-a1e5-1202e3745e7b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170911T192556Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

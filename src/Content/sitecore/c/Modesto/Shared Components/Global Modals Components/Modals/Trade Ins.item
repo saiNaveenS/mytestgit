@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {56EE593E-A73B-4A06-AC38-8F339BCEEF15}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Global Modals Components/Modals/Trade Ins
+parent: {0143DF1D-0E20-453F-8AC3-D34F82B05323}
+name: Trade Ins
+master: {00000000-0000-0000-0000-000000000000}
+template: {0AA1DB6C-7C7B-4F3B-8B5E-B28C1D98D3C0}
+templatekey: Trade Ins Modal
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 767227b1-4aab-480d-a8b3-2e9546182680
+
+----field----
+field: {92E36037-1E1D-49F3-9C92-38E54C9542B1}
+name: title
+key: title
+content-length: 19
+
+Trade In Your Phone
+----field----
+field: {D15E562B-9E84-4051-B3A5-7B26C6912660}
+name: description
+key: description
+content-length: 141
+
+You can get paid for your old phone! XFINITY Mobile has partnered with Assurant to accept trade-ins for eligible phones. Here’s how it works:
+----field----
+field: {C5023193-BF37-4826-9BEE-C071BE7C080D}
+name: footNotes
+key: footnotes
+content-length: 108
+
+1=Learn%20more&2=about%20phone%20eligibility%2C%20condition%20standards%2C%20and%20the%20trade-in%20process.
+----field----
+field: {32652E79-E879-4D2B-8AB3-0D20B8B57AB0}
+name: section
+key: section
+content-length: 116
+
+{FB0E8081-6D62-4AD5-889D-745571A0A3D8}|{EC7E960D-0DE9-4172-9A17-065F4BB2F349}|{F25400E3-6E1A-4FB8-B23D-369D8CC0447B}
+----field----
+field: {D3445D58-F9B9-4F1A-85F3-5EC031F681F5}
+name: button
+key: button
+content-length: 77
+
+{4616E649-CE7F-4165-9DB3-6D3CFB5388DA}|{8B42A9FD-00C0-435F-9A02-33BB35F21835}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170925T174823Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+767227b1-4aab-480d-a8b3-2e9546182680
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170925T174933Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

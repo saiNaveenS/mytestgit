@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {6DDFB0AB-1AE3-4858-BCAC-A05EF4DB0A8B}
+database: master
+path: /sitecore/content/Modesto/POC Components/Analytics Components/Forms/Checkout Payment Form
+parent: {14976B92-68B0-4CFC-992D-A4A3A60F4658}
+name: Checkout Payment Form
+master: {00000000-0000-0000-0000-000000000000}
+template: {23F12D25-A4FA-4A38-B8D4-6D6CF3A0E40D}
+templatekey: Form
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 1c428386-944e-4253-b05d-a99784a8de82
+
+----field----
+field: {4AC91974-708E-4050-97C4-A61E6030E29A}
+name: eventName
+key: eventname
+content-length: 19
+
+CheckoutPaymentForm
+----field----
+field: {2D5A0E24-B33D-48C2-8B16-DE4060EDCF17}
+name: hookName
+key: hookname
+content-length: 15
+
+paymentFormHook
+----field----
+field: {F8770350-7683-47B4-A438-BA94E0C7C915}
+name: page
+key: page
+content-length: 25
+
+Buy Flow|Checkout|Payment
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170403T201858Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1c428386-944e-4253-b05d-a99784a8de82
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T163252Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

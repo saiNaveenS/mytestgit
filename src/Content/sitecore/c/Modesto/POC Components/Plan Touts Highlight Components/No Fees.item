@@ -1,0 +1,100 @@
+----item----
+version: 1
+id: {7CF1386E-15E5-43E0-A170-B6CE7030A62B}
+database: master
+path: /sitecore/content/Modesto/POC Components/Plan Touts Highlight Components/No Fees
+parent: {42148CBE-929C-43E7-A561-C1C9549098C5}
+name: No Fees
+master: {00000000-0000-0000-0000-000000000000}
+template: {DFC2466D-D506-426B-8AE5-2BEA5FA4FCE7}
+templatekey: Highlights Component
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: ce307b3d-ab29-42c6-baca-428f2e36535c
+
+----field----
+field: {769C3F88-FF7C-47DA-B82B-97897D07F417}
+name: id
+key: id
+content-length: 4
+
+fees
+----field----
+field: {EEF87D65-2A94-4A8E-9018-0B88A214DFDB}
+name: icon
+key: icon
+content-length: 26
+
+product-detail/no-fees.svg
+----field----
+field: {54F4A177-C2EC-4CED-82D1-35F244668DA0}
+name: headline
+key: headline
+content-length: 43
+
+Included with your XFINITY Internet service
+----field----
+field: {5AC47C44-599A-4232-BE41-EAF12816614D}
+name: description
+key: description
+content-length: 81
+
+Get unlimited nationwide talk and text, plus no line access fees on up to 5 lines
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170330T133605Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ce307b3d-ab29-42c6-baca-428f2e36535c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T164542Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

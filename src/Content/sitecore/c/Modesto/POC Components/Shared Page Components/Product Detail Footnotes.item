@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {99BCE00E-C2F5-474C-ACBC-38FC10FFA464}
+database: master
+path: /sitecore/content/Modesto/POC Components/Shared Page Components/Product Detail Footnotes
+parent: {7DDDBCB1-CF40-4DC4-B37E-278DB4C23DD8}
+name: Product Detail Footnotes
+master: {00000000-0000-0000-0000-000000000000}
+template: {39CD990A-D0BF-407D-AACD-1F81D8482002}
+templatekey: Footnotes Component
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: c98b10ab-b3b7-4329-95fc-0e682e1a353b
+
+----field----
+field: {E49AD155-5D71-4440-A936-EABDDA0A06EC}
+name: content
+key: content
+content-length: 350
+
+{002DA21D-DF9A-49B9-8149-4F0111DB4F77}|{452F597A-6307-4E3D-8BC9-1D53E637C379}|{679E8033-DF18-4010-8178-8A755094C036}|{9CD08333-0660-4C6F-A308-B20FCA7666F0}|{C4A172B7-4EC9-40D9-B0C0-459432C4DCF1}|{B391F689-E2B1-4C0B-B76C-FA580602E926}|{A45C4A02-DB92-4E52-996A-FC9936DFCE39}|{1B9E58D4-FE1E-4D8E-B8A7-25D142EB9777}|{362043F9-DB0E-4608-953C-E07AC7FD131C}
+----field----
+field: {CF8469B8-E16C-4E23-AA00-20DFE06DABD1}
+name: id
+key: id
+content-length: 16
+
+modestoFootnotes
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170330T142004Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c98b10ab-b3b7-4329-95fc-0e682e1a353b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170719T164517Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

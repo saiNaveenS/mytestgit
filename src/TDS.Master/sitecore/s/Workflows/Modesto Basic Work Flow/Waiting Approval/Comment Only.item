@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {2CF6A190-47CE-46BD-A77F-3D37D3AB197E}
+database: master
+path: /sitecore/system/Workflows/Modesto Basic Work Flow/Waiting Approval/Comment Only
+parent: {B7B6F1F6-2CE9-4443-9AC9-C95987004934}
+name: Comment Only
+master: {00000000-0000-0000-0000-000000000000}
+template: {CB01F9FC-C187-46B3-AB0B-97A8468D8303}
+templatekey: Command
+
+----field----
+field: {DCBEBC58-6124-4100-A248-FC717D6C78D5}
+name: Next state
+key: next state
+content-length: 38
+
+{99A1F0D5-2ED6-46AF-8485-03ED519B1991}
+----field----
+field: {82A7C02F-9A55-4BFE-B494-D1713D4BE9FF}
+name: Suppress Comment
+key: suppress comment
+content-length: 0
+
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 54
+
+http://cms.modesto/temp/iconcache/office/32x32/eye.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 85
+
+ar|sitecore\Modesto Basic Watcher|pe|+workflowCommand:execute|+item:write|+item:read|
+----version----
+language: en
+version: 1
+revision: 129d7378-62e1-4d45-941b-51f11c6eb53e
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170117T161025Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+129d7378-62e1-4d45-941b-51f11c6eb53e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170717T181844Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {99B684D4-BDA1-44F1-A24F-902B90532436}
+database: master
+path: /sitecore/content/Modesto/Shared Components/Product Page Components/Modals/Trade-in Modal
+parent: {27C1514E-9CF2-428B-A425-2AA65EDBAFA7}
+name: Trade-in Modal
+master: {00000000-0000-0000-0000-000000000000}
+template: {58C8C6C6-FF24-4EFD-BB87-3E8D6FE03551}
+templatekey: Product Page Modal
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: b5db2a07-b1b0-4280-b2dc-52a7d0a9c23a
+
+----field----
+field: {E4E7EB87-AE9D-4054-B321-1E02C94C4A91}
+name: title
+key: title
+content-length: 19
+
+Trade In Your Phone
+----field----
+field: {12FAA8A5-9E0A-4BA3-8C82-F5CDF6F6299C}
+name: description
+key: description
+content-length: 201
+
+1=You%20can%20get%20paid%20for%20your%20old%20phone%21%20XFINITY%20Mobile%20has%20partnered%20with%20Assurant%20to%20accept%20trade-ins%20for%20eligible%20phones.%20Here%E2%80%99s%20how%20it%20works%3A
+----field----
+field: {1DD725AE-8828-476C-82B1-4EC0FCCE5298}
+name: sections
+key: sections
+content-length: 116
+
+{C0A38DA6-A5A9-467B-8D18-B122D562F660}|{D5F000AA-789C-478B-BBF2-81421880819E}|{CB9B498B-264B-443E-8ED6-A36513ADD3BE}
+----field----
+field: {4C423065-FF0A-42A2-ADCA-719E1721F55B}
+name: buttons
+key: buttons
+content-length: 77
+
+{52B979D5-093C-4951-B0C8-9CBB514813DE}|{6D181C31-6236-4ED0-9BAB-1B4E0242FF84}
+----field----
+field: {3C05BB39-2691-4FAB-B14D-7A9490FD4ABA}
+name: footNotes
+key: footnotes
+content-length: 108
+
+1=Learn%20more&2=about%20phone%20eligibility%2C%20condition%20standards%2C%20and%20the%20trade-in%20process.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170801T160744Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b5db2a07-b1b0-4280-b2dc-52a7d0a9c23a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170801T164003Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

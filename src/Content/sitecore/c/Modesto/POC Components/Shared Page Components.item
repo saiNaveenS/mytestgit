@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {7DDDBCB1-CF40-4DC4-B37E-278DB4C23DD8}
+database: master
+path: /sitecore/content/Modesto/POC Components/Shared Page Components
+parent: {0676C820-30A9-4B9F-9C4F-C2F99EACE797}
+name: Shared Page Components
+master: {00000000-0000-0000-0000-000000000000}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+350
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 506
+
+{8E0BB8D8-A763-451C-A807-0FC7D7BB142C}|{EA1A780B-900F-4F7D-8CA4-075FF68850C8}|{F4D21990-35E1-49EE-8A5A-4854AEB1789F}|{402164E8-80A8-48A8-99AB-54F1F17C1F35}|{DF866B32-6601-45B3-A66A-16F621941613}|{6A3AA58E-A51A-495C-9AC0-E25BE46B7819}|{05A1597B-1F09-4FE5-B838-66C8F488B6CA}|{F20532B2-1F32-4791-BEF7-5666BF19CA4B}|{96BEAB1B-C537-4432-BB22-F9FC0FB051E5}|{145B2707-427D-4453-80DA-088681BC96E0}|{39CD990A-D0BF-407D-AACD-1F81D8482002}|{52F4962B-2798-4897-B486-82A62358D5B3}|{FF3A679B-AE33-4841-965C-4D040C1FAAAA}
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 252
+
+ar|sitecore\Modesto Basic Watcher|pe|-item:create|-item:delete|-item:rename|pd|+item:write|+item:read|-item:rename|ar|sitecore\Modesto Basic Author|pe|+item:create|-item:write|+item:read|pd|+item:rename|+item:write|+item:read|+item:delete|+item:create|
+----version----
+language: en
+version: 1
+revision: c9df69ce-ca5c-47e5-8dd7-4bf9ab2865cb
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170328T152346Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c9df69ce-ca5c-47e5-8dd7-4bf9ab2865cb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170915T175635Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

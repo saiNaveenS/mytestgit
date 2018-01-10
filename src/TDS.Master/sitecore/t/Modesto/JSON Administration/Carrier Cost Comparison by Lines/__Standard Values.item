@@ -1,0 +1,415 @@
+----item----
+version: 1
+id: {C9AC5F78-8E3E-4551-842E-1931F5C73587}
+database: master
+path: /sitecore/templates/Modesto/JSON Administration/Carrier Cost Comparison by Lines/__Standard Values
+parent: {1E0F1424-1305-4CCF-8AB4-1B40D3B5B8CE}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {1E0F1424-1305-4CCF-8AB4-1B40D3B5B8CE}
+templatekey: Carrier Cost Comparison by Lines
+
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: a5459785-6417-41e9-aaa4-f92fd35f0a28
+
+----field----
+field: {DB34A58D-5291-45C0-81E2-F3A918356F0A}
+name: lines-1-gigabytes-1
+key: lines-1-gigabytes-1
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {8DB9232D-6A9F-4A85-8688-3D7D1FCF3B0F}
+name: lines-1-gigabytes-2
+key: lines-1-gigabytes-2
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {E04937D7-166C-4167-8240-5D521C8D2A7B}
+name: lines-1-gigabytes-3
+key: lines-1-gigabytes-3
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {74C7CB99-3234-47B1-8A8C-8D96457B66CC}
+name: lines-1-gigabytes-4
+key: lines-1-gigabytes-4
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {26D3F6A5-8891-459F-A382-CE1E6C178A97}
+name: lines-1-gigabytes-5
+key: lines-1-gigabytes-5
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {EDF15D42-7351-4604-B05C-0446593FB158}
+name: lines-1-gigabytes-6
+key: lines-1-gigabytes-6
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {56932AEE-59F2-4C8C-A922-44AB3C791C3D}
+name: lines-1-gigabytes-7
+key: lines-1-gigabytes-7
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {41E9B0FC-75FB-4745-82B8-A5C0E8C28A1C}
+name: lines-1-gigabytes-8
+key: lines-1-gigabytes-8
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {C173B347-D3EE-4BEB-BDDF-94431B28E942}
+name: lines-1-gigabytes-9
+key: lines-1-gigabytes-9
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {CD44A3B3-5C4F-4360-9B13-6EC131C5E787}
+name: lines-1-gigabytes-10
+key: lines-1-gigabytes-10
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {B4A03259-FC7E-4BF8-AC50-331CC85438E3}
+name: lines-2-gigabytes-1
+key: lines-2-gigabytes-1
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {78A672BC-91CB-4893-82F2-412B336EFB0A}
+name: lines-2-gigabytes-2
+key: lines-2-gigabytes-2
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {B907C592-7E88-4648-BE61-9AD973D1E0DC}
+name: lines-2-gigabytes-3
+key: lines-2-gigabytes-3
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {CAA4DD99-D3D5-4199-B429-C9CBE0000CA4}
+name: lines-2-gigabytes-4
+key: lines-2-gigabytes-4
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {B1A81084-242F-44B1-878B-A55466B71B2A}
+name: lines-2-gigabytes-5
+key: lines-2-gigabytes-5
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {6A43E239-8876-4C6E-ABE1-E2E5A12D630B}
+name: lines-2-gigabytes-6
+key: lines-2-gigabytes-6
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {AC7C2DBC-31E0-498C-8F95-40973E16FE98}
+name: lines-2-gigabytes-7
+key: lines-2-gigabytes-7
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {32B440A5-2191-429F-A152-FA47A5624BE7}
+name: lines-2-gigabytes-8
+key: lines-2-gigabytes-8
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {6731CB22-07FA-45E3-9843-3D6EEA38EAA3}
+name: lines-2-gigabytes-9
+key: lines-2-gigabytes-9
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {622F8072-994F-44AB-90E1-44242886FF01}
+name: lines-2-gigabytes-10
+key: lines-2-gigabytes-10
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {31C74055-FB16-4387-B1F8-184B1332B849}
+name: lines-3-gigabytes-1
+key: lines-3-gigabytes-1
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {1304D77F-7F09-405C-9DF6-37D4B3748FB7}
+name: lines-3-gigabytes-2
+key: lines-3-gigabytes-2
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {4E52209C-3793-42E0-B1DE-3BAD04E10CE9}
+name: lines-3-gigabytes-3
+key: lines-3-gigabytes-3
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {8FC570F9-BBFD-4D7D-A4CC-07233847DFAD}
+name: lines-3-gigabytes-4
+key: lines-3-gigabytes-4
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {11E846D5-AB99-4420-B254-E28125EA5826}
+name: lines-3-gigabytes-5
+key: lines-3-gigabytes-5
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {5FC95029-115B-40E6-95C7-785193615403}
+name: lines-3-gigabytes-6
+key: lines-3-gigabytes-6
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {3CE7B6D5-7107-4DE5-83F7-7708D4F6A88A}
+name: lines-3-gigabytes-7
+key: lines-3-gigabytes-7
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {B5D6CA51-1FB7-4CF8-88C9-4D51E390C4F2}
+name: lines-3-gigabytes-8
+key: lines-3-gigabytes-8
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {4A1C590C-4649-4D21-957F-D30F6B25BF04}
+name: lines-3-gigabytes-9
+key: lines-3-gigabytes-9
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {B0FF43C7-E324-4749-8CBE-3A13BE908755}
+name: lines-3-gigabytes-10
+key: lines-3-gigabytes-10
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {9745CE46-0A45-43E6-B18B-FDB2CE07ACA0}
+name: lines-4-gigabytes-1
+key: lines-4-gigabytes-1
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {8F7CAA37-6937-4763-8C1F-3726D3D71D8C}
+name: lines-4-gigabytes-2
+key: lines-4-gigabytes-2
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {8F303CA7-0FD2-478D-AA0C-240D85F35731}
+name: lines-4-gigabytes-3
+key: lines-4-gigabytes-3
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {A023F757-F2ED-4D34-BEEB-7E193CBEDF84}
+name: lines-4-gigabytes-4
+key: lines-4-gigabytes-4
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {56DC88C1-F992-4834-9A07-611C5AE74970}
+name: lines-4-gigabytes-5
+key: lines-4-gigabytes-5
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {8357FB78-AFFF-4199-A278-CF9CCFDFCA9C}
+name: lines-4-gigabytes-6
+key: lines-4-gigabytes-6
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {078E233D-CDAF-4149-BD97-4E8F21AFC627}
+name: lines-4-gigabytes-7
+key: lines-4-gigabytes-7
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {D1743507-BB13-4969-A00C-3E57922EFD6F}
+name: lines-4-gigabytes-8
+key: lines-4-gigabytes-8
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {D1B5CEF1-E737-4B8D-B8ED-14A821D0CE6F}
+name: lines-4-gigabytes-9
+key: lines-4-gigabytes-9
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {A8892742-4DAA-451E-9BE4-BFBFB5EC0D96}
+name: lines-4-gigabytes-10
+key: lines-4-gigabytes-10
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {227A53AF-69D7-4185-8E85-1CAE076F8AFB}
+name: lines-5-gigabytes-1
+key: lines-5-gigabytes-1
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {577881A1-1EB8-406B-86BA-D7F0AD54C586}
+name: lines-5-gigabytes-2
+key: lines-5-gigabytes-2
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {D9480342-148C-4FC2-97E9-872EA16A2BB8}
+name: lines-5-gigabytes-3
+key: lines-5-gigabytes-3
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {48B8DE27-1EB0-4CE3-8086-5C636179FC1A}
+name: lines-5-gigabytes-4
+key: lines-5-gigabytes-4
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {DA5F2C8B-9C71-475A-A07B-601366168030}
+name: lines-5-gigabytes-5
+key: lines-5-gigabytes-5
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {80751410-60DB-473B-9973-283E7C151E8A}
+name: lines-5-gigabytes-6
+key: lines-5-gigabytes-6
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {DF474463-552E-4D3C-BEF1-A6349FE0C4F3}
+name: lines-5-gigabytes-7
+key: lines-5-gigabytes-7
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {1F0D0F8A-7A74-4BBC-B905-EE50270AD052}
+name: lines-5-gigabytes-8
+key: lines-5-gigabytes-8
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {3082B55E-3DBE-4099-AA39-5240294CA739}
+name: lines-5-gigabytes-9
+key: lines-5-gigabytes-9
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {BBFF94AD-219A-4D6F-81C0-1D3B13118DEA}
+name: lines-5-gigabytes-10
+key: lines-5-gigabytes-10
+content-length: 44
+
+xfinity=0&att=0&verizon=0&tmobile=0&sprint=0
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170330T174804Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a5459785-6417-41e9-aaa4-f92fd35f0a28
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170717T174835Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
