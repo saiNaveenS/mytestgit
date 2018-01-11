@@ -436,6 +436,9 @@
       <ItemDeployment>DeployOnce</ItemDeployment>
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
     </SitecoreItem>
+    <SitecoreItem Include="sitecore\c\Modesto\XFINITY Mobile Website\A\Global Modals.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
     <SitecoreItem Include="sitecore\c\Modesto\XFINITY Mobile Website\A\Landing Page.item">
       <ItemDeployment>DeployOnce</ItemDeployment>
     </SitecoreItem>
