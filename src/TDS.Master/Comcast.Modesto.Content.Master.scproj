@@ -429,6 +429,9 @@
       <ItemDeployment>DeployOnce</ItemDeployment>
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
     </SitecoreItem>
+    <SitecoreItem Include="sitecore\c\Modesto\XFINITY Mobile Website\A\Customizer.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
+    </SitecoreItem>
     <SitecoreItem Include="sitecore\c\Modesto\XFINITY Mobile Website\A\Error Information.item">
       <ItemDeployment>DeployOnce</ItemDeployment>
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
@@ -439,6 +442,9 @@
     <SitecoreItem Include="sitecore\c\Modesto\XFINITY Mobile Website\A\MySettings.item">
       <ItemDeployment>DeployOnce</ItemDeployment>
       <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
+    </SitecoreItem>
+    <SitecoreItem Include="sitecore\c\Modesto\XFINITY Mobile Website\A\Plan Features.item">
+      <ItemDeployment>DeployOnce</ItemDeployment>
     </SitecoreItem>
     <SitecoreItem Include="sitecore\c\Modesto\XFINITY Mobile Website\A\Plan Page.item">
       <ItemDeployment>DeployOnce</ItemDeployment>
